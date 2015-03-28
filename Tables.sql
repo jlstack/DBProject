@@ -1,4 +1,4 @@
-DROP TABLE IF EXISTS university, department, professor, course, section, resource;
+DROP TABLE IF EXISTS resource, section, course, professor, department, university;
 
 CREATE TABLE university(
   ID INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
@@ -46,10 +46,10 @@ CREATE TABLE section(
 
 CREATE TABLE resource(
 
-  ID int NOT NULL PRIMARY KEY ,
-  Description CLOB(1K),
-  Path CLOB(1K) NOT NULL,
+  ID INT NOT NULL PRIMARY KEY ,
+  Description BLOB,
+  Path BLOB NOT NULL,
   Upload_Date DATE NOT NULL,
-  S_ID int NOT NULL,
+  S_ID INT NOT NULL,
   FOREIGN KEY (S_ID) REFERENCES section(ID)
 );
