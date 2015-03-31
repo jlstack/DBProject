@@ -1,279 +1,279 @@
 INSERT INTO department (Name, U_ID)
-VALUES ('Accounting', 1);
+VALUES ("Accounting", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Anthropology', 1);
+VALUES ("Anthropology", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Appalachian Studies', 1);
+VALUES ("Appalachian Studies", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Apparel Design & Merchandising', 1);
+VALUES ("Apparel Design & Merchandising", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Applied Music', 1);
+VALUES ("Applied Music", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Arabic', 1);
+VALUES ("Arabic", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Art', 1);
+VALUES ("Art", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Astronomy', 1);
+VALUES ("Astronomy", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Athletic Training', 1);
+VALUES ("Athletic Training", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Biology', 1);
+VALUES ("Biology", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Business', 1);
+VALUES ("Business", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Business Education', 1);
+VALUES ("Business Education", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Chemistry', 1);
+VALUES ("Chemistry", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Chinese', 1);
+VALUES ("Chinese", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Commercial Photography', 1);
+VALUES ("Commercial Photography", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Communication', 1);
+VALUES ("Communication", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Communication Sci & Disorders', 1);
+VALUES ("Communication Sci & Disorders", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Computer Information Systems', 1);
+VALUES ("Computer Information Systems", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Computer Science', 1);
+VALUES ("Computer Science", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Criminal Justice', 1);
+VALUES ("Criminal Justice", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Curriculum and Instruction', 1);
+VALUES ("Curriculum and Instruction", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Dance', 1);
+VALUES ("Dance", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Economics', 1);
+VALUES ("Economics", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Educational Foundations', 1);
+VALUES ("Educational Foundations", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Educational Leadership', 1);
+VALUES ("Educational Leadership", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('English', 1);
+VALUES ("English", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Entrepreneurship', 1);
+VALUES ("Entrepreneurship", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Environmental Science', 1);
+VALUES ("Environmental Science", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Exercise Science', 1);
+VALUES ("Exercise Science", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Family and Consumer Sciences', 1);
+VALUES ("Family and Consumer Sciences", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Fermentation Sciences', 1);
+VALUES ("Fermentation Sciences", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Finance, Banking and Insurance', 1);
+VALUES ("Finance, Banking and Insurance", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('French', 1);
+VALUES ("French", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Gender, Women's & Sexuality St', 1);
+VALUES ("Gender, Women's & Sexuality St", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('General Science', 1);
+VALUES ("General Science", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Geography', 1);
+VALUES ("Geography", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Geology', 1);
+VALUES ("Geology", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('German', 1);
+VALUES ("German", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Global Studies', 1);
+VALUES ("Global Studies", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Graphic Arts and Imaging Tech', 1);
+VALUES ("Graphic Arts and Imaging Tech", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Health Care Management', 1);
+VALUES ("Health Care Management", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Health Education', 1);
+VALUES ("Health Education", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Health Promotion', 1);
+VALUES ("Health Promotion", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Health and Physicial Education', 1);
+VALUES ("Health and Physicial Education", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Higher Education', 1);
+VALUES ("Higher Education", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('History', 1);
+VALUES ("History", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Honors', 1);
+VALUES ("Honors", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Hospitality Management', 1);
+VALUES ("Hospitality Management", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Human Devel and Psych Counsel', 1);
+VALUES ("Human Devel and Psych Counsel", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Industrial Design', 1);
+VALUES ("Industrial Design", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Instructional Tech/Computers', 1);
+VALUES ("Instructional Tech/Computers", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Interdisciplinary Studies', 1);
+VALUES ("Interdisciplinary Studies", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Interior Design', 1);
+VALUES ("Interior Design", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Japanese', 1);
+VALUES ("Japanese", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Languages, Literature, Culture', 1);
+VALUES ("Languages, Literature, Culture", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Law', 1);
+VALUES ("Law", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Leadership in School Admin', 1);
+VALUES ("Leadership in School Admin", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Library Science', 1);
+VALUES ("Library Science", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Management', 1);
+VALUES ("Management", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Marketing', 1);
+VALUES ("Marketing", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Master of Business Administrat', 1);
+VALUES ("Master of Business Administrat", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Mathematics', 1);
+VALUES ("Mathematics", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Military Sci and Leadership', 1);
+VALUES ("Military Sci and Leadership", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Music', 1);
+VALUES ("Music", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Nursing', 1);
+VALUES ("Nursing", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Nutrition', 1);
+VALUES ("Nutrition", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Philosophy', 1);
+VALUES ("Philosophy", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Physical Education', 1);
+VALUES ("Physical Education", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Physics', 1);
+VALUES ("Physics", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Planning', 1);
+VALUES ("Planning", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Political Science', 1);
+VALUES ("Political Science", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Portuguese', 1);
+VALUES ("Portuguese", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Production Operations Mgt', 1);
+VALUES ("Production Operations Mgt", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Psychology', 1);
+VALUES ("Psychology", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Public Administration', 1);
+VALUES ("Public Administration", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Reading', 1);
+VALUES ("Reading", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Recreation Management', 1);
+VALUES ("Recreation Management", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Religious Studies', 1);
+VALUES ("Religious Studies", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Research', 1);
+VALUES ("Research", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Rhetoric and Composition', 1);
+VALUES ("Rhetoric and Composition", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Russian', 1);
+VALUES ("Russian", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Social Work', 1);
+VALUES ("Social Work", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Sociology', 1);
+VALUES ("Sociology", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Spanish', 1);
+VALUES ("Spanish", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Special Education', 1);
+VALUES ("Special Education", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Statistics', 1);
+VALUES ("Statistics", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Supply Chain Management', 1);
+VALUES ("Supply Chain Management", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Sustainable Development', 1);
+VALUES ("Sustainable Development", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Technology', 1);
+VALUES ("Technology", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Theatre', 1);
+VALUES ("Theatre", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('University College', 1);
+VALUES ("University College", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('University Studies', 1);
+VALUES ("University Studies", 1);
 
 INSERT INTO department (Name, U_ID)
-VALUES ('Watauga Residential College', 1);
+VALUES ("Watauga Residential College", 1);
 
