@@ -1,0 +1,93 @@
+ACC Accounting
+ANT Anthropology
+A S Appalachian Studies
+ADM Apparel Design & Merchandising
+AMU Applied Music
+ARB Arabic
+ART Art
+AST Astronomy
+A T Athletic Training
+BIO Biology
+BUS Business
+B E Business Education
+CHE Chemistry
+CHN Chinese
+PHO Commercial Photography
+COM Communication
+CSD Communication Sci & Disorders
+CIS Computer Information Systems
+C S Computer Science
+C J Criminal Justice
+C I Curriculum and Instruction
+DAN Dance
+ECO Economics
+FDN Educational Foundations
+EDL Educational Leadership
+ENG English
+ENT Entrepreneurship
+ENV Environmental Science
+E S Exercise Science
+FCS Family and Consumer Sciences
+FER Fermentation Sciences
+FIN Finance, Banking and Insurance
+FRE French
+GWS Gender, Women's & Sexuality St
+G S General Science
+GHY Geography
+GLY Geology
+GER German
+GLS Global Studies
+GRA Graphic Arts and Imaging Tech
+HCM Health Care Management
+HED Health Education
+H P Health Promotion
+HPE Health and Physicial Education
+H E Higher Education
+HIS History
+HON Honors
+HOS Hospitality Management
+HPC Human Devel and Psych Counsel
+IND Industrial Design
+ITC Instructional Tech/Computers
+IDS Interdisciplinary Studies
+INT Interior Design
+JPN Japanese
+LLC Languages, Literature, Culture
+LAW Law
+LSA Leadership in School Admin
+LIB Library Science
+MGT Management
+MKT Marketing
+MBA Master of Business Administrat
+MAT Mathematics
+MSL Military Sci and Leadership
+MUS Music
+NUR Nursing
+NUT Nutrition
+PHL Philosophy
+P E Physical Education
+PHY Physics
+PLN Planning
+P S Political Science
+POR Portuguese
+POM Production Operations Mgt
+PSY Psychology
+P A Public Administration
+R E Reading
+R M Recreation Management
+REL Religious Studies
+RES Research
+R C Rhetoric and Composition
+RSN Russian
+S W Social Work
+SOC Sociology
+SNH Spanish
+SPE Special Education
+STT Statistics
+SCM Supply Chain Management
+S D Sustainable Development
+TEC Technology
+THR Theatre
+UCO University College
+U S University Studies
+WRC Watauga Residential College
