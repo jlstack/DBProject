@@ -2,17 +2,17 @@ DROP TABLE IF EXISTS resource, section, course, professor, department, universit
 
 CREATE TABLE university(
   ID INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
-  Abreviation VARCHAR(5),
+  Abbreviation VARCHAR(5),
   Name VARCHAR(127) NOT NULL,
   Location VARCHAR(127) NOT NULL
 );
 
 CREATE TABLE department(
   ID INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
-  Abreviation VARCHAR(3) NOT NULL,
+  Abbreviation VARCHAR(3) NOT NULL,
   Name VARCHAR(127) NOT NULL,
   U_ID INT NOT NULL,
-  CONSTRAINT UNIQUE (Abreviation, U_ID),
+  CONSTRAINT UNIQUE (Abbreviation, U_ID),
   FOREIGN KEY (U_ID) REFERENCES university(ID)
 );
 
