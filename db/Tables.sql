@@ -25,6 +25,7 @@ CREATE TABLE professor(
   Alma_Mater VARCHAR(127),
   Tenured BOOL,
   Start_Date DATE,
+  CONSTRAINT UNIQUE (Name, D_ID),
   FOREIGN KEY (D_ID) REFERENCES department(ID)
 );
 
