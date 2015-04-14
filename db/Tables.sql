@@ -2,14 +2,17 @@ DROP TABLE IF EXISTS resource, section, course, professor, department, universit
 
 CREATE TABLE university(
   ID INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+  Abreviation VARCHAR(5),
   Name VARCHAR(127) NOT NULL,
   Location VARCHAR(127) NOT NULL
 );
 
 CREATE TABLE department(
   ID INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+  Abreviation VARCHAR(3) NOT NULL,
   Name VARCHAR(127) NOT NULL,
   U_ID INT NOT NULL,
+  CONSTRAINT UNIQUE (Abreviation, U_ID),
   FOREIGN KEY (U_ID) REFERENCES university(ID)
 );
 
@@ -38,7 +41,7 @@ CREATE TABLE section(
   ID INT NOT NULL PRIMARY KEY,
   Year VARCHAR(15) NOT NULL,
   Semester VARCHAR(15) NOT NULL,
-  P_ID INT NOT NULL,
+  P_ID INT,
   C_ID INT NOT NULL,
   FOREIGN KEY (P_ID) REFERENCES professor(ID),
   FOREIGN KEY (C_ID) REFERENCES course(ID)
