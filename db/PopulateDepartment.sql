@@ -1,279 +1,279 @@
-INSERT INTO department (Name, U_ID)
-VALUES ("Accounting", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("ACC", "Accounting", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Anthropology", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("ANT", "Anthropology", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Appalachian Studies", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("A S", "Appalachian Studies", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Apparel Design & Merchandising", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("ADM", "Apparel Design & Merchandising", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Applied Music", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("AMU", "Applied Music", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Arabic", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("ARB", "Arabic", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Art", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("ART", "Art", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Astronomy", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("AST", "Astronomy", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Athletic Training", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("A T", "Athletic Training", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Biology", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("BIO", "Biology", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Business", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("BUS", "Business", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Business Education", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("B E", "Business Education", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Chemistry", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("CHE", "Chemistry", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Chinese", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("CHN", "Chinese", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Commercial Photography", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("PHO", "Commercial Photography", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Communication", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("COM", "Communication", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Communication Sci & Disorders", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("CSD", "Communication Sci & Disorders", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Computer Information Systems", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("CIS", "Computer Information Systems", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Computer Science", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("C S", "Computer Science", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Criminal Justice", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("C J", "Criminal Justice", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Curriculum and Instruction", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("C I", "Curriculum and Instruction", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Dance", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("DAN", "Dance", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Economics", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("ECO", "Economics", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Educational Foundations", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("FDN", "Educational Foundations", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Educational Leadership", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("EDL", "Educational Leadership", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("English", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("ENG", "English", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Entrepreneurship", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("ENT", "Entrepreneurship", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Environmental Science", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("ENV", "Environmental Science", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Exercise Science", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("E S", "Exercise Science", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Family and Consumer Sciences", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("FCS", "Family and Consumer Sciences", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Fermentation Sciences", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("FER", "Fermentation Sciences", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Finance, Banking and Insurance", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("FIN", "Finance, Banking and Insurance", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("French", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("FRE", "French", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Gender, Women's & Sexuality St", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("GWS", "Gender, Women's & Sexuality St", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("General Science", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("G S", "General Science", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Geography", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("GHY", "Geography", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Geology", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("GLY", "Geology", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("German", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("GER", "German", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Global Studies", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("GLS", "Global Studies", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Graphic Arts and Imaging Tech", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("GRA", "Graphic Arts and Imaging Tech", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Health Care Management", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("HCM", "Health Care Management", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Health Education", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("HED", "Health Education", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Health Promotion", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("H P", "Health Promotion", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Health and Physicial Education", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("HPE", "Health and Physicial Education", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Higher Education", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("H E", "Higher Education", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("History", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("HIS", "History", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Honors", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("HON", "Honors", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Hospitality Management", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("HOS", "Hospitality Management", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Human Devel and Psych Counsel", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("HPC", "Human Devel and Psych Counsel", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Industrial Design", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("IND", "Industrial Design", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Instructional Tech/Computers", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("ITC", "Instructional Tech/Computers", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Interdisciplinary Studies", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("IDS", "Interdisciplinary Studies", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Interior Design", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("INT", "Interior Design", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Japanese", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("JPN", "Japanese", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Languages, Literature, Culture", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("LLC", "Languages, Literature, Culture", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Law", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("LAW", "Law", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Leadership in School Admin", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("LSA", "Leadership in School Admin", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Library Science", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("LIB", "Library Science", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Management", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("MGT", "Management", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Marketing", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("MKT", "Marketing", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Master of Business Administrat", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("MBA", "Master of Business Administrat", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Mathematics", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("MAT", "Mathematics", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Military Sci and Leadership", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("MSL", "Military Sci and Leadership", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Music", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("MUS", "Music", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Nursing", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("NUR", "Nursing", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Nutrition", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("NUT", "Nutrition", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Philosophy", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("PHL", "Philosophy", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Physical Education", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("P E", "Physical Education", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Physics", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("PHY", "Physics", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Planning", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("PLN", "Planning", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Political Science", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("P S", "Political Science", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Portuguese", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("POR", "Portuguese", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Production Operations Mgt", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("POM", "Production Operations Mgt", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Psychology", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("PSY", "Psychology", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Public Administration", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("P A", "Public Administration", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Reading", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("R E", "Reading", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Recreation Management", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("R M", "Recreation Management", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Religious Studies", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("REL", "Religious Studies", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Research", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("RES", "Research", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Rhetoric and Composition", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("R C", "Rhetoric and Composition", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Russian", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("RSN", "Russian", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Social Work", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("S W", "Social Work", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Sociology", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("SOC", "Sociology", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Spanish", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("SNH", "Spanish", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Special Education", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("SPE", "Special Education", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Statistics", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("STT", "Statistics", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Supply Chain Management", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("SCM", "Supply Chain Management", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Sustainable Development", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("S D", "Sustainable Development", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Technology", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("TEC", "Technology", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Theatre", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("THR", "Theatre", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("University College", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("UCO", "University College", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("University Studies", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("U S", "University Studies", 1);
 
-INSERT INTO department (Name, U_ID)
-VALUES ("Watauga Residential College", 1);
+insert into department (Abreviaiton, Name, U_ID)
+values ("WRC", "Watauga Residential College", 1);
 
