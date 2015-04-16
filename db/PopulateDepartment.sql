@@ -277,3 +277,12 @@ values ("U S", "University Studies", 1);
 insert into department (Abbreviation, Name, U_ID)
 values ("WRC", "Watauga Residential College", 1);
 
+insert into department (Abbreviation, Name, U_ID)
+values ("GRD", "Graduate Studies", 1);
+
+insert into department (Abbreviation, Name, U_ID)
+values ("WGC", "Watauga Global Community", 1);
+
+insert into department (Abbreviation, Name, U_ID)
+values ("W S", "Women's Studies", 1);
+

@@ -91,3 +91,6 @@ THR Theatre
 UCO University College
 U S University Studies
 WRC Watauga Residential College
+GRD Graduate Studies
+WGC Watauga Global Community
+W S Women's Studies
