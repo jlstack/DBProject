@@ -346,7 +346,7 @@ A S,2530,101,(APPALACHIA IN FILM),Toney J. Frazier
 A S,3000,101,(DIVERSITY IN APPALACHIA),Katherine Elizabeth Ledford
 A S,4550,101,(SENIOR SEMINAR),Katherine Elizabeth Ledford
 A S,5000,101,(BIBLIOGRAPHY & RESEARCH),William Russell Schumann
-A S,5000,101,(BIBLIOGRAPHY & RESEARCH),Norma Myers Riddle, Fred J. Hay
+A S,5000,101,(BIBLIOGRAPHY & RESEARCH),Norma Myers Riddle
 A S,5005,101,(GLOBAL APPALACHIA),Katherine Elizabeth Ledford
 A S,5020,101,(COL: APPALACH STUDIES),William Russell Schumann
 A S,5025,101,(PEDAGOGY FOR APP STUDIES),Katherine Elizabeth Ledford
@@ -433,13 +433,13 @@ AMU,0004,122,(APP VIOLIN),Eric Edward Koontz
 AMU,0004,127,(APP VIOLIN),TBA
 AMU,0004,127,(APP VIOLIN),TBA
 AMU,0005,111,(APP VIOLA),Eric Edward Koontz
-AMU,0005,111,(APP VIOLA),Eric Edward Koontz, Nancy Elizabeth Bargerstock
+AMU,0005,111,(APP VIOLA),Eric Edward Koontz
 AMU,0005,112,(APP VIOLA),Nancy Elizabeth Bargerstock
 AMU,0005,112,(APP VIOLA),Nancy Elizabeth Bargerstock
 AMU,0005,117,(APP VIOLA),TBA
 AMU,0005,117,(APP VIOLA),TBA
 AMU,0005,121,(APP VIOLA),Eric Edward Koontz
-AMU,0005,121,(APP VIOLA),Eric Edward Koontz, Nancy Elizabeth Bargerstock
+AMU,0005,121,(APP VIOLA),Eric Edward Koontz
 AMU,0005,122,(APP VIOLA),Nancy Elizabeth Bargerstock
 AMU,0005,122,(APP VIOLA),Nancy Elizabeth Bargerstock
 AMU,0005,127,(APP VIOLA),TBA
@@ -644,11 +644,11 @@ AMU,0024,121,(APP JAZZ GUITAR),Anderson Page
 AMU,0024,121,(APP JAZZ GUITAR),Anderson Page
 AMU,0024,127,(APP JAZZ GUITAR),TBA
 AMU,0024,127,(APP JAZZ GUITAR),TBA
-AMU,0025,111,(DRUM SET),Richard P. Dilling, Robert Joseph Falvo
+AMU,0025,111,(DRUM SET),Richard P. Dilling
 AMU,0025,111,(APP JAZZ DRUMSET),Robert Joseph Falvo
 AMU,0025,117,(DRUM SET),Robert Joseph Falvo
 AMU,0025,117,(APP JAZZ DRUMSET),TBA
-AMU,0025,121,(DRUM SET),Richard P. Dilling, Robert Joseph Falvo
+AMU,0025,121,(DRUM SET),Richard P. Dilling
 AMU,0025,121,(APP JAZZ DRUMSET),Robert Joseph Falvo
 AMU,0025,127,(DRUM SET),TBA
 AMU,0025,127,(APP JAZZ DRUMSET),TBA
@@ -660,8 +660,8 @@ AMU,2001,113,(APP PIANO),Joby Ray Bell
 AMU,2001,113,(APP PIANO),Joby Ray Bell
 AMU,2001,114,(APP PIANO),Christina J. Hayes
 AMU,2001,114,(APP PIANO),Christina J. Hayes
-AMU,2001,117,(APP PIANO),Melissa Ann Lesbines, Jay C. Jackson
-AMU,2001,117,(APP PIANO),Melissa Ann Lesbines, Rodney Thomas Reynerson
+AMU,2001,117,(APP PIANO),Melissa Ann Lesbines
+AMU,2001,117,(APP PIANO),Melissa Ann Lesbines
 AMU,2001,121,(APP PIANO),Rodney Thomas Reynerson
 AMU,2001,121,(APP PIANO),Rodney Thomas Reynerson
 AMU,2001,122,(APP PIANO),Bair D. Shagdaron
@@ -670,8 +670,8 @@ AMU,2001,123,(APP PIANO),Joby Ray Bell
 AMU,2001,123,(APP PIANO),Joby Ray Bell
 AMU,2001,124,(APP PIANO),Christina J. Hayes
 AMU,2001,124,(APP PIANO),Christina J. Hayes
-AMU,2001,127,(APP PIANO),Melissa Ann Lesbines, Jay C. Jackson
-AMU,2001,127,(APP PIANO),Melissa Ann Lesbines, Rodney Thomas Reynerson
+AMU,2001,127,(APP PIANO),Melissa Ann Lesbines
+AMU,2001,127,(APP PIANO),Melissa Ann Lesbines
 AMU,2001,141,(APP PIANO),Rodney Thomas Reynerson
 AMU,2001,141,(APP PIANO),Rodney Thomas Reynerson
 AMU,2001,142,(APP PIANO),Bair D. Shagdaron
@@ -681,7 +681,7 @@ AMU,2001,143,(APP PIANO),Joby Ray Bell
 AMU,2001,144,(APP PIANO),Christina J. Hayes
 AMU,2001,144,(APP PIANO),Christina J. Hayes
 AMU,2001,147,(APP PIANO),Jay C. Jackson
-AMU,2001,147,(APP PIANO),Melissa Ann Lesbines, Rodney Thomas Reynerson
+AMU,2001,147,(APP PIANO),Melissa Ann Lesbines
 AMU,2002,111,(APP ORGAN),Joby Ray Bell
 AMU,2002,111,(APP ORGAN),Joby Ray Bell
 AMU,2002,117,(APP ORGAN),TBA
@@ -749,18 +749,18 @@ AMU,2004,142,(APP VIOLIN),Eric Edward Koontz
 AMU,2004,147,(APP VIOLIN),TBA
 AMU,2004,147,(APP VIOLIN),TBA
 AMU,2005,111,(APP VIOLA),Eric Edward Koontz
-AMU,2005,111,(APP VIOLA),Eric Edward Koontz, Nancy Elizabeth Bargerstock
+AMU,2005,111,(APP VIOLA),Eric Edward Koontz
 AMU,2005,112,(APP VIOLA),Nancy Elizabeth Bargerstock
 AMU,2005,112,(APP VIOLA),Nancy Elizabeth Bargerstock
 AMU,2005,117,(APP VIOLA),TBA
 AMU,2005,117,(APP VIOLA),TBA
 AMU,2005,121,(APP VIOLA),Eric Edward Koontz
-AMU,2005,121,(APP VIOLA),Eric Edward Koontz, Nancy Elizabeth Bargerstock
+AMU,2005,121,(APP VIOLA),Eric Edward Koontz
 AMU,2005,122,(APP VIOLA),Nancy Elizabeth Bargerstock
 AMU,2005,122,(APP VIOLA),Nancy Elizabeth Bargerstock
 AMU,2005,127,(APP VIOLA),TBA
 AMU,2005,141,(APP VIOLA),Eric Edward Koontz
-AMU,2005,141,(APP VIOLA),Eric Edward Koontz, Nancy Elizabeth Bargerstock
+AMU,2005,141,(APP VIOLA),Eric Edward Koontz
 AMU,2005,142,(APP VIOLA),Nancy Elizabeth Bargerstock
 AMU,2005,142,(APP VIOLA),Nancy Elizabeth Bargerstock
 AMU,2005,147,(APP VIOLA),TBA
@@ -961,7 +961,7 @@ AMU,2018,111,(APP PERCUSSION),Robert Joseph Falvo
 AMU,2018,111,(APP PERCUSSION),Robert Joseph Falvo
 AMU,2018,112,(APP PERCUSSION),Jay C. Jackson
 AMU,2018,112,(APP PERCUSSION),Robert Joseph Falvo
-AMU,2018,117,(APP PERCUSSION),Byron Hedgepeth, Jay C. Jackson
+AMU,2018,117,(APP PERCUSSION),Byron Hedgepeth
 AMU,2018,117,(APP PERCUSSION),Robert Joseph Falvo
 AMU,2018,121,(APP PERCUSSION),Robert Joseph Falvo
 AMU,2018,121,(APP PERCUSSION),Robert Joseph Falvo
@@ -973,7 +973,7 @@ AMU,2018,141,(APP PERCUSSION),Robert Joseph Falvo
 AMU,2018,141,(APP PERCUSSION),Robert Joseph Falvo
 AMU,2018,142,(APP PERCUSSION),TBA
 AMU,2018,142,(APP PERCUSSION),Robert Joseph Falvo
-AMU,2018,147,(APP PERCUSSION),Byron Hedgepeth, Jay C. Jackson
+AMU,2018,147,(APP PERCUSSION),Byron Hedgepeth
 AMU,2018,147,(APP PERCUSSION),Robert Joseph Falvo
 AMU,2019,111,(APP COMPOSITION),Benjamin Alan Hjertmann
 AMU,2019,111,(APP COMPOSITION),Benjamin Alan Hjertmann
@@ -1056,13 +1056,13 @@ AMU,2024,127,(APP JAZZ GUITAR),TBA
 AMU,2024,141,(APP JAZZ GUITAR),Anderson Page
 AMU,2024,141,(APP JAZZ GUITAR),Anderson Page
 AMU,2024,147,(APP JAZZ GUITAR),TBA
-AMU,2025,111,(APP DRUM SET),Richard P. Dilling, Robert Joseph Falvo
+AMU,2025,111,(APP DRUM SET),Richard P. Dilling
 AMU,2025,111,(APP DRUM SET),Robert Joseph Falvo
 AMU,2025,117,(APP DRUM SET),Robert Joseph Falvo
-AMU,2025,121,(APP DRUM SET),Richard P. Dilling, Robert Joseph Falvo
+AMU,2025,121,(APP DRUM SET),Richard P. Dilling
 AMU,2025,121,(APP DRUM SET),Robert Joseph Falvo
 AMU,2025,127,(APP DRUM SET),Robert Joseph Falvo
-AMU,2025,141,(APP DRUM SET),Robert Joseph Falvo, Richard P. Dilling
+AMU,2025,141,(APP DRUM SET),Robert Joseph Falvo
 AMU,2025,141,(APP DRUM SET),Robert Joseph Falvo
 AMU,2025,147,(APP DRUM SET),TBA
 AMU,3901,121,(JUNIOR RECITAL - PIANO),Rodney Thomas Reynerson
@@ -1237,7 +1237,7 @@ AMU,4001,113,(APP PIANO),Joby Ray Bell
 AMU,4001,114,(APP PIANO),Christina J. Hayes
 AMU,4001,114,(APP PIANO),Christina J. Hayes
 AMU,4001,117,(APP PIANO),Melissa Ann Lesbines
-AMU,4001,117,(APP PIANO),Melissa Ann Lesbines, Rodney Thomas Reynerson
+AMU,4001,117,(APP PIANO),Melissa Ann Lesbines
 AMU,4001,121,(APP PIANO),Rodney Thomas Reynerson
 AMU,4001,121,(APP PIANO),Rodney Thomas Reynerson
 AMU,4001,122,(APP PIANO),Bair D. Shagdaron
@@ -1247,7 +1247,7 @@ AMU,4001,123,(APP PIANO),Joby Ray Bell
 AMU,4001,124,(APP PIANO),Christina J. Hayes
 AMU,4001,124,(APP PIANO),Christina J. Hayes
 AMU,4001,127,(APP PIANO),Melissa Ann Lesbines
-AMU,4001,127,(APP PIANO),Melissa Ann Lesbines, Rodney Thomas Reynerson
+AMU,4001,127,(APP PIANO),Melissa Ann Lesbines
 AMU,4001,141,(APP PIANO),Rodney Thomas Reynerson
 AMU,4001,141,(APP PIANO),Rodney Thomas Reynerson
 AMU,4001,142,(APP PIANO),Bair D. Shagdaron
@@ -1325,19 +1325,19 @@ AMU,4004,142,(APP VIOLIN),Eric Edward Koontz
 AMU,4004,147,(APP VIOLIN),TBA
 AMU,4004,147,(APP VIOLIN),TBA
 AMU,4005,111,(APP VIOLA),Eric Edward Koontz
-AMU,4005,111,(APP VIOLA),Eric Edward Koontz, Nancy Elizabeth Bargerstock
+AMU,4005,111,(APP VIOLA),Eric Edward Koontz
 AMU,4005,112,(APP VIOLA),Nancy Elizabeth Bargerstock
 AMU,4005,112,(APP VIOLA),Nancy Elizabeth Bargerstock
 AMU,4005,117,(APP VIOLA),TBA
 AMU,4005,117,(APP VIOLA),TBA
 AMU,4005,121,(APP VIOLA),Eric Edward Koontz
-AMU,4005,121,(APP VIOLA),Eric Edward Koontz, Nancy Elizabeth Bargerstock
+AMU,4005,121,(APP VIOLA),Eric Edward Koontz
 AMU,4005,122,(APP VIOLA),Nancy Elizabeth Bargerstock
 AMU,4005,122,(APP VIOLA),Nancy Elizabeth Bargerstock
 AMU,4005,127,(APP VIOLA),TBA
 AMU,4005,127,(APP VIOLA),TBA
 AMU,4005,141,(APP VIOLA),Eric Edward Koontz
-AMU,4005,141,(APP VIOLA),Eric Edward Koontz, Nancy Elizabeth Bargerstock
+AMU,4005,141,(APP VIOLA),Eric Edward Koontz
 AMU,4005,142,(APP VIOLA),Nancy Elizabeth Bargerstock
 AMU,4005,142,(APP VIOLA),Nancy Elizabeth Bargerstock
 AMU,4005,147,(APP VIOLA),TBA
@@ -1642,11 +1642,11 @@ AMU,4025,111,(DRUM SET),Robert Joseph Falvo
 AMU,4025,111,(APP JAZZ DRUMSET),Robert Joseph Falvo
 AMU,4025,117,(DRUM SET),Robert Joseph Falvo
 AMU,4025,117,(APP JAZZ DRUMSET),Robert Joseph Falvo
-AMU,4025,121,(DRUM SET),Richard P. Dilling, Robert Joseph Falvo
+AMU,4025,121,(DRUM SET),Richard P. Dilling
 AMU,4025,121,(APP JAZZ DRUMSET),Robert Joseph Falvo
 AMU,4025,127,(DRUM SET),Robert Joseph Falvo
 AMU,4025,127,(APP JAZZ DRUMSET),Robert Joseph Falvo
-AMU,4025,141,(DRUM SET),Richard P. Dilling, Robert Joseph Falvo
+AMU,4025,141,(DRUM SET),Richard P. Dilling
 AMU,4025,147,(DRUM SET),Robert Joseph Falvo
 AMU,4901,121,(SENIOR RECITAL - PIANO),Rodney Thomas Reynerson
 AMU,4901,121,(SENIOR RECITAL - PIANO),Rodney Thomas Reynerson
@@ -1908,19 +1908,19 @@ AMU,6004,142,(APP VIOLIN),Eric Edward Koontz
 AMU,6004,147,(APP VIOLIN),TBA
 AMU,6004,147,(APP VIOLIN),TBA
 AMU,6005,111,(APP VIOLA),Eric Edward Koontz
-AMU,6005,111,(APP VIOLA),Eric Edward Koontz, Nancy Elizabeth Bargerstock
+AMU,6005,111,(APP VIOLA),Eric Edward Koontz
 AMU,6005,112,(APP VIOLA),Nancy Elizabeth Bargerstock
 AMU,6005,112,(APP VIOLA),Nancy Elizabeth Bargerstock
 AMU,6005,117,(APP VIOLA),TBA
 AMU,6005,117,(APP VIOLA),TBA
 AMU,6005,121,(APP VIOLA),Eric Edward Koontz
-AMU,6005,121,(APP VIOLA),Eric Edward Koontz, Nancy Elizabeth Bargerstock
+AMU,6005,121,(APP VIOLA),Eric Edward Koontz
 AMU,6005,122,(APP VIOLA),Nancy Elizabeth Bargerstock
 AMU,6005,122,(APP VIOLA),Nancy Elizabeth Bargerstock
 AMU,6005,127,(APP VIOLA),TBA
 AMU,6005,127,(APP VIOLA),TBA
 AMU,6005,141,(APP VIOLA),Eric Edward Koontz
-AMU,6005,141,(APP VIOLA),Eric Edward Koontz, Nancy Elizabeth Bargerstock
+AMU,6005,141,(APP VIOLA),Eric Edward Koontz
 AMU,6005,142,(APP VIOLA),Nancy Elizabeth Bargerstock
 AMU,6005,142,(APP VIOLA),Nancy Elizabeth Bargerstock
 AMU,6005,147,(APP VIOLA),TBA
@@ -2222,9 +2222,9 @@ AMU,6025,121,(DRUM SET),Robert Joseph Falvo
 AMU,6025,127,(DRUM SET),Robert Joseph Falvo
 AMU,6025,141,(DRUM SET),Robert Joseph Falvo
 AMU,6025,147,(DRUM SET),Robert Joseph Falvo
-ARB,1010,101,(BEGINNING ARABIC I),Saloua Ben Zahra, James Donald Fogelquist
+ARB,1010,101,(BEGINNING ARABIC I),Saloua Ben Zahra
 ARB,1020,101,(BEGINNING ARABIC II),Saloua Ben Zahra
-ARB,1040,101,(INTERMEDIATE ARABIC I),Saloua Ben Zahra, James Donald Fogelquist
+ARB,1040,101,(INTERMEDIATE ARABIC I),Saloua Ben Zahra
 ARB,1050,101,(INTERMEDIATE ARABIC II),Saloua Ben Zahra
 ART,1001,101,(FOUNDATIONS I),Gary M. Nemcosky
 ART,1001,101,(FOUNDATIONS I),Catherine Elizabeth Altice
@@ -2417,7 +2417,7 @@ ART,3100,101,(PAINTING II),Gary M. Nemcosky
 ART,3100,101,(PAINTING II),Timothy B. Ford
 ART,3102,101,(TYPOGRAPHY II),Yi-Chen Chang
 ART,3102,101,(TYPOGRAPHY II),Yi-Chen Chang
-ART,3103,101,(CONTEMP ISSUES ADVANCD DRAWING),Gary M. Nemcosky, Scott P. Ludwig
+ART,3103,101,(CONTEMP ISSUES ADVANCD DRAWING),Gary M. Nemcosky
 ART,3103,101,(CONTEMP ISSUES ADVANCD DRAWING),Scott P. Ludwig
 ART,3107,101,(CLAY II: THROWING),Lisa M. Stinson
 ART,3107,101,(CLAY II: THROWING),Lynn Duryea
@@ -2452,7 +2452,7 @@ ART,3500,104,(PAINTING II: ABSTRACT STUDIES),Jeri P. Allison
 ART,3500,105,(NON-PROFIT IDENTITY),Yi-Chen Chang
 ART,3500,105,(EXPLORATION OF MIXED MEDIA),Gary M. Nemcosky
 ART,3500,106,(GRAPHIC NOVEL 2),Victoria Jeanne Grube
-ART,3500,106,(CURATING INITIATIVE),Jody Margaret Servon, Mark Linde Nystrom
+ART,3500,106,(CURATING INITIATIVE),Jody Margaret Servon
 ART,3500,107,(ART WITHOUT CONDITIONS),Michael Seawell Grady
 ART,3500,107,(SOUTHWEST POTTERY: HIST & PRA),Brantley Baldwin Johnson
 ART,3500,108,(CULT FICTION),Victoria Jeanne Grube
@@ -2637,37 +2637,37 @@ A T,4000,101,(ATHL TRAIN CLINICAL LAB VI),Alan R. Needle
 A T,4025,101,(THERAP MODAL & INTERV STRAT II),Jamie Lynn Moul
 A T,4030,101,(EVIDENCE-BASED PRACT ATH TRAIN),Alan R. Needle
 BIO,1101,101,(BIOLOGY IN SOCIETY I),James Shaw Barbee
-BIO,1101,201,(Laboratory),Brian Kenneth Bonville, Sarah Evelyn Marshburn
-BIO,1101,202,(Laboratory),Brian Kenneth Bonville, Sarah Evelyn Marshburn
-BIO,1101,203,(Laboratory),Brian Kenneth Bonville, Sarah Evelyn Marshburn
-BIO,1101,206,(Laboratory),Takako Ohashi, Sarah Evelyn Marshburn
+BIO,1101,201,(Laboratory),Brian Kenneth Bonville
+BIO,1101,202,(Laboratory),Brian Kenneth Bonville
+BIO,1101,203,(Laboratory),Brian Kenneth Bonville
+BIO,1101,206,(Laboratory),Takako Ohashi
 BIO,1102,101,(BIOLOGY IN SOCIETY II),Kevin Michael Oley
 BIO,1102,101,(BIOLOGY IN SOCIETY II),Howard S. Neufeld
 BIO,1102,102,(BIOLOGY IN SOCIETY II),Steven Wyant Seagle
 BIO,1102,103,(BIOLOGY IN SOCIETY II),Steven Wyant Seagle
 BIO,1102,201,(Laboratory),Sarah Evelyn Marshburn
-BIO,1102,201,(Laboratory),Hannah Hemingway Freundlich, Sarah Evelyn Marshburn
-BIO,1102,202,(Laboratory),Lauren Kathleen Wood, Sarah Evelyn Marshburn
-BIO,1102,202,(Laboratory),Hannah Hemingway Freundlich, Sarah Evelyn Marshburn
-BIO,1102,203,(Laboratory),Lauren Kathleen Wood, Sarah Evelyn Marshburn
-BIO,1102,203,(Laboratory),David Christian Nielsen, Sarah Evelyn Marshburn
+BIO,1102,201,(Laboratory),Hannah Hemingway Freundlich
+BIO,1102,202,(Laboratory),Lauren Kathleen Wood
+BIO,1102,202,(Laboratory),Hannah Hemingway Freundlich
+BIO,1102,203,(Laboratory),Lauren Kathleen Wood
+BIO,1102,203,(Laboratory),David Christian Nielsen
 BIO,1102,204,(Laboratory),Sarah Evelyn Marshburn
-BIO,1102,204,(Laboratory),Hannah Hemingway Freundlich, Sarah Evelyn Marshburn
-BIO,1102,205,(Laboratory),Lauren Kathleen Wood, Sarah Evelyn Marshburn
-BIO,1102,205,(Laboratory),David Christian Nielsen, Sarah Evelyn Marshburn
+BIO,1102,204,(Laboratory),Hannah Hemingway Freundlich
+BIO,1102,205,(Laboratory),Lauren Kathleen Wood
+BIO,1102,205,(Laboratory),David Christian Nielsen
 BIO,1102,206,(Laboratory),Sarah Evelyn Marshburn
-BIO,1102,206,(Laboratory),David Christian Nielsen, Sarah Evelyn Marshburn
+BIO,1102,206,(Laboratory),David Christian Nielsen
 BIO,1102,207,(Laboratory),Sarah Evelyn Marshburn
 BIO,1102,208,(Laboratory),Sarah Evelyn Marshburn
 BIO,1102,209,(Laboratory),Sarah Evelyn Marshburn
-BIO,1102,210,(Laboratory),Julie Anna Ragsdale, Sarah Evelyn Marshburn
-BIO,1102,211,(Laboratory),Julie Anna Ragsdale, Sarah Evelyn Marshburn
+BIO,1102,210,(Laboratory),Julie Anna Ragsdale
+BIO,1102,211,(Laboratory),Julie Anna Ragsdale
 BIO,1102,212,(Laboratory),Sarah Evelyn Marshburn
 BIO,1102,213,(Laboratory),Sarah Evelyn Marshburn
-BIO,1102,214,(Laboratory),Michael Austin Perkins, Sarah Evelyn Marshburn
+BIO,1102,214,(Laboratory),Michael Austin Perkins
 BIO,1102,215,(Laboratory),Sarah Evelyn Marshburn
-BIO,1102,216,(Laboratory),Beverly Elyse Russing, Sarah Evelyn Marshburn
-BIO,1102,217,(Laboratory),Julie Anna Ragsdale, Sarah Evelyn Marshburn
+BIO,1102,216,(Laboratory),Beverly Elyse Russing
+BIO,1102,217,(Laboratory),Julie Anna Ragsdale
 BIO,1201,101,(BIOLOGY IN SOCIETY I),James Shaw Barbee
 BIO,1201,101,(BIOLOGY IN SOCIETY I),James Shaw Barbee
 BIO,1201,102,(BIOLOGY IN SOCIETY I),Michael Windelspecht
@@ -2681,34 +2681,34 @@ BIO,1202,103,(BIOLOGY IN SOCIETY II),Kevin Michael Oley
 BIO,1202,104,(BIOLOGY IN SOCIETY II),Stephanie Coleman McCleneghan
 BIO,1203,101,(BIOLOGY IN SOCIETY LABORATORY),Sarah Evelyn Marshburn
 BIO,1203,101,(BIOLOGY IN SOCIETY LABORATORY),Sarah Evelyn Marshburn
-BIO,1203,102,(BIOLOGY IN SOCIETY LABORATORY),Stephanie Coleman McCleneghan, Sarah Evelyn Marshburn
+BIO,1203,102,(BIOLOGY IN SOCIETY LABORATORY),Stephanie Coleman McCleneghan
 BIO,1203,102,(BIOLOGY IN SOCIETY LABORATORY),Sarah Evelyn Marshburn
-BIO,1203,103,(BIOLOGY IN SOCIETY LABORATORY),Kevin Michael Oley, Sarah Evelyn Marshburn
-BIO,1203,103,(BIOLOGY IN SOCIETY LABORATORY),Scott Cory, Sarah Evelyn Marshburn
-BIO,1203,104,(BIOLOGY IN SOCIETY LABORATORY),Stephanie Coleman McCleneghan, Sarah Evelyn Marshburn
+BIO,1203,103,(BIOLOGY IN SOCIETY LABORATORY),Kevin Michael Oley
+BIO,1203,103,(BIOLOGY IN SOCIETY LABORATORY),Scott Cory
+BIO,1203,104,(BIOLOGY IN SOCIETY LABORATORY),Stephanie Coleman McCleneghan
 BIO,1203,104,(BIOLOGY IN SOCIETY LABORATORY),Sarah Evelyn Marshburn
-BIO,1203,105,(BIOLOGY IN SOCIETY LABORATORY),Kevin Michael Oley, Sarah Evelyn Marshburn
+BIO,1203,105,(BIOLOGY IN SOCIETY LABORATORY),Kevin Michael Oley
 BIO,1203,105,(BIOLOGY IN SOCIETY LABORATORY),Sarah Evelyn Marshburn
 BIO,1203,106,(BIOLOGY IN SOCIETY LABORATORY),Sarah Evelyn Marshburn
-BIO,1203,106,(BIOLOGY IN SOCIETY LABORATORY),Scott Cory, Sarah Evelyn Marshburn
+BIO,1203,106,(BIOLOGY IN SOCIETY LABORATORY),Scott Cory
 BIO,1203,107,(BIOLOGY IN SOCIETY LABORATORY),Sarah Evelyn Marshburn
 BIO,1203,107,(BIOLOGY IN SOCIETY LABORATORY),Sarah Evelyn Marshburn
-BIO,1203,108,(BIOLOGY IN SOCIETY LABORATORY),Stephanie Coleman McCleneghan, Sarah Evelyn Marshburn
+BIO,1203,108,(BIOLOGY IN SOCIETY LABORATORY),Stephanie Coleman McCleneghan
 BIO,1203,108,(BIOLOGY IN SOCIETY LABORATORY),Sarah Evelyn Marshburn
-BIO,1203,109,(BIOLOGY IN SOCIETY LABORATORY),Kevin Michael Oley, Sarah Evelyn Marshburn
+BIO,1203,109,(BIOLOGY IN SOCIETY LABORATORY),Kevin Michael Oley
 BIO,1203,109,(BIOLOGY IN SOCIETY LABORATORY),Sarah Evelyn Marshburn
-BIO,1203,110,(BIOLOGY IN SOCIETY LABORATORY),Stephanie Coleman McCleneghan, Sarah Evelyn Marshburn
+BIO,1203,110,(BIOLOGY IN SOCIETY LABORATORY),Stephanie Coleman McCleneghan
 BIO,1203,110,(BIOLOGY IN SOCIETY LABORATORY),Sarah Evelyn Marshburn
-BIO,1203,111,(BIOLOGY IN SOCIETY LABORATORY),Kevin Michael Oley, Sarah Evelyn Marshburn
+BIO,1203,111,(BIOLOGY IN SOCIETY LABORATORY),Kevin Michael Oley
 BIO,1203,111,(BIOLOGY IN SOCIETY LABORATORY),Sarah Evelyn Marshburn
 BIO,1203,112,(BIOLOGY IN SOCIETY LABORATORY),Sarah Evelyn Marshburn
 BIO,1203,112,(BIOLOGY IN SOCIETY LABORATORY),Sarah Evelyn Marshburn
 BIO,1203,113,(BIOLOGY IN SOCIETY LABORATORY),Sarah Evelyn Marshburn
 BIO,1203,114,(BIOLOGY IN SOCIETY LABORATORY),Sarah Evelyn Marshburn
-BIO,1203,115,(BIOLOGY IN SOCIETY LABORATORY),Scott Cory, Sarah Evelyn Marshburn
+BIO,1203,115,(BIOLOGY IN SOCIETY LABORATORY),Scott Cory
 BIO,1203,116,(BIOLOGY IN SOCIETY LABORATORY),Sarah Evelyn Marshburn
 BIO,1203,117,(BIOLOGY IN SOCIETY LABORATORY),Sarah Evelyn Marshburn
-BIO,1203,118,(BIOLOGY IN SOCIETY LABORATORY),Scott Cory, Sarah Evelyn Marshburn
+BIO,1203,118,(BIOLOGY IN SOCIETY LABORATORY),Scott Cory
 BIO,1203,119,(BIOLOGY IN SOCIETY LABORATORY),Sarah Evelyn Marshburn
 BIO,1203,120,(BIOLOGY IN SOCIETY LABORATORY),Sarah Evelyn Marshburn
 BIO,1203,121,(BIOLOGY IN SOCIETY LABORATORY),Sarah Evelyn Marshburn
@@ -2722,58 +2722,58 @@ BIO,1801,102,(BIOLOGICAL CONCEPTS I),Gary L. Walker
 BIO,1801,103,(BIOLOGICAL CONCEPTS I),Stephanie Coleman McCleneghan
 BIO,1801,103,(BIOLOGICAL CONCEPTS I),Ray Stewart Williams
 BIO,1801,104,(BIOLOGICAL CONCEPTS I),Sarah Evelyn Marshburn
-BIO,1801,201,(Laboratory),Benjamin Corbin Moore, Sarah Evelyn Marshburn
-BIO,1801,202,(Laboratory),Hannah Hemingway Freundlich, Sarah Evelyn Marshburn
-BIO,1801,202,(Laboratory),Beverly Elyse Russing, Sarah Evelyn Marshburn
-BIO,1801,203,(Laboratory),Samuel Steven Kovach, Sarah Evelyn Marshburn
-BIO,1801,203,(Laboratory),Julie Anna Ragsdale, Sarah Evelyn Marshburn
-BIO,1801,204,(Laboratory),Samuel Steven Kovach, Sarah Evelyn Marshburn
-BIO,1801,204,(Laboratory),Samuel Steven Kovach, Sarah Evelyn Marshburn
-BIO,1801,205,(Laboratory),Benjamin Corbin Moore, Sarah Evelyn Marshburn
+BIO,1801,201,(Laboratory),Benjamin Corbin Moore
+BIO,1801,202,(Laboratory),Hannah Hemingway Freundlich
+BIO,1801,202,(Laboratory),Beverly Elyse Russing
+BIO,1801,203,(Laboratory),Samuel Steven Kovach
+BIO,1801,203,(Laboratory),Julie Anna Ragsdale
+BIO,1801,204,(Laboratory),Samuel Steven Kovach
+BIO,1801,204,(Laboratory),Samuel Steven Kovach
+BIO,1801,205,(Laboratory),Benjamin Corbin Moore
 BIO,1801,205,(Laboratory),Sarah Evelyn Marshburn
-BIO,1801,206,(Laboratory),Catherine Jean Cole, Sarah Evelyn Marshburn
-BIO,1801,206,(Laboratory),Samuel Steven Kovach, Sarah Evelyn Marshburn
-BIO,1801,207,(Laboratory),Blake Edward Sanders, Sarah Evelyn Marshburn
-BIO,1801,207,(Laboratory),Julie Anna Ragsdale, Sarah Evelyn Marshburn
-BIO,1801,208,(Laboratory),Audrey Elizabeth Brown, Sarah Evelyn Marshburn
-BIO,1801,208,(Laboratory),Beverly Elyse Russing, Sarah Evelyn Marshburn
-BIO,1801,209,(Laboratory),Hannah Hemingway Freundlich, Sarah Evelyn Marshburn
+BIO,1801,206,(Laboratory),Catherine Jean Cole
+BIO,1801,206,(Laboratory),Samuel Steven Kovach
+BIO,1801,207,(Laboratory),Blake Edward Sanders
+BIO,1801,207,(Laboratory),Julie Anna Ragsdale
+BIO,1801,208,(Laboratory),Audrey Elizabeth Brown
+BIO,1801,208,(Laboratory),Beverly Elyse Russing
+BIO,1801,209,(Laboratory),Hannah Hemingway Freundlich
 BIO,1801,209,(Laboratory),Sarah Evelyn Marshburn
-BIO,1801,210,(Laboratory),Catherine Jean Cole, Sarah Evelyn Marshburn
+BIO,1801,210,(Laboratory),Catherine Jean Cole
 BIO,1801,210,(Laboratory),Sarah Evelyn Marshburn
-BIO,1801,211,(Laboratory),Charles Brandon Tate, Sarah Evelyn Marshburn
+BIO,1801,211,(Laboratory),Charles Brandon Tate
 BIO,1801,211,(Laboratory),Sarah Evelyn Marshburn
 BIO,1801,212,(Laboratory),Sarah Evelyn Marshburn
 BIO,1801,212,(Laboratory),Sarah Evelyn Marshburn
-BIO,1801,213,(Laboratory),Michael Scott Huffman, Sarah Evelyn Marshburn
+BIO,1801,213,(Laboratory),Michael Scott Huffman
 BIO,1801,213,(Laboratory),Sarah Evelyn Marshburn
-BIO,1801,214,(Laboratory),Michael Scott Huffman, Sarah Evelyn Marshburn
-BIO,1801,215,(Laboratory),Scott Cory, Sarah Evelyn Marshburn
-BIO,1801,216,(Laboratory),Scott Cory, Sarah Evelyn Marshburn
-BIO,1801,217,(Laboratory),Beverly Elyse Russing, Sarah Evelyn Marshburn
-BIO,1801,218,(Laboratory),Charles Brandon Tate, Sarah Evelyn Marshburn
-BIO,1801,219,(Laboratory),Audrey Elizabeth Brown, Sarah Evelyn Marshburn
-BIO,1801,220,(Laboratory),Blake Edward Sanders, Sarah Evelyn Marshburn
+BIO,1801,214,(Laboratory),Michael Scott Huffman
+BIO,1801,215,(Laboratory),Scott Cory
+BIO,1801,216,(Laboratory),Scott Cory
+BIO,1801,217,(Laboratory),Beverly Elyse Russing
+BIO,1801,218,(Laboratory),Charles Brandon Tate
+BIO,1801,219,(Laboratory),Audrey Elizabeth Brown
+BIO,1801,220,(Laboratory),Blake Edward Sanders
 BIO,1801,221,(Laboratory),Sarah Evelyn Marshburn
 BIO,1802,101,(BIOLOGICAL CONCEPTS II),Michael David Madritch
-BIO,1802,101,(BIOLOGICAL CONCEPTS II),Stephanie Coleman McCleneghan, Daniel Chase Parker
-BIO,1802,102,(BIOLOGICAL CONCEPTS II),Rene Armando Salinas, Daniel Chase Parker
-BIO,1802,103,(BIOLOGICAL CONCEPTS II),Michael David Madritch, Daniel Chase Parker
-BIO,1802,201,(Laboratory),Angela Elizabeth Langevin, Sarah Evelyn Marshburn
+BIO,1802,101,(BIOLOGICAL CONCEPTS II),Stephanie Coleman McCleneghan
+BIO,1802,102,(BIOLOGICAL CONCEPTS II),Rene Armando Salinas
+BIO,1802,103,(BIOLOGICAL CONCEPTS II),Michael David Madritch
+BIO,1802,201,(Laboratory),Angela Elizabeth Langevin
 BIO,1802,201,(Laboratory),Sarah Evelyn Marshburn
-BIO,1802,202,(Laboratory),Angela Elizabeth Langevin, Sarah Evelyn Marshburn
-BIO,1802,202,(Laboratory),Angela Elizabeth Langevin, Sarah Evelyn Marshburn
-BIO,1802,203,(Laboratory),Michael Austin Perkins, Sarah Evelyn Marshburn
+BIO,1802,202,(Laboratory),Angela Elizabeth Langevin
+BIO,1802,202,(Laboratory),Angela Elizabeth Langevin
+BIO,1802,203,(Laboratory),Michael Austin Perkins
 BIO,1802,203,(Laboratory),Sarah Evelyn Marshburn
-BIO,1802,204,(Laboratory),John Anthony Jones, Sarah Evelyn Marshburn
+BIO,1802,204,(Laboratory),John Anthony Jones
 BIO,1802,204,(Laboratory),Sarah Evelyn Marshburn
-BIO,1802,205,(Laboratory),John Anthony Jones, Sarah Evelyn Marshburn
-BIO,1802,205,(Laboratory),Michael Scott Huffman, Sarah Evelyn Marshburn
-BIO,1802,206,(Laboratory),Michael Scott Huffman, Sarah Evelyn Marshburn
+BIO,1802,205,(Laboratory),John Anthony Jones
+BIO,1802,205,(Laboratory),Michael Scott Huffman
+BIO,1802,206,(Laboratory),Michael Scott Huffman
 BIO,1802,207,(Laboratory),Sarah Evelyn Marshburn
 BIO,1802,208,(Laboratory),Sarah Evelyn Marshburn
 BIO,1802,209,(Laboratory),Sarah Evelyn Marshburn
-BIO,1802,210,(Laboratory),Angela Elizabeth Langevin, Sarah Evelyn Marshburn
+BIO,1802,210,(Laboratory),Angela Elizabeth Langevin
 BIO,2000,101,(INTROD TO BOTANY),Zack E. Murrell
 BIO,2000,101,(INTROD TO BOTANY),Annkatrin Rose
 BIO,2000,201,(Laboratory),Andrew Patrick Jenkins
@@ -2840,11 +2840,11 @@ BIO,3301,205,(Laboratory),Kevin Michael Oley
 BIO,3301,206,(Laboratory),Chishimba Nathan Mowa
 BIO,3302,101,(ECOLOGY),Lynn Marie Siefferman
 BIO,3302,101,(ECOLOGY),Robert P. Creed
-BIO,3302,201,(Laboratory),Lynn Marie Siefferman, Michael Steven Osbourn
+BIO,3302,201,(Laboratory),Lynn Marie Siefferman
 BIO,3302,201,(Laboratory),Robert P. Creed
 BIO,3302,202,(Laboratory),Michael Steven Osbourn
 BIO,3302,202,(Laboratory),Robert P. Creed
-BIO,3302,203,(Laboratory),Lynn Marie Siefferman, Michael Steven Osbourn
+BIO,3302,203,(Laboratory),Lynn Marie Siefferman
 BIO,3302,203,(Laboratory),Jason Hardin Selong
 BIO,3308,101,(MICROBIOLOGY),Suzanna Leslie Brauer
 BIO,3308,101,(MICROBIOLOGY),Ece Karatan
@@ -3148,7 +3148,7 @@ B E,3340,104,(BUSINESS COMMUNICATIONS),Randy L. Joyner
 B E,3340,105,(BUSINESS COMMUNICATIONS),Angela Quesenberry Brown
 B E,3340,105,(BUSINESS COMMUNICATIONS),Randy L. Joyner
 B E,3340,106,(BUSINESS COMMUNICATIONS),Randy L. Joyner
-B E,3340,106,(BUSINESS COMMUNICATIONS),Randy L. Joyner, Richard Grant Dean
+B E,3340,106,(BUSINESS COMMUNICATIONS),Randy L. Joyner
 B E,3340,107,(BUSINESS COMMUNICATIONS),Randy L. Joyner
 B E,3340,107,(BUSINESS COMMUNICATIONS),Angela Quesenberry Brown
 B E,3340,108,(BUSINESS COMMUNICATIONS),Edward C. Brewer
@@ -3324,8 +3324,8 @@ CHE,2202,101,(ORGANIC CHEMISTRY II),Michael B. Ramey
 CHE,2202,101,(ORGANIC CHEMISTRY II),Patrick Joseph Donoghue
 CHE,2202,102,(ORGANIC CHEMISTRY II),Patrick Joseph Donoghue
 CHE,2202,410,(ORGANIC CHEMISTRY II),Michael B. Ramey
-CHE,2202,410,(ORGANIC CHEMISTRY II),Claudia P. Cartaya-Marin, Patrick Joseph Donoghue
-CHE,2202,411,(ORGANIC CHEMISTRY II),Claudia P. Cartaya-Marin, Patrick Joseph Donoghue
+CHE,2202,410,(ORGANIC CHEMISTRY II),Claudia P. Cartaya-Marin
+CHE,2202,411,(ORGANIC CHEMISTRY II),Claudia P. Cartaya-Marin
 CHE,2203,101,(ORGANIC CHEMISTRY LAB I),G V Nepali Rajapakse
 CHE,2203,101,(ORGANIC CHEMISTRY LAB I),G V Nepali Rajapakse
 CHE,2203,102,(ORGANIC CHEMISTRY LAB I),G V Nepali Rajapakse
@@ -3341,7 +3341,7 @@ CHE,2203,106,(ORGANIC CHEMISTRY LAB I),G V Nepali Rajapakse
 CHE,2203,107,(ORGANIC CHEMISTRY LAB I),G V Nepali Rajapakse
 CHE,2203,108,(ORGANIC CHEMISTRY LAB I),G V Nepali Rajapakse
 CHE,2203,109,(ORGANIC CHEMISTRY LAB I),G V Nepali Rajapakse
-CHE,2203,110,(ORGANIC CHEMISTRY LAB I),Arambe Gedara Jayantha Weerasinghe, G V Nepali Rajapakse
+CHE,2203,110,(ORGANIC CHEMISTRY LAB I),Arambe Gedara Jayantha Weerasinghe
 CHE,2204,101,(ORGANIC CHEMISTRY LAB II),G V Nepali Rajapakse
 CHE,2204,101,(ORGANIC CHEMISTRY LAB II),G V Nepali Rajapakse
 CHE,2204,102,(ORGANIC CHEMISTRY LAB II),G V Nepali Rajapakse
@@ -4303,85 +4303,85 @@ C I,4840,101,(BEGINNING VIDEO PRODUCTION),John Adam Henson
 C I,4840,101,(BEGINNING VIDEO PRODUCTION),John Adam Henson
 C I,4900,101,(STUDENT TEACHING),Monica A. Lambert
 C I,4900,101,(STUDENT TEACHING),Monica A. Lambert
-C I,4900,102,(STUDENT TEACHING),John Riley Caldwell, Bobby Lee Harkey , James Patrick Harkey , Monica A. Lambert
-C I,4900,102,(STUDENT TEACHING),Charles Keith Beamon, Monica A. Lambert
-C I,4900,103,(STUDENT TEACHING),Charles Keith Beamon, Monica A. Lambert
-C I,4900,103,(STUDENT TEACHING),Wilma Bailey Bisesi, Monica A. Lambert
-C I,4900,104,(STUDENT TEACHING),Wilma Bailey Bisesi, Monica A. Lambert
-C I,4900,104,(STUDENT TEACHING),Sherry Louise Blevins, Monica A. Lambert
-C I,4900,105,(STUDENT TEACHING),Sherry Louise Blevins, Monica A. Lambert
-C I,4900,105,(STUDENT TEACHING),James Manuel Bradshaw, Monica A. Lambert
-C I,4900,106,(STUDENT TEACHING),James Manuel Bradshaw, Monica A. Lambert
-C I,4900,106,(STUDENT TEACHING),Martha Nelson Brown, Monica A. Lambert
-C I,4900,107,(STUDENT TEACHING),Martha Nelson Brown, Monica A. Lambert
-C I,4900,107,(STUDENT TEACHING),Steve Burl Bumgarner, Monica A. Lambert
-C I,4900,108,(STUDENT TEACHING),Steve Burl Bumgarner, Monica A. Lambert
-C I,4900,108,(STUDENT TEACHING),John Riley Caldwell, Monica A. Lambert
-C I,4900,109,(STUDENT TEACHING),John Riley Caldwell, Monica A. Lambert
-C I,4900,109,(STUDENT TEACHING),Don Aaron Church, Monica A. Lambert
-C I,4900,110,(STUDENT TEACHING),Don Aaron Church, Monica A. Lambert
-C I,4900,110,(STUDENT TEACHING),Beth Dunfee Clark, Monica A. Lambert
-C I,4900,111,(STUDENT TEACHING),Beth Dunfee Clark, Monica A. Lambert
-C I,4900,111,(STUDENT TEACHING),Bonnie Sue Cook, Monica A. Lambert
-C I,4900,112,(STUDENT TEACHING),Bonnie Sue Cook, Monica A. Lambert
-C I,4900,112,(STUDENT TEACHING),Norman Dale Crotts, Monica A. Lambert
-C I,4900,113,(STUDENT TEACHING),Norman Dale Crotts, Monica A. Lambert
-C I,4900,113,(STUDENT TEACHING),Patricia Ellis Edwards, Monica A. Lambert
-C I,4900,114,(STUDENT TEACHING),Patricia Ellis Edwards, Monica A. Lambert
-C I,4900,114,(STUDENT TEACHING),Patricia F. Gibson, Monica A. Lambert
-C I,4900,115,(STUDENT TEACHING),William H. Gatewood, Monica A. Lambert
-C I,4900,115,(STUDENT TEACHING),Victoria Jeanne Grube, Monica A. Lambert
-C I,4900,116,(STUDENT TEACHING),Patricia F. Gibson, Monica A. Lambert
-C I,4900,116,(STUDENT TEACHING),Jean Sanders Hampton, Monica A. Lambert
-C I,4900,117,(STUDENT TEACHING),Victoria Jeanne Grube, Monica A. Lambert
-C I,4900,117,(STUDENT TEACHING),Bobby Lee Harkey, Monica A. Lambert
-C I,4900,118,(STUDENT TEACHING),Jean Sanders Hampton, Monica A. Lambert
-C I,4900,118,(STUDENT TEACHING),James Patrick Harkey, Monica A. Lambert
-C I,4900,119,(STUDENT TEACHING),Bobby Lee Harkey, Monica A. Lambert
-C I,4900,119,(STUDENT TEACHING),Larry David Harris, Monica A. Lambert
-C I,4900,120,(STUDENT TEACHING),James Patrick Harkey, Monica A. Lambert
-C I,4900,120,(STUDENT TEACHING),Kathy Ham Howell, Monica A. Lambert
-C I,4900,121,(STUDENT TEACHING),Larry David Harris, Monica A. Lambert
-C I,4900,121,(STUDENT TEACHING),Meg Gilmer Julian, Monica A. Lambert
-C I,4900,122,(STUDENT TEACHING),Kathy Ham Howell, Monica A. Lambert
-C I,4900,122,(STUDENT TEACHING),JoAnn Hamilton Laney, Monica A. Lambert
-C I,4900,123,(STUDENT TEACHING),Meg Gilmer Julian, Monica A. Lambert
-C I,4900,123,(STUDENT TEACHING),David Allen Mikeal, Monica A. Lambert
-C I,4900,124,(STUDENT TEACHING),David Allen Mikeal, Monica A. Lambert
-C I,4900,124,(STUDENT TEACHING),Jennifer Blythe Moore, Monica A. Lambert
-C I,4900,125,(STUDENT TEACHING),Cynthia Mullen Poe, Monica A. Lambert
-C I,4900,126,(STUDENT TEACHING),Cynthia Mullen Poe, Monica A. Lambert
-C I,4900,126,(STUDENT TEACHING),Nancy Robinson Reeves, Monica A. Lambert
-C I,4900,127,(STUDENT TEACHING),Nancy Robinson Reeves, Monica A. Lambert
-C I,4900,127,(STUDENT TEACHING),Olivia G. Riddle, Monica A. Lambert
-C I,4900,128,(STUDENT TEACHING),Olivia G. Riddle, Monica A. Lambert
-C I,4900,128,(STUDENT TEACHING),Larry Thomas Rousseau, Monica A. Lambert
-C I,4900,129,(STUDENT TEACHING),Larry Thomas Rousseau, Monica A. Lambert
-C I,4900,129,(STUDENT TEACHING),Rhonda Lynnette Doss Russell, Monica A. Lambert
-C I,4900,130,(STUDENT TEACHING),Rhonda Lynnette Doss Russell, Monica A. Lambert
-C I,4900,130,(STUDENT TEACHING),Brenda Reeves Sutherland, Monica A. Lambert
-C I,4900,131,(STUDENT TEACHING),Brenda Reeves Sutherland, Monica A. Lambert
-C I,4900,131,(STUDENT TEACHING),Holly Jade Thornton, Monica A. Lambert
-C I,4900,132,(STUDENT TEACHING),Alyssia Joy Ruggiero, Monica A. Lambert
-C I,4900,132,(STUDENT TEACHING),Brooke Lee Hardin, Monica A. Lambert
-C I,4900,133,(STUDENT TEACHING),Anita Dawn Brendle-Corum, Monica A. Lambert
-C I,4900,134,(STUDENT TEACHING),Mary Jo Forde, Monica A. Lambert
-C I,4900,350,(STUDENT TEACHING),Monica A. Lambert, Holly Jade Thornton
-C I,4900,350,(STUDENT TEACHING),Brenda Reeves Sutherland, Monica A. Lambert
-C I,4900,351,(STUDENT TEACHING),Monica A. Lambert, Herbert F. Brown
-C I,4900,351,(STUDENT TEACHING),Larry David Harris, Monica A. Lambert
-C I,4900,352,(STUDENT TEACHING),Monica A. Lambert, Rhonda Lynnette Doss Russell
-C I,4900,352,(STUDENT TEACHING),Steve Burl Bumgarner, Monica A. Lambert
-C I,4900,353,(STUDENT TEACHING),Robert Raymond Heath, Monica A. Lambert
-C I,4900,354,(STUDENT TEACHING),Monica A. Lambert, Larry David Harris
-C I,4900,355,(STUDENT TEACHING),Monica A. Lambert, James Patrick Harkey
-C I,4900,356,(STUDENT TEACHING),Monica A. Lambert, James Patrick Harkey
-C I,4900,357,(STUDENT TEACHING),Monica A. Lambert, Bobby Lee Harkey
-C I,4900,358,(STUDENT TEACHING),Monica A. Lambert, Jean Sanders Hampton
-C I,4900,359,(STUDENT TEACHING),Monica A. Lambert, John Riley Caldwell
-C I,4900,360,(STUDENT TEACHING),Monica A. Lambert, Steve Burl Bumgarner
-C I,4900,361,(STUDENT TEACHING),Monica A. Lambert, Steve Burl Bumgarner
-C I,4900,362,(STUDENT TEACHING),Monica A. Lambert, James Manuel Bradshaw
+C I,4900,102,(STUDENT TEACHING),John Riley Caldwell, Bobby Lee Harkey , James Patrick Harkey 
+C I,4900,102,(STUDENT TEACHING),Charles Keith Beamon
+C I,4900,103,(STUDENT TEACHING),Charles Keith Beamon
+C I,4900,103,(STUDENT TEACHING),Wilma Bailey Bisesi
+C I,4900,104,(STUDENT TEACHING),Wilma Bailey Bisesi
+C I,4900,104,(STUDENT TEACHING),Sherry Louise Blevins
+C I,4900,105,(STUDENT TEACHING),Sherry Louise Blevins
+C I,4900,105,(STUDENT TEACHING),James Manuel Bradshaw
+C I,4900,106,(STUDENT TEACHING),James Manuel Bradshaw
+C I,4900,106,(STUDENT TEACHING),Martha Nelson Brown
+C I,4900,107,(STUDENT TEACHING),Martha Nelson Brown
+C I,4900,107,(STUDENT TEACHING),Steve Burl Bumgarner
+C I,4900,108,(STUDENT TEACHING),Steve Burl Bumgarner
+C I,4900,108,(STUDENT TEACHING),John Riley Caldwell
+C I,4900,109,(STUDENT TEACHING),John Riley Caldwell
+C I,4900,109,(STUDENT TEACHING),Don Aaron Church
+C I,4900,110,(STUDENT TEACHING),Don Aaron Church
+C I,4900,110,(STUDENT TEACHING),Beth Dunfee Clark
+C I,4900,111,(STUDENT TEACHING),Beth Dunfee Clark
+C I,4900,111,(STUDENT TEACHING),Bonnie Sue Cook
+C I,4900,112,(STUDENT TEACHING),Bonnie Sue Cook
+C I,4900,112,(STUDENT TEACHING),Norman Dale Crotts
+C I,4900,113,(STUDENT TEACHING),Norman Dale Crotts
+C I,4900,113,(STUDENT TEACHING),Patricia Ellis Edwards
+C I,4900,114,(STUDENT TEACHING),Patricia Ellis Edwards
+C I,4900,114,(STUDENT TEACHING),Patricia F. Gibson
+C I,4900,115,(STUDENT TEACHING),William H. Gatewood
+C I,4900,115,(STUDENT TEACHING),Victoria Jeanne Grube
+C I,4900,116,(STUDENT TEACHING),Patricia F. Gibson
+C I,4900,116,(STUDENT TEACHING),Jean Sanders Hampton
+C I,4900,117,(STUDENT TEACHING),Victoria Jeanne Grube
+C I,4900,117,(STUDENT TEACHING),Bobby Lee Harkey
+C I,4900,118,(STUDENT TEACHING),Jean Sanders Hampton
+C I,4900,118,(STUDENT TEACHING),James Patrick Harkey
+C I,4900,119,(STUDENT TEACHING),Bobby Lee Harkey
+C I,4900,119,(STUDENT TEACHING),Larry David Harris
+C I,4900,120,(STUDENT TEACHING),James Patrick Harkey
+C I,4900,120,(STUDENT TEACHING),Kathy Ham Howell
+C I,4900,121,(STUDENT TEACHING),Larry David Harris
+C I,4900,121,(STUDENT TEACHING),Meg Gilmer Julian
+C I,4900,122,(STUDENT TEACHING),Kathy Ham Howell
+C I,4900,122,(STUDENT TEACHING),JoAnn Hamilton Laney
+C I,4900,123,(STUDENT TEACHING),Meg Gilmer Julian
+C I,4900,123,(STUDENT TEACHING),David Allen Mikeal
+C I,4900,124,(STUDENT TEACHING),David Allen Mikeal
+C I,4900,124,(STUDENT TEACHING),Jennifer Blythe Moore
+C I,4900,125,(STUDENT TEACHING),Cynthia Mullen Poe
+C I,4900,126,(STUDENT TEACHING),Cynthia Mullen Poe
+C I,4900,126,(STUDENT TEACHING),Nancy Robinson Reeves
+C I,4900,127,(STUDENT TEACHING),Nancy Robinson Reeves
+C I,4900,127,(STUDENT TEACHING),Olivia G. Riddle
+C I,4900,128,(STUDENT TEACHING),Olivia G. Riddle
+C I,4900,128,(STUDENT TEACHING),Larry Thomas Rousseau
+C I,4900,129,(STUDENT TEACHING),Larry Thomas Rousseau
+C I,4900,129,(STUDENT TEACHING),Rhonda Lynnette Doss Russell
+C I,4900,130,(STUDENT TEACHING),Rhonda Lynnette Doss Russell
+C I,4900,130,(STUDENT TEACHING),Brenda Reeves Sutherland
+C I,4900,131,(STUDENT TEACHING),Brenda Reeves Sutherland
+C I,4900,131,(STUDENT TEACHING),Holly Jade Thornton
+C I,4900,132,(STUDENT TEACHING),Alyssia Joy Ruggiero
+C I,4900,132,(STUDENT TEACHING),Brooke Lee Hardin
+C I,4900,133,(STUDENT TEACHING),Anita Dawn Brendle-Corum
+C I,4900,134,(STUDENT TEACHING),Mary Jo Forde
+C I,4900,350,(STUDENT TEACHING),Monica A. Lambert
+C I,4900,350,(STUDENT TEACHING),Brenda Reeves Sutherland
+C I,4900,351,(STUDENT TEACHING),Monica A. Lambert
+C I,4900,351,(STUDENT TEACHING),Larry David Harris
+C I,4900,352,(STUDENT TEACHING),Monica A. Lambert
+C I,4900,352,(STUDENT TEACHING),Steve Burl Bumgarner
+C I,4900,353,(STUDENT TEACHING),Robert Raymond Heath
+C I,4900,354,(STUDENT TEACHING),Monica A. Lambert
+C I,4900,355,(STUDENT TEACHING),Monica A. Lambert
+C I,4900,356,(STUDENT TEACHING),Monica A. Lambert
+C I,4900,357,(STUDENT TEACHING),Monica A. Lambert
+C I,4900,358,(STUDENT TEACHING),Monica A. Lambert
+C I,4900,359,(STUDENT TEACHING),Monica A. Lambert
+C I,4900,360,(STUDENT TEACHING),Monica A. Lambert
+C I,4900,361,(STUDENT TEACHING),Monica A. Lambert
+C I,4900,362,(STUDENT TEACHING),Monica A. Lambert
 C I,5041,375,(ASSESS IMPROVE LEARN INF TEACH),Sara O. Zimmerman
 C I,5041,375,(ASSESS IMPROVE LEARN INF TEACH),Sara O. Zimmerman
 C I,5045,101,(ADVANCED TOPICS IN DIVERSITY),Gregory Scott McClure
@@ -4494,11 +4494,11 @@ DAN,3580,101,(GYROKINESIS),Rebecca Howe Quin
 DAN,3580,102,(GYROKINESIS),Rebecca Howe Quin
 DAN,3580,102,(GYROKINESIS),Rebecca Howe Quin
 DAN,4405,101,(MODERN DANCE IV),Emily Elizabeth Daughtridge
-DAN,4420,101,(CHOREOGRAPHY),Emily Elizabeth Daughtridge, Sherone Devone Price
+DAN,4420,101,(CHOREOGRAPHY),Emily Elizabeth Daughtridge
 DAN,4420,101,(CHOREOGRAPHY),Sherone Devone Price
-DAN,4420,103,(CHOREOGRAPHY),Sherone Devone Price, Emily Elizabeth Daughtridge
 DAN,4420,103,(CHOREOGRAPHY),Sherone Devone Price
-DAN,4420,104,(CHOREOGRAPHY),Emily Elizabeth Daughtridge, Sherone Devone Price
+DAN,4420,103,(CHOREOGRAPHY),Sherone Devone Price
+DAN,4420,104,(CHOREOGRAPHY),Emily Elizabeth Daughtridge
 DAN,4460,101,(SOMATICS),Marianne Adams
 DAN,4460,101,(SOMATICS),Lauren Elizabeth Atkins
 DAN,4480,101,(PILATES CONDITIONING II),Lauren Elizabeth Atkins
@@ -4506,7 +4506,7 @@ DAN,4480,101,(PILATES CONDITIONING II),Rebecca Howe Quin
 DAN,4510,101,(SR HONOR THESIS/PROJECT),Susan Wynn Lutz
 DAN,4830,101,(COLLABORATIVE PROCESS),Emily Elizabeth Daughtridge
 DAN,4840,101,(CAPSTONE),Susan Wynn Lutz
-DAN,4870,101,(CREATIVE PROC, MOVEMN & THER),Marianne Adams, Lauren Elizabeth Atkins
+DAN,4870,101,(CREATIVE PROC, MOVEMN & THER),Marianne Adams
 DAN,5460,101,(SOMATICS),Marianne Adams
 ECO,2030,101,(PRINCIPLES OF MICROECONOMICS),David L. Dickinson
 ECO,2030,101,(PRINCIPLES OF MICROECONOMICS),David L. Dickinson
@@ -4819,11 +4819,11 @@ ENG,1000,401,(EXPOSITORY WRITING),Janet K. Beck
 ENG,1000,402,(EXPOSITORY WRITING),Janet K. Beck
 ENG,2001,101,(INTR WRITING ACROSS CURRICULUM),Donna Tolley Corriher
 ENG,2001,101,(INTR WRITING ACROSS CURRICULUM),Morgan Whitney Pruitt
-ENG,2001,102,(INTR WRITING ACROSS CURRICULUM),Catherine Elaine Talley, Amanda Elledge Finn
+ENG,2001,102,(INTR WRITING ACROSS CURRICULUM),Catherine Elaine Talley
 ENG,2001,102,(INTR WRITING ACROSS CURRICULUM),Lauren Nicole Yero
 ENG,2001,103,(INTR WRITING ACROSS CURRICULUM),Joel Mark Berrier
 ENG,2001,103,(INTR WRITING ACROSS CURRICULUM),Linley Kaitlin Williams
-ENG,2001,104,(INTR WRITING ACROSS CURRICULUM),Catherine Elaine Talley, John Cole Wahab
+ENG,2001,104,(INTR WRITING ACROSS CURRICULUM),Catherine Elaine Talley
 ENG,2001,104,(INTR WRITING ACROSS CURRICULUM),Kirsten M. Jorgenson
 ENG,2001,105,(INTR WRITING ACROSS CURRICULUM),Donna Tolley Corriher
 ENG,2001,105,(INTR WRITING ACROSS CURRICULUM),Matthew Ryan Staton
@@ -4841,7 +4841,7 @@ ENG,2001,111,(INTR WRITING ACROSS CURRICULUM),Hailie Marie Bryant
 ENG,2001,111,(INTR WRITING ACROSS CURRICULUM),Kevin Wood Pyon
 ENG,2001,112,(INTR WRITING ACROSS CURRICULUM),Sharon Alusow Hart
 ENG,2001,112,(INTR WRITING ACROSS CURRICULUM),Matthew Ryan Staton
-ENG,2001,113,(INTR WRITING ACROSS CURRICULUM),Catherine Elaine Talley, Hailie Marie Bryant
+ENG,2001,113,(INTR WRITING ACROSS CURRICULUM),Catherine Elaine Talley
 ENG,2001,113,(INTR WRITING ACROSS CURRICULUM),Richard Miles Britton
 ENG,2001,114,(INTR WRITING ACROSS CURRICULUM),Kathryn Zitzner Birgel
 ENG,2001,114,(INTR WRITING ACROSS CURRICULUM),Jessica Belle Blackburn
@@ -5165,7 +5165,7 @@ ENG,3670,101,(PLAYWRITING),Derek Samuel Davidson
 ENG,3670,101,(PLAYWRITING),Derek Samuel Davidson
 ENG,3679,101,(SCREENWRITING),Glenn Arden Bruce
 ENG,3679,101,(SCREENWRITING),Glenn Arden Bruce
-ENG,3680,101,(LITERARY JOURNALISM),Jean L. DeHart, David Lynn Coulson
+ENG,3680,101,(LITERARY JOURNALISM),Jean L. DeHart
 ENG,3700,101,(TECHNICAL WRITING),Wendy Lee Winn
 ENG,3700,101,(TECHNICAL WRITING),Katrina Layton Hinson
 ENG,3700,102,(TECHNICAL WRITING),Katrina Layton Hinson
@@ -5453,7 +5453,7 @@ E S,5560,101,(RESEARCH PROJECT),Alan C. Utter
 E S,5560,102,(RESEARCH PROJECT),N. Travis Triplett
 E S,5560,103,(RESEARCH PROJECT),Jeffrey M. McBride
 E S,5560,104,(RESEARCH PROJECT),Rebecca Ann Battista
-E S,5591,101,(BIOMECH PHYSIOL LAB ASSM),Jeffrey M. McBride, Edward Kelly Merritt
+E S,5591,101,(BIOMECH PHYSIOL LAB ASSM),Jeffrey M. McBride
 E S,5592,101,(DATA ANALY IN SP EXER SC),Robert L. Johnson
 E S,5592,102,(DATA ANALY IN SP EXER SC),Robert L. Johnson
 E S,5600,101,(SURV OF SPORTS PERFORMANCE),N. Travis Triplett
@@ -6288,7 +6288,7 @@ H E,6330,375,(ORGANIZG FOR LRNG & DIVERSITY),Charles S. Claxton
 H E,6340,375,(POLICY ANALYSIS IN HIGHER EDUC),Hunter R. Boylan
 H E,6340,375,(POLICY ANALYSIS IN HIGHER EDUC),Hunter R. Boylan
 H E,6350,375,(LDG ORG CHANGE IN HIGHER EDUC),Charles S. Claxton
-H E,6360,375,(ORGZTL ANALYSIS HIGHER EDUCATN),Anthony Paul Jones, Terry Wayne McClannon
+H E,6360,375,(ORGZTL ANALYSIS HIGHER EDUCATN),Anthony Paul Jones
 H E,6360,375,(ORGZTL ANALYSIS HIGHER EDUCATN),Anthony Paul Jones
 H E,6360,376,(ORGZTL ANALYSIS HIGHER EDUCATN),Anthony Paul Jones
 H E,6370,375,(DSGN CLT RSPSNV LRNG ENVRNMNTS),Barbara S. Bonham
@@ -6545,7 +6545,7 @@ HIS,5999,103,(THESIS),Judkin Jay Browning
 HIS,5999,104,(THESIS),Andrea Alison Burns
 HON,1515,101,(METAMRPH IN LIFE: LOVE & DEATH),Michael W. Dale
 HON,1515,101,(METAMORPH IN LIFE:LOVE & DEATH),Michael W. Dale
-HON,1515,102,(COMPUTER FORENSICS),Cindy Norris, James B. Fenwick
+HON,1515,102,(COMPUTER FORENSICS),Cindy Norris
 HON,1515,103,(BUSINESS FOR GOOD),Jesse Dylon Pipes
 HON,1515,104,(SOUND ADVICE: SENSE OF SOUND),Thomas Vincent Licata
 HON,1515,105,(CONTMP BRAZILIAN LIT & CULTURE),Brent Alan James
@@ -6587,7 +6587,7 @@ HON,3515,108,(COMMUNITY-BASED ART),Thomas S. Hansell
 HON,3515,108,(INTL EXP: BRINGING WORLD HOME),Jeanne Ann Dubino
 HON,3515,109,(EXEC SEM INT'L LDSHP & ETHICS),Roy Johnson McCraw
 HON,3530,101,(SCIENTIFIC PUBLISHING),Leslie Sargent Jones
-HON,3531,101,(VOYAGES),Leslie Sargent Jones, Angela Dawn Mead
+HON,3531,101,(VOYAGES),Leslie Sargent Jones
 HON,3531,101,(HONORS INTERNATNAL EXPERIENCE),Leslie Sargent Jones
 HON,4010,101,(SR HONORS THESIS/PROJECT),Rebecca Hutchins
 HON,4010,101,(SR HONORS THESIS/PROJECT),Gregory G. Reck
@@ -6650,13 +6650,13 @@ HPC,2700,103,(PRINCIPLES OF LEADERSHIP),Rebecca Ann Cooke
 HPC,3400,103,(RESIDENT ASSISTANT DEV),Jason Lamar Timpson
 HPC,3400,104,(RESIDENT ASSISTANT DEV),Stephanie M. Zee
 HPC,3532,101,(LEADERSHIP IN ATHLETICS),Jean H. Roberts
-HPC,3533,101,(WOMEN AND LEADERSHIP),Kimberly Lee Mitchell, Ellen Paget Hartman
+HPC,3533,101,(WOMEN AND LEADERSHIP),Kimberly Lee Mitchell
 HPC,3536,101,(INT SRV LRN NIC: GLMP CULT ISS),Augusto E. Pena
 HPC,3537,101,(LEADERSHIP & ETHICS),James Lonnie Street
 HPC,3540,101,(ADV LIFE & CAREER),Joshua David Elrod
 HPC,3541,101,(PEER LEADERSHIP ASE),Heather Jo Mashburn
 HPC,3542,101,(MULTICULTURAL LEADERSHIP DEVEL),Augusto E. Pena
-HPC,4300,101,(ADV STUDENT LDRSHIP DEV),Berardino J. DiBernardi, Cindy A. Wallace
+HPC,4300,101,(ADV STUDENT LDRSHIP DEV),Berardino J. DiBernardi
 HPC,4570,101,(THE ADDICTIVE PROCESS),Geraldine Alice Miller
 HPC,4570,101,(THE ADDICTIVE PROCESS),Geraldine Alice Miller
 HPC,4700,101,(CAPSTONE SEM IN LEADERSHIP),James Lonnie Street
@@ -6707,7 +6707,7 @@ HPC,5790,102,(GROUP METH & PROCESSES),Glenda Johnson
 HPC,5820,101,(COLLEGE SDNT DEV THEORIES I),Catherine R. Clark
 HPC,5821,101,(CLG STD DEV THEORIES II),Catherine R. Clark
 HPC,5860,101,(DREAMWORK: CLINICAL METHODS),Harold Van McKinney
-HPC,5870,101,(CREATIVE PROC, MOVEMN & THER),Marianne Adams, Lauren Elizabeth Atkins
+HPC,5870,101,(CREATIVE PROC, MOVEMN & THER),Marianne Adams
 HPC,5900,101,(COUNSELING PRACTICUM),Melia Ann Kizer
 HPC,5900,101,(PRACTICUM IN COUNSELING),Melia Ann Kizer
 HPC,5900,102,(COUNSELING PRACTICUM),Katherine Leigh Lyall
@@ -6956,7 +6956,7 @@ LLC,2025,104,(CLASSICS OF FRENCH LIT),Darci Lauren Gardner
 LLC,2025,104,(LIT IN TRANS: ISRAEL PALESTINE),Jeffrey Keyes Eastman
 LLC,2025,105,(GOLDEN AGE IN SPANISH LIT),Jeffrey Keyes Eastman
 LLC,2025,105,(LIT IN TRANS: CLASSICS IN RUSS),Irina Yevgenevna Barclay
-LLC,2025,106,(ARABIC LIT IN TRANSLATION),Saloua Ben Zahra, James Donald Fogelquist
+LLC,2025,106,(ARABIC LIT IN TRANSLATION),Saloua Ben Zahra
 LLC,2025,106,(LIT IN TRANS: DON QUIXOTE),James Donald Fogelquist
 LLC,2025,107,(ARAB CULTURE IN LIT & FILM),Saloua Ben Zahra
 LLC,2025,108,(LIT IN TRANS: PARIS TALES CTY),Darci Lauren Gardner
@@ -6967,8 +6967,8 @@ LLC,2050,102,(SAY WHAT? LANG MIND & SOCIETY),Benjamin John Souza
 LLC,2050,102,(SAY WHAT? LANG MIND & SOCIETY),Sarah Elizabeth Miller
 LLC,3010,101,(SECOND LANG ACQUISITION),Benjamin John Souza
 LLC,3020,101,(LANG, SOC & TCH OF ESL),Catherine Anne Fountain
-LLC,3120,101,(TCHG LANGUAGES:THEORY & PRACT),Catherine Anne Fountain, Carmen Leigh Scoggins
-LLC,3120,101,(TCHG LANGUAGES:THEORY & PRACT),Catherine Anne Fountain, Carmen Leigh Scoggins
+LLC,3120,101,(TCHG LANGUAGES:THEORY & PRACT),Catherine Anne Fountain
+LLC,3120,101,(TCHG LANGUAGES:THEORY & PRACT),Catherine Anne Fountain
 LLC,3500,101,(INDEPENDENT LANGUAGE STUDY),Melvin Jacob Ballard
 LLC,3500,101,(EUROPN FAIRY TALES AROUND 1800),Alexandra C. Sterling-Hellenbrand
 LLC,3500,102,(JAPANESE FOLKLORE),Melvin Jacob Ballard
@@ -7110,7 +7110,7 @@ MGT,3170,101,(CREATIVITY AND DESIGN),Mark Oliver Lewis
 MGT,3170,350,(CREATIVITY AND DESIGN),Mark Oliver Lewis
 MGT,3190,101,(INT'L ENTREPRENEURSHIP),Dan Kai Hsu
 MGT,3190,101,(INT'L ENTREPRENEURSHIP),Dan Kai Hsu
-MGT,3500,101,(PRODUCT MANAGEMENT),Richard D. Cotton, Jacqueline Zelno Bergman
+MGT,3500,101,(PRODUCT MANAGEMENT),Richard D. Cotton
 MGT,3510,101,(JUNIOR HONORS THESIS),B. Dawn Medlin
 MGT,3531,101,(INOVATION & DESN PRA),Mark Oliver Lewis
 MGT,3620,101,(HUMAN RESOURCE MANAGEMNT),Jeremy B. Fox
@@ -7341,7 +7341,7 @@ MBA,5820,103,(EXECUTIVE SKILLS),Roy Johnson McCraw
 MBA,5820,103,(EXECUTIVE SKILLS),Timothy James Bailey
 MBA,5820,105,(EXECUTIVE SKILLS),Timothy James Bailey
 MBA,5820,105,(EXECUTIVE SKILLS),Sandra Ann Vannoy
-MBA,5820,375,(EXECUTIVE SKILLS),Steven Austin Jesseph, Sandra Ann Vannoy
+MBA,5820,375,(EXECUTIVE SKILLS),Steven Austin Jesseph
 MBA,5820,375,(EXECUTIVE SKILLS),Kennon Alexander White
 MBA,5820,376,(EXECUTIVE SKILLS),Timothy James Bailey
 MBA,5870,101,(ANALYTICAL MODELS FOR SCM),Dineshchandra S. Dave
@@ -7634,17 +7634,17 @@ MSL,1002,201,(Laboratory),Darrell Joe Weatherford
 MSL,1002,202,(Laboratory),Darrell Joe Weatherford
 MSL,1101,101,(ARMY PHYSICAL FITNESS),Tom Cai
 MSL,1101,101,(ARMY PHYSICAL FITNESS),Tom Cai
-MSL,2001,101,(INDIV'L LEADERSHIP STUDIES),Jeremy Daniel Stout, Tom Cai
-MSL,2001,102,(INDIV'L LEADERSHIP STUDIES),Jeremy Daniel Stout, Tom Cai
-MSL,2001,201,(Laboratory),Jeremy Daniel Stout, Tom Cai
-MSL,2001,202,(Laboratory),Jeremy Daniel Stout, Tom Cai
+MSL,2001,101,(INDIV'L LEADERSHIP STUDIES),Jeremy Daniel Stout
+MSL,2001,102,(INDIV'L LEADERSHIP STUDIES),Jeremy Daniel Stout
+MSL,2001,201,(Laboratory),Jeremy Daniel Stout
+MSL,2001,202,(Laboratory),Jeremy Daniel Stout
 MSL,2002,101,(LEADERSHIP & TEAMWORK),Tom Cai
 MSL,2002,102,(LEADERSHIP & TEAMWORK),Tom Cai
 MSL,2002,201,(Laboratory),Tom Cai
 MSL,2002,202,(Laboratory),Tom Cai
-MSL,3001,101,(LEADERSHIP & PROBLEM SOLVING),Christopher Minter, Micah Hawthorne
-MSL,3001,102,(LEADERSHIP & PROBLEM SOLVING),Christopher Minter, Micah Hawthorne
-MSL,3001,201,(Laboratory),Christopher Minter, Micah Hawthorne
+MSL,3001,101,(LEADERSHIP & PROBLEM SOLVING),Christopher Minter
+MSL,3001,102,(LEADERSHIP & PROBLEM SOLVING),Christopher Minter
+MSL,3001,201,(Laboratory),Christopher Minter
 MSL,3002,101,(LEADERSHIP & ETHICS),Micah Hawthorne
 MSL,3002,102,(LEADERSHIP & ETHICS),Micah Hawthorne
 MSL,3002,201,(Laboratory),Micah Hawthorne
@@ -7652,8 +7652,8 @@ MSL,4001,101,(LEADERSHIP & MANAGEMENT),David Wayne Cox
 MSL,4001,102,(LEADERSHIP & MANAGEMENT),David Wayne Cox
 MSL,4001,201,(Laboratory),David Wayne Cox
 MSL,4001,202,(Laboratory),David Wayne Cox
-MSL,4002,101,(OFFICERSHIP),David Wayne Cox, Mark A. Herlick
-MSL,4002,201,(Laboratory),David Wayne Cox, Mark A. Herlick
+MSL,4002,101,(OFFICERSHIP),David Wayne Cox
+MSL,4002,201,(Laboratory),David Wayne Cox
 MUS,0900,101,(INTRODUCTION TO MUSIC THEORY),Andrew Charles Hannon
 MUS,0900,102,(INTRODUCTION TO MUSIC THEORY),Andrew Charles Hannon
 MUS,1000,101,(ELEMENTS OF MUS THEORY),Kenneth P. Lurie
@@ -7681,8 +7681,8 @@ MUS,1008,102,(AURAL SKILLS II),Andrew Charles Hannon
 MUS,1008,103,(AURAL SKILLS II),Jennifer Sterling Snodgrass
 MUS,1028,101,(TRUMPT TROMBONE EUPHONIUM TUBA),William Henry Witcher
 MUS,1028,101,(BRASS CLASS),William Henry Witcher
-MUS,1030,101,(STRINGS CLASS),Eric Edward Koontz, Kenneth P. Lurie
-MUS,1030,101,(STRINGS CLASS),Eric Edward Koontz, Kenneth P. Lurie
+MUS,1030,101,(STRINGS CLASS),Eric Edward Koontz
+MUS,1030,101,(STRINGS CLASS),Eric Edward Koontz
 MUS,1032,101,(PERCUSSION CLASS),Jay C. Jackson
 MUS,1032,101,(PERCUSSION CLASS),Jay C. Jackson
 MUS,1035,101,(FLUTE CLARINET SAXOPHONE),Scott Duane Kallestad
@@ -7811,10 +7811,10 @@ MUS,1135,101,(STEEL BAND),Byron Hedgepeth
 MUS,1135,101,(STEEL BAND),Byron Hedgepeth
 MUS,1135,102,(STEEL BAND),Byron Hedgepeth
 MUS,1135,102,(STEEL BAND),Byron Hedgepeth
-MUS,1136,101,(BRASS QUINTET),James Mitchell Stokes, Drew Clifton Leslie
-MUS,1136,101,(BRASS QUINTET),Karen Lee Robertson, James Mitchell Stokes
-MUS,1136,102,(BRASS QUINTET),James Mitchell Stokes, Drew Clifton Leslie
-MUS,1136,102,(BRASS QUINTET),Karen Lee Robertson, James Mitchell Stokes
+MUS,1136,101,(BRASS QUINTET),James Mitchell Stokes
+MUS,1136,101,(BRASS QUINTET),Karen Lee Robertson
+MUS,1136,102,(BRASS QUINTET),James Mitchell Stokes
+MUS,1136,102,(BRASS QUINTET),Karen Lee Robertson
 MUS,1137,101,(TUBA CHOIR),Bernard Hampton Flythe
 MUS,1137,101,(TUBA CHOIR),Bernard Hampton Flythe
 MUS,1137,102,(TUBA CHOIR),Bernard Hampton Flythe
@@ -7929,7 +7929,7 @@ MUS,3002,101,(MUSIC THEORY V),Thomas Vincent Licata
 MUS,3020,101,(CONDUCTING),John Stanley Ross
 MUS,3020,102,(CONDUCTING),Chung Hoon Park
 MUS,3020,103,(CONDUCTING),Stephen Morris Hopkins
-MUS,3021,101,(INSTRUMENTAL CONDUCTING),John Stanley Ross, Jay C. Jackson
+MUS,3021,101,(INSTRUMENTAL CONDUCTING),John Stanley Ross
 MUS,3021,102,(INSTRUMENTAL CONDUCTING),Chung Hoon Park
 MUS,3022,101,(CHORAL CONDUCTING),Stephen Morris Hopkins
 MUS,3031,101,(BAND TECHNIQUES & MTRLS),Kevin Gray Richardson
@@ -7983,7 +7983,7 @@ MUS,3532,101,(EXPLORING IMPROVISATION),Keith Dwayne McCutchen
 MUS,3533,101,(CORE REP FOR BOWED STRINGS),Eric Edward Koontz
 MUS,3534,101,(JAZZ IN WESTERN EUROPE),TBA
 MUS,3535,101,(MUSIC THEORY PEDAGOGY),Jennifer Sterling Snodgrass
-MUS,3536,101,(HIS & LIT OF GTR & LUTE),Douglas G. James, Gary Rice Boye
+MUS,3536,101,(HIS & LIT OF GTR & LUTE),Douglas G. James
 MUS,3611,101,(MUSIC HISTORY & STYLE III),Elizabeth Reeves Shulstad
 MUS,3611,102,(MUSIC HISTORY & STYLE III),Elizabeth Reeves Shulstad
 MUS,3611,103,(MUSIC HISTORY & STYLE III),Elizabeth Reeves Shulstad
@@ -8046,8 +8046,8 @@ MUS,5100,101,(PERFORMANCE ENSEMBLE),Jennifer Sterling Snodgrass
 MUS,5100,101,(PERFORMANCE ENSEMBLE),Jennifer Sterling Snodgrass
 MUS,5160,101,(CONDUCTING SEMINAR),John Stanley Ross
 MUS,5160,101,(CONDUCTING SEMINAR),John Stanley Ross
-MUS,5170,101,(PROF & SCHOL PRACT MUSICIANS),Gary Rice Boye, Laurie R. Semmes , Kim L. Wangler
-MUS,5200,101,(MUSIC THERAPY LAB),Katurah Ruth Christenbury, Jay C. Jackson
+MUS,5170,101,(PROF & SCHOL PRACT MUSICIANS),Gary Rice Boye, Laurie R. Semmes 
+MUS,5200,101,(MUSIC THERAPY LAB),Katurah Ruth Christenbury
 MUS,5200,101,(MUSIC THERAPY LAB),Katurah Ruth Christenbury
 MUS,5500,101,(JAZZ PIANO),Todd Tobias Wright
 MUS,5500,102,(PERCUSSION FOR MUSIC THERAPY),Robert Joseph Falvo
@@ -8072,7 +8072,7 @@ MUS,5530,108,(AMER ORGAN BLDG FROM THE 1700S),Joby Ray Bell
 MUS,5530,109,(PROMO EMPOWER WOMEN MOZ OPERA),Julia A. Pedigo
 MUS,5533,101,(CORE REP FOR BOWED STRINGS),Eric Edward Koontz
 MUS,5533,102,(CORE REP FOR BOWED STRINGS),Eric Edward Koontz
-MUS,5536,101,(HIS & LIT OF GTR & LUTE),Douglas G. James, Gary Rice Boye
+MUS,5536,101,(HIS & LIT OF GTR & LUTE),Douglas G. James
 MUS,5600,101,(ANALYTICAL TECHNIQUES),Hiu-Wah Au
 MUS,5900,101,(ADV MUSIC THERAPY PRACT),Cathy Harbison McKinney
 MUS,5900,101,(ADV MUSIC THERAPY PRACT),Cathy Harbison McKinney
@@ -8112,17 +8112,17 @@ NUR,3031,353,(NURSING CARE OF OLDER ADULTS),Robie Victoria Hughes
 NUR,3100,100,(ADULT HEALTH NURSING I),Linda S. Johanson
 NUR,3102,101,(ADULT HEALTH NURSING II),Linda S. Johanson
 NUR,3110,100,(ADLT HEALTH NURSING I CLINICAL),Wendy Elizabeth Miller
-NUR,3110,101,(ADLT HEALTH NURSING I CLINICAL),Wendy Elizabeth Miller, Angie Mabe Koontz
-NUR,3110,102,(ADLT HEALTH NURSING I CLINICAL),Wendy Elizabeth Miller, Cynthia R. Attaway
-NUR,3110,103,(ADLT HEALTH NURSING I CLINICAL),Wendy Elizabeth Miller, Angie Mabe Koontz
-NUR,3110,104,(ADLT HEALTH NURSING I CLINICAL),Wendy Elizabeth Miller, Tyia Dawson
-NUR,3110,105,(ADLT HEALTH NURSING I CLINICAL),Wendy Elizabeth Miller, Cynthia R. Attaway
-NUR,3112,100,(ADULT HEALTH NURSING II CLINIC),Wendy Elizabeth Miller, Dana Elisabeth Brackney
-NUR,3112,101,(ADULT HEALTH NURSING II CLINIC),Wendy Elizabeth Miller, Dana Elisabeth Brackney , Tyia Dawson
-NUR,3112,102,(ADULT HEALTH NURSING II CLINIC),Wendy Elizabeth Miller, Cynthia R. Attaway , Dana Elisabeth Brackney
-NUR,3112,103,(ADULT HEALTH NURSING II CLINIC),Wendy Elizabeth Miller, Dana Elisabeth Brackney , Angie Mabe Koontz
-NUR,3112,104,(ADULT HEALTH NURSING II CLINIC),Wendy Elizabeth Miller, Cynthia R. Attaway , Dana Elisabeth Brackney
-NUR,3112,105,(ADULT HEALTH NURSING II CLINIC),Wendy Elizabeth Miller, Dana Elisabeth Brackney , Tyia Dawson
+NUR,3110,101,(ADLT HEALTH NURSING I CLINICAL),Wendy Elizabeth Miller
+NUR,3110,102,(ADLT HEALTH NURSING I CLINICAL),Wendy Elizabeth Miller
+NUR,3110,103,(ADLT HEALTH NURSING I CLINICAL),Wendy Elizabeth Miller
+NUR,3110,104,(ADLT HEALTH NURSING I CLINICAL),Wendy Elizabeth Miller
+NUR,3110,105,(ADLT HEALTH NURSING I CLINICAL),Wendy Elizabeth Miller
+NUR,3112,100,(ADULT HEALTH NURSING II CLINIC),Wendy Elizabeth Miller
+NUR,3112,101,(ADULT HEALTH NURSING II CLINIC),Wendy Elizabeth Miller, Dana Elisabeth Brackney 
+NUR,3112,102,(ADULT HEALTH NURSING II CLINIC),Wendy Elizabeth Miller, Cynthia R. Attaway 
+NUR,3112,103,(ADULT HEALTH NURSING II CLINIC),Wendy Elizabeth Miller, Dana Elisabeth Brackney 
+NUR,3112,104,(ADULT HEALTH NURSING II CLINIC),Wendy Elizabeth Miller, Cynthia R. Attaway 
+NUR,3112,105,(ADULT HEALTH NURSING II CLINIC),Wendy Elizabeth Miller, Dana Elisabeth Brackney 
 NUR,3120,100,(HLTH ASSESSMNT ACRSS LIFE SPAN),Dana Elisabeth Brackney
 NUR,3120,201,(Laboratory),Angie Mabe Koontz
 NUR,3120,202,(Laboratory),Cynthia R. Attaway
@@ -8157,31 +8157,31 @@ NUR,4033,351,(NURSING RESEARCH),Carolyn Susan Huffman
 NUR,4033,352,(NURSING RESEARCH),Phoebe Ann Pollitt
 NUR,4100,100,(INTRO TO NURSING RESEARCH),Robie Victoria Hughes
 NUR,4110,101,(ADULT HEALTH NURSING III),Kimberly Slone Priode
-NUR,4112,100,(ADLT HLTH NURSING III CLINICAL),Kimberly Slone Priode, Angie Mabe Koontz
-NUR,4112,101,(ADLT HLTH NURSING III CLINICAL),Cynthia R. Attaway, Kimberly Slone Priode
+NUR,4112,100,(ADLT HLTH NURSING III CLINICAL),Kimberly Slone Priode
+NUR,4112,101,(ADLT HLTH NURSING III CLINICAL),Cynthia R. Attaway
 NUR,4112,102,(ADLT HLTH NURSING III CLINICAL),Kimberly Slone Priode
-NUR,4112,103,(ADLT HLTH NURSING III CLINICAL),Kimberly Slone Priode, Angie Mabe Koontz
+NUR,4112,103,(ADLT HLTH NURSING III CLINICAL),Kimberly Slone Priode
 NUR,4112,104,(ADLT HLTH NURSING III CLINICAL),Kimberly Slone Priode
-NUR,4112,105,(ADLT HLTH NURSING III CLINICAL),Kimberly Slone Priode, Cynthia R. Attaway
+NUR,4112,105,(ADLT HLTH NURSING III CLINICAL),Kimberly Slone Priode
 NUR,4120,100,(NRSNG CARE FMILIES COMMUNITIES),Susan Hayes Lane
-NUR,4122,100,(NRSNG CRE FMLS CMMNTS CLINICAL),Susan Hayes Lane, Angie Mabe Koontz
-NUR,4122,101,(NRSNG CRE FMLS CMMNTS CLINICAL),Susan Hayes Lane, Cynthia R. Attaway
+NUR,4122,100,(NRSNG CRE FMLS CMMNTS CLINICAL),Susan Hayes Lane
+NUR,4122,101,(NRSNG CRE FMLS CMMNTS CLINICAL),Susan Hayes Lane
 NUR,4122,102,(NRSNG CRE FMLS CMMNTS CLINICAL),Susan Hayes Lane
 NUR,4122,103,(NRSNG CRE FMLS CMMNTS CLINICAL),Linda S. Johanson
 NUR,4122,104,(NRSNG CRE FMLS CMMNTS CLINICAL),Tyia Dawson
 NUR,4124,100,(NRSNG CR CHLDBRG FML WMN CHDN),Elizabeth Ann Fiske
-NUR,4126,100,(NRSN CR CHLDB FML WMN CHDN CLN),Elizabeth Ann Fiske, Nancy Joan Pearson
+NUR,4126,100,(NRSN CR CHLDB FML WMN CHDN CLN),Elizabeth Ann Fiske
 NUR,4126,101,(NRSN CR CHLDB FML WMN CHDN CLN),Elizabeth Ann Fiske
 NUR,4126,102,(NRSN CR CHLDB FML WMN CHDN CLN),Elizabeth Ann Fiske
-NUR,4126,103,(NRSN CR CHLDB FML WMN CHDN CLN),Elizabeth Ann Fiske, Teresa Thornburg Carnevale
+NUR,4126,103,(NRSN CR CHLDB FML WMN CHDN CLN),Elizabeth Ann Fiske
 NUR,4126,104,(NRSN CR CHLDB FML WMN CHDN CLN),Elizabeth Ann Fiske
-NUR,4126,105,(NRSN CR CHLDB FML WMN CHDN CLN),Elizabeth Ann Fiske, Nancy Prior Bennett
+NUR,4126,105,(NRSN CR CHLDB FML WMN CHDN CLN),Elizabeth Ann Fiske
 NUR,4128,101,(LEADERSHIP & MGMT IN NURSING),Susan Hayes Lane
-NUR,4130,101,(PROFESSIONAL NURSING CAPSTONE),Susan Hayes Lane, Dana Elisabeth Brackney
-NUR,4130,102,(PROFESSIONAL NURSING CAPSTONE),Phoebe Ann Pollitt, Dana Elisabeth Brackney , Susan Hayes Lane
-NUR,4130,103,(PROFESSIONAL NURSING CAPSTONE),Susan Hayes Lane, Dana Elisabeth Brackney , Angie Mabe Koontz
-NUR,4130,104,(PROFESSIONAL NURSING CAPSTONE),Susan Hayes Lane, Dana Elisabeth Brackney
-NUR,4130,105,(PROFESSIONAL NURSING CAPSTONE),Susan Hayes Lane, Dana Elisabeth Brackney
+NUR,4130,101,(PROFESSIONAL NURSING CAPSTONE),Susan Hayes Lane
+NUR,4130,102,(PROFESSIONAL NURSING CAPSTONE),Phoebe Ann Pollitt, Dana Elisabeth Brackney 
+NUR,4130,103,(PROFESSIONAL NURSING CAPSTONE),Susan Hayes Lane, Dana Elisabeth Brackney 
+NUR,4130,104,(PROFESSIONAL NURSING CAPSTONE),Susan Hayes Lane
+NUR,4130,105,(PROFESSIONAL NURSING CAPSTONE),Susan Hayes Lane
 NUR,4530,101,(NCLEX SUCCESS),Elizabeth Ann Fiske
 NUT,1202,101,(BASIC FOOD SCIENCE),Melissa Mullinix Bryan
 NUT,1202,101,(BASIC FOOD SCIENCE),Kristin Lanae Ball
@@ -8409,7 +8409,7 @@ P E,1705,112,(OPEN WATER SCUBA DIVING),George J.E. Pelsmaeker
 P E,1705,112,(OPEN WATER SCUBA DIVING),George J.E. Pelsmaeker
 P E,1705,113,(OPEN WATER SCUBA DIVING),George J.E. Pelsmaeker
 P E,1705,113,(OPEN WATER SCUBA DIVING),George J.E. Pelsmaeker
-P E,1705,114,(OPEN WATER SCUBA DIVING),Regina Greene Pelsmaeker, George J.E. Pelsmaeker
+P E,1705,114,(OPEN WATER SCUBA DIVING),Regina Greene Pelsmaeker
 P E,1705,114,(OPEN WATER SCUBA DIVING),Regina Greene Pelsmaeker
 P E,1705,121,(OPEN WATER SCUBA DIVING),George J.E. Pelsmaeker
 P E,1705,121,(OPEN WATER SCUBA DIVING),George J.E. Pelsmaeker
@@ -8442,7 +8442,7 @@ P E,1721,114,(BACKPACK/ORIENTEERING),Russel Earl Hiatt
 P E,1721,122,(BACKPACK/ORIENTEERING),Jasyn L. Klamborowski
 P E,1721,123,(BACKPACK/ORIENTEERING),Robert David Shack
 P E,1721,124,(BACKPACK/ORIENTEERING),Jasyn L. Klamborowski
-P E,1724,121,(CANOEING),Michael Temple Boone, Edgar Lyman Peck
+P E,1724,121,(CANOEING),Michael Temple Boone
 P E,1727,111,(FLY FISHING),Todd Andrew Nolt
 P E,1727,112,(FLY FISHING),Todd Andrew Nolt
 P E,1727,113,(FLY FISHING),Todd Andrew Nolt
@@ -8457,7 +8457,7 @@ P E,1730,121,(ROCK WALL CLIMBING),C. Ryan Beasley
 P E,1730,121,(ROCK WALL CLIMBING),C. Ryan Beasley
 P E,1733,121,(MOUNTAIN BIKING),Paul Alan Stahlschmidt
 P E,1735,101,(WHITEWATER RAFTING),Andrew W. Hawley
-P E,1735,111,(WHITEWATER RAFTING),Andrew W. Hawley, Edgar Lyman Peck
+P E,1735,111,(WHITEWATER RAFTING),Andrew W. Hawley
 P E,1735,121,(WHITEWATER RAFTING),Andrew W. Hawley
 P E,1742,111,(AEROBICS),Pamela Suzette Greene
 P E,1742,111,(AEROBICS),Pamela Suzette Greene
@@ -8535,7 +8535,7 @@ P E,1754,123,(WEIGHT TRAINING),Mary A. Bolick
 P E,1754,124,(WEIGHT TRAINING),Mary A. Bolick
 P E,1754,125,(WEIGHT TRAINING),Mary A. Bolick
 P E,1754,125,(WEIGHT TRAINING),Mary A. Bolick
-P E,1754,126,(WEIGHT TRAINING),Michael Quinn Darling, Joseph Scott Townsend
+P E,1754,126,(WEIGHT TRAINING),Michael Quinn Darling
 P E,1754,126,(WEIGHT TRAINING),Mary A. Bolick
 P E,1754,127,(WEIGHT TRAINING),Mary A. Bolick
 P E,1759,111,(INDOOR CYCLING),Pamela Suzette Greene
@@ -8558,21 +8558,21 @@ P E,1775,121,(FENCING),Joseph Aaron Boitnotte
 P E,1775,122,(FENCING),Joseph Aaron Boitnotte
 P E,1775,123,(FENCING),Joseph Aaron Boitnotte
 P E,1790,112,(BASKETBALL),Mary A. Bolick
-P E,1790,121,(BASKETBALL),Edgar Lyman Peck, Joseph Scott Townsend
+P E,1790,121,(BASKETBALL),Edgar Lyman Peck
 P E,1790,121,(BASKETBALL),Bryan Kenneth Bender
-P E,1790,122,(BASKETBALL),Edgar Lyman Peck, Joseph Scott Townsend
+P E,1790,122,(BASKETBALL),Edgar Lyman Peck
 P E,1790,122,(BASKETBALL),Bryan Kenneth Bender
-P E,1790,123,(BASKETBALL),Edgar Lyman Peck, Joseph Scott Townsend
+P E,1790,123,(BASKETBALL),Edgar Lyman Peck
 P E,1800,112,(DISC GAMES),Maria Startari Stegall
 P E,1800,113,(DISC GAMES),Maria Startari Stegall
 P E,1810,121,(BADMINTON),Joseph Aaron Boitnotte
 P E,1810,121,(BADMINTON),Joseph Aaron Boitnotte
-P E,1810,122,(BADMINTON),Joseph Aaron Boitnotte, Joseph Scott Townsend
 P E,1810,122,(BADMINTON),Joseph Aaron Boitnotte
-P E,1810,123,(BADMINTON),Joseph Aaron Boitnotte, Joseph Scott Townsend
+P E,1810,122,(BADMINTON),Joseph Aaron Boitnotte
+P E,1810,123,(BADMINTON),Joseph Aaron Boitnotte
 P E,1810,123,(BADMINTON),Joseph Aaron Boitnotte
 P E,1810,124,(BADMINTON),Joseph Aaron Boitnotte
-P E,1810,125,(BADMINTON),Joseph Aaron Boitnotte, Joseph Scott Townsend
+P E,1810,125,(BADMINTON),Joseph Aaron Boitnotte
 P E,1819,111,(RACQUETBALL),Ron G. Forster
 P E,1819,111,(RACQUETBALL),Mary A. Bolick
 P E,1819,112,(RACQUETBALL),Ron G. Forster
@@ -8596,9 +8596,9 @@ P E,1825,111,(VOLLEYBALL),Todd Andrew Nolt
 P E,1825,112,(VOLLEYBALL),Todd Andrew Nolt
 P E,1825,112,(VOLLEYBALL),Rebecca King Woolard
 P E,1825,113,(VOLLEYBALL),Rebecca King Woolard
-P E,1825,122,(VOLLEYBALL),Pamela Suzette Greene, Joseph Scott Townsend
+P E,1825,122,(VOLLEYBALL),Pamela Suzette Greene
 P E,1825,123,(VOLLEYBALL),Pamela Suzette Greene
-P E,1825,124,(VOLLEYBALL),Pamela Suzette Greene, Joseph Scott Townsend
+P E,1825,124,(VOLLEYBALL),Pamela Suzette Greene
 P E,1825,125,(VOLLEYBALL),Pamela Suzette Greene
 P E,1840,111,(SOFTBALL),Mary A. Bolick
 P E,1840,112,(SOFTBALL),Mary A. Bolick
@@ -8653,12 +8653,12 @@ P E,3556,101,(HOW CHLDN MOVE: IMPL EE),Elizabeth Ann Matthews
 P E,3556,102,(HOW CHLDN MOVE: IMPL EE),Joseph Scott Townsend
 P E,3556,103,(HOW CHLDN MOVE: IMPL EE),Elizabeth Ann Matthews
 P E,3556,104,(HOW CHLDN MOVE: IMPL EE),Benjamin Andrew Sibley
-P E,3556,111,(HOW CHLDN MOVE: IMPL EE),Elizabeth Ann Matthews, Joseph Scott Townsend
+P E,3556,111,(HOW CHLDN MOVE: IMPL EE),Elizabeth Ann Matthews
 P E,3556,112,(HOW CHLDN MOVE: IMPL EE),Joseph Scott Townsend
-P E,3556,121,(HOW CHLDN MOVE: IMPL EE),Elizabeth Ann Matthews, Joseph Scott Townsend
+P E,3556,121,(HOW CHLDN MOVE: IMPL EE),Elizabeth Ann Matthews
 P E,3556,122,(HOW CHLDN MOVE: IMPL EE),Joseph Scott Townsend
 P E,3556,350,(HOW CHLDN MOVE: IMPL EE),Benjamin Andrew Sibley
-P E,4000,101,(ADAPTED P E & RECREAT),Candace Nicole Shelton, Joseph Scott Townsend
+P E,4000,101,(ADAPTED P E & RECREAT),Candace Nicole Shelton
 P E,4000,101,(ADAPTED P E & RECREAT),Mary Powell Williams
 P E,4000,201,(Laboratory),Candace Nicole Shelton
 P E,4000,201,(Laboratory),Mary Powell Williams
@@ -8691,7 +8691,7 @@ PHY,1103,109,(GENERAL PHYSICS I),Carla SanGiovanni Ramsdell
 PHY,1103,110,(GENERAL PHYSICS I),Carla SanGiovanni Ramsdell
 PHY,1103,111,(GENERAL PHYSICS I),Carla A. Penders
 PHY,1103,112,(GENERAL PHYSICS I),Carla SanGiovanni Ramsdell
-PHY,1103,113,(GENERAL PHYSICS I),Tyler Wesley Foley, John Edward Cockman
+PHY,1103,113,(GENERAL PHYSICS I),Tyler Wesley Foley
 PHY,1104,101,(GENERAL PHYSICS II),John Edward Cockman
 PHY,1104,101,(GENERAL PHYSICS II),Scott Anderson Thomas
 PHY,1104,102,(GENERAL PHYSICS II),John Edward Cockman
@@ -8763,11 +8763,11 @@ PHY,3560,101,(UNDERGRADUATE RESEARCH),Brooke Cranswick Hester
 PHY,3560,104,(UNDERGRADUATE RESEARCH),Bradley Gardner Johnson
 PHY,4020,101,(COMPUT METH PHY/ENGINEERING),Richard O. Gray
 PHY,4020,201,(Laboratory),Richard O. Gray
-PHY,4210,101,(METHODS EXPER PHYSICS),Richard W. Genberg, Brad Richard Conrad
+PHY,4210,101,(METHODS EXPER PHYSICS),Richard W. Genberg
 PHY,4210,101,(METHODS EXPER PHYSICS),Brooke Cranswick Hester
-PHY,4210,201,(Laboratory),Brad Richard Conrad, Richard W. Genberg
+PHY,4210,201,(Laboratory),Brad Richard Conrad
 PHY,4210,201,(Laboratory),Richard W. Genberg
-PHY,4210,202,(Laboratory),Brad Richard Conrad, Richard W. Genberg
+PHY,4210,202,(Laboratory),Brad Richard Conrad
 PHY,4210,202,(Laboratory),Brooke Cranswick Hester
 PHY,4330,101,(DIGITAL ELECTRONICS),Judson Sid Clements
 PHY,4330,201,(Laboratory),Bradley Gardner Johnson
@@ -8786,7 +8786,7 @@ PHY,4740,201,(Laboratory),James Patrick Sherman
 PHY,4820,101,(MEDICAL PHYSICS),Brooke Cranswick Hester
 PHY,4845,101,(NANOSCIENCE & TECHNOLOGY),Phillip Eugene Russell
 PHY,4860,101,(PHYSCL PRNCPLS ELCTRN MICRSCPY),Phillip Eugene Russell
-PHY,4861,101,(PHYSCL PRNPLS ELCN MCRSCPY LAB),Phillip Eugene Russell, Francois Amet , Brad Richard Conrad
+PHY,4861,101,(PHYSCL PRNPLS ELCN MCRSCPY LAB),Phillip Eugene Russell, Francois Amet 
 PHY,5002,101,(APPLIED PHYSICS LITERAT),Patricia Elaine Allen
 PHY,5010,101,(APPL PHYSICS COLLOQUIUM),James Patrick Sherman
 PHY,5010,101,(APPL PHYSICS COLLOQUIUM),James Patrick Sherman
@@ -8830,7 +8830,7 @@ PHY,5740,201,(Laboratory),James Patrick Sherman
 PHY,5740,202,(Laboratory),Benjamin Paul Madison
 PHY,5845,101,(NANOSCIENCE AND TECHNOLOGY),Phillip Eugene Russell
 PHY,5860,101,(PHYSCL PRNCPLS ELCTRN MICRSCPY),Phillip Eugene Russell
-PHY,5861,101,(PHYSCL PRNPLS ELCN MCRSCPY LAB),Phillip Eugene Russell, Francois Amet , Brad Richard Conrad
+PHY,5861,101,(PHYSCL PRNPLS ELCN MCRSCPY LAB),Phillip Eugene Russell, Francois Amet 
 PHY,5900,101,(INTERNSHIP),Jennifer Leigh Burris
 PHY,5900,101,(INTERNSHIP),Jennifer Leigh Burris
 PHY,5900,102,(INTERNSHIP),Jennifer Leigh Burris
@@ -8967,8 +8967,8 @@ P S,4510,103,(SENIOR HONORS THESIS),Renee G. Scherlen
 P S,4510,104,(SENIOR HONORS THESIS),Elicka Peterson
 P S,4510,105,(SENIOR HONORS THESIS),Nancy Sue Love
 P S,4530,101,(MEDIA AND POLITICS),Joshua Tyler Putnam
-P S,4530,410,(RDGS & RSRCH IN AMER POLITICS),Phillip J. Ardoin, Paul William Gronke
-P S,4532,410,(ISSUES IN AMERICAN POLITICS),Paul William Gronke, Phillip J. Ardoin
+P S,4530,410,(RDGS & RSRCH IN AMER POLITICS),Phillip J. Ardoin
+P S,4532,410,(ISSUES IN AMERICAN POLITICS),Paul William Gronke
 P S,4540,101,(SOUTHERN POLITICS),Joshua Tyler Putnam
 P S,4544,101,(PUBLIC UTILITES & INFRASTRUCTU),Len Doughton Hagaman
 P S,4545,101,(LEGISLATIVE POLITICS),Phillip J. Ardoin
@@ -8986,21 +8986,21 @@ P S,4800,103,(POLITICAL SCIENCE CAPSTONE),Renee G. Scherlen
 P S,4800,103,(POLITICAL SCIENCE CAPSTONE),Curtis R. Ryan
 P S,4900,101,(INTERN IN PUBLIC AFFAIRS),Mona R. Brandon
 P S,5001,101,(SCOPE AND METHODS),William David Hicks
-P S,5002,101,(RESEARCH METHODS & STATISTICS),Adam J. Newmark, William David Hicks
+P S,5002,101,(RESEARCH METHODS & STATISTICS),Adam J. Newmark
 P S,5040,101,(PRO-SEMINAR COMPAR POLIT),Renee G. Scherlen
 P S,5125,101,(READINGS & RSRCH COMPAR POL),George Christopher Ehrhardt
 P S,5125,101,(READINGS & RSRCH COMPAR POL),James F. Barnes
 P S,5130,101,(APPALACH POLIT PERSPECT),Michael Ross Potter
-P S,5135,101,(RDGS & RSRCH IN AMER POLITICS),Phillip J. Ardoin, Paul William Gronke
+P S,5135,101,(RDGS & RSRCH IN AMER POLITICS),Phillip J. Ardoin
 P S,5150,101,(SEMINAR IN PUBLIC POLICY),Adam J. Newmark
 P S,5330,375,(PROB IN STATE & LOC GOVT),Mark Daniel Bradbury
 P S,5500,101,(INDEPENDENT STUDY),Renee G. Scherlen
 P S,5500,102,(POL SCI: ASSESSMENT & ANALYSIS),Phillip J. Ardoin
 P S,5530,101,(CONTEMPORARY URBAN THEORY),James F. Barnes
 P S,5531,101,(ADMINISTRATIVE LAW),Michael Ross Potter
-P S,5540,101,(PRACTICAL RESEARCH SKILLS),Adam J. Newmark, William David Hicks
+P S,5540,101,(PRACTICAL RESEARCH SKILLS),Adam J. Newmark
 P S,5800,101,(DIRECTED RESEARCH),Curtis R. Ryan
-P S,5800,102,(DIRECTED RESEARCH),Laura Elizabeth K. Newmark, Phillip J. Ardoin
+P S,5800,102,(DIRECTED RESEARCH),Laura Elizabeth K. Newmark
 P S,5800,103,(DIRECTED RESEARCH),James F. Barnes
 P S,5800,104,(DIRECTED RESEARCH),Aleksander Lust
 P S,5900,101,(INTERN IN PUBLIC AFFAIRS),Renee G. Scherlen
@@ -9109,28 +9109,28 @@ PSY,3010,105,(PSYCHOLOGY APPLIED TO TEACHING),Sandra G. Gagnon
 PSY,3010,105,(PSYCHOLOGY APPLIED TO TEACHING),Sandra G. Gagnon
 PSY,3010,106,(PSYCHOLOGY APPLIED TO TEACHING),James R. Deni
 PSY,3010,107,(PSYCHOLOGY APPLIED TO TEACHING),Sandra G. Gagnon
-PSY,3010,201,(Field Experience),Lindsay Caitlin Masland, Jill Walker Holmes
-PSY,3010,201,(Field Experience),Pamela Kidder Ashley, Jill Walker Holmes
-PSY,3010,202,(Field Experience),Lindsay Caitlin Masland, Jill Walker Holmes
-PSY,3010,202,(Field Experience),Lindsay Caitlin Masland, Jill Walker Holmes
-PSY,3010,203,(Field Experience),Sandra G. Gagnon, Jill Walker Holmes
-PSY,3010,203,(Field Experience),Lindsay Caitlin Masland, Jill Walker Holmes
-PSY,3010,204,(Field Experience),James R. Deni, Jill Walker Holmes
-PSY,3010,204,(Field Experience),Pamela Kidder Ashley, Jill Walker Holmes
+PSY,3010,201,(Field Experience),Lindsay Caitlin Masland
+PSY,3010,201,(Field Experience),Pamela Kidder Ashley
+PSY,3010,202,(Field Experience),Lindsay Caitlin Masland
+PSY,3010,202,(Field Experience),Lindsay Caitlin Masland
+PSY,3010,203,(Field Experience),Sandra G. Gagnon
+PSY,3010,203,(Field Experience),Lindsay Caitlin Masland
+PSY,3010,204,(Field Experience),James R. Deni
+PSY,3010,204,(Field Experience),Pamela Kidder Ashley
 PSY,3010,205,(Field Experience),Sandra G. Gagnon
-PSY,3010,205,(Field Experience),Sandra G. Gagnon, Jill Walker Holmes
+PSY,3010,205,(Field Experience),Sandra G. Gagnon
 PSY,3010,206,(Field Experience),Lindsay Caitlin Masland
-PSY,3010,206,(Field Experience),James R. Deni, Jill Walker Holmes
+PSY,3010,206,(Field Experience),James R. Deni
 PSY,3010,207,(Field Experience),Lindsay Caitlin Masland
-PSY,3010,207,(Field Experience),Sandra G. Gagnon, Jill Walker Holmes
+PSY,3010,207,(Field Experience),Sandra G. Gagnon
 PSY,3010,208,(Field Experience),Sandra G. Gagnon
-PSY,3010,208,(Field Experience),Pamela Kidder Ashley, Jill Walker Holmes
+PSY,3010,208,(Field Experience),Pamela Kidder Ashley
 PSY,3010,209,(Field Experience),James R. Deni
-PSY,3010,209,(Field Experience),Lindsay Caitlin Masland, Jill Walker Holmes
+PSY,3010,209,(Field Experience),Lindsay Caitlin Masland
 PSY,3010,210,(Field Experience),Sandra G. Gagnon
-PSY,3010,210,(Field Experience),Lindsay Caitlin Masland, Jill Walker Holmes
-PSY,3010,211,(Field Experience),Pamela Kidder Ashley, Jill Walker Holmes
-PSY,3010,212,(Field Experience),Sandra G. Gagnon, Jill Walker Holmes
+PSY,3010,210,(Field Experience),Lindsay Caitlin Masland
+PSY,3010,211,(Field Experience),Pamela Kidder Ashley
+PSY,3010,212,(Field Experience),Sandra G. Gagnon
 PSY,3010,213,(Field Experience),James R. Deni
 PSY,3010,214,(Field Experience),Sandra G. Gagnon
 PSY,3010,350,(PSYCHOLOGY APPLIED TO TEACHING),Cheryl Beck Fox
@@ -9148,22 +9148,22 @@ PSY,3100,103,(RESEARCH METH IN PSYCHOLOGY),Andrew Robert Smith
 PSY,3100,103,(RESEARCH METH IN PSYCHOLOGY),Andrew Robert Smith
 PSY,3100,201,(Laboratory),Andrew Robert Smith
 PSY,3100,201,(Laboratory),Andrew Robert Smith
-PSY,3100,202,(Laboratory),Andrew Robert Smith, Jeffrey Chase Hood
-PSY,3100,202,(Laboratory),Andrew Robert Smith, Jeffrey Chase Hood
-PSY,3100,203,(Laboratory),Andrew Robert Smith, Jeffrey Chase Hood
-PSY,3100,203,(Laboratory),Andrew Robert Smith, Jeffrey Chase Hood
+PSY,3100,202,(Laboratory),Andrew Robert Smith
+PSY,3100,202,(Laboratory),Andrew Robert Smith
+PSY,3100,203,(Laboratory),Andrew Robert Smith
+PSY,3100,203,(Laboratory),Andrew Robert Smith
 PSY,3100,204,(Laboratory),Christopher Andrew Dickinson
 PSY,3100,204,(Laboratory),Christopher Andrew Dickinson
-PSY,3100,205,(Laboratory),Christopher Andrew Dickinson, Melissa Ann Baker
-PSY,3100,205,(Laboratory),Christopher Andrew Dickinson, Melissa Ann Baker
-PSY,3100,206,(Laboratory),Christopher Andrew Dickinson, Melissa Ann Baker
-PSY,3100,206,(Laboratory),Christopher Andrew Dickinson, Melissa Ann Baker
+PSY,3100,205,(Laboratory),Christopher Andrew Dickinson
+PSY,3100,205,(Laboratory),Christopher Andrew Dickinson
+PSY,3100,206,(Laboratory),Christopher Andrew Dickinson
+PSY,3100,206,(Laboratory),Christopher Andrew Dickinson
 PSY,3100,207,(Laboratory),Shawn Bergman
 PSY,3100,207,(Laboratory),Shawn Bergman
-PSY,3100,208,(Laboratory),Shawn Bergman, John Thomas Misenheimer
-PSY,3100,208,(Laboratory),Shawn Bergman, John Thomas Misenheimer
-PSY,3100,209,(Laboratory),Shawn Bergman, John Thomas Misenheimer
-PSY,3100,209,(Laboratory),Shawn Bergman, John Thomas Misenheimer
+PSY,3100,208,(Laboratory),Shawn Bergman
+PSY,3100,208,(Laboratory),Shawn Bergman
+PSY,3100,209,(Laboratory),Shawn Bergman
+PSY,3100,209,(Laboratory),Shawn Bergman
 PSY,3100,350,(RESEARCH METH IN PSYCHOLOGY),Verne R. Bacharach
 PSY,3100,360,(Laboratory),Verne R. Bacharach
 PSY,3207,101,(ORGANIZATIONAL PSYCH),Timothy J. Huelsman
@@ -9332,16 +9332,16 @@ PSY,4208,103,(FORENSIC PSYCHOLOGY),Paul A. Fox
 PSY,4211,101,(PERSONALITY LABORATORY),Rose Mary Webb
 PSY,4213,101,(SOCIAL PSYCHOLOGY LABORATORY),Hall P. Beck
 PSY,4213,101,(SOCIAL PSYCHOLOGY LABORATORY),Hall P. Beck
-PSY,4213,102,(SOCIAL PSYCHOLOGY LABORATORY),Hall P. Beck, Holly Elizabeth Brugger
+PSY,4213,102,(SOCIAL PSYCHOLOGY LABORATORY),Hall P. Beck
 PSY,4213,102,(SOCIAL PSYCHOLOGY LABORATORY),Holly Elizabeth Brugger
-PSY,4213,103,(SOCIAL PSYCHOLOGY LABORATORY),Hall P. Beck, Holly Elizabeth Brugger
+PSY,4213,103,(SOCIAL PSYCHOLOGY LABORATORY),Hall P. Beck
 PSY,4213,103,(SOCIAL PSYCHOLOGY LABORATORY),Holly Elizabeth Brugger
 PSY,4216,101,(BIOLOGICAL PSY LABORATORY),Mark C. Zrull
 PSY,4217,101,(COGNITIVE PSYCHOLOGY LAB),Douglas A. Waring
 PSY,4217,101,(COGNITIVE PSYCHOLOGY LAB),Hannah Lee Childs
-PSY,4217,102,(COGNITIVE PSYCHOLOGY LAB),Douglas A. Waring, Hannah Lee Childs
+PSY,4217,102,(COGNITIVE PSYCHOLOGY LAB),Douglas A. Waring
 PSY,4217,102,(COGNITIVE PSYCHOLOGY LAB),Hannah Lee Childs
-PSY,4217,103,(COGNITIVE PSYCHOLOGY LAB),Douglas A. Waring, Hannah Lee Childs
+PSY,4217,103,(COGNITIVE PSYCHOLOGY LAB),Douglas A. Waring
 PSY,4217,350,(COGNITIVE PSYCHOLOGY LAB),Douglas A. Waring
 PSY,4220,101,(COMMUNITY PSYCHOLOGY),John Paul Jameson
 PSY,4511,101,(SENIOR HONORS THESIS I),Joshua Jefferson Broman-Fulks
@@ -9388,9 +9388,9 @@ PSY,4655,106,(CONTEMP ISSUES IN PSYCHOLOGY),Pamela Kidder Ashley
 PSY,4655,350,(CONTEMP ISSUES IN PSYCHOLOGY),Verne R. Bacharach
 PSY,4658,101,(HISTORY & SYSTEMS PSY),John Paul Jameson
 PSY,4658,101,(HISTORY & SYSTEMS PSY),Kenneth M. Steele
-PSY,4658,102,(HISTORY & SYSTEMS PSY),Kenneth M. Steele, Stanley R. Aeschleman
+PSY,4658,102,(HISTORY & SYSTEMS PSY),Kenneth M. Steele
 PSY,4658,102,(HISTORY & SYSTEMS PSY),John Paul Jameson
-PSY,4658,103,(HISTORY & SYSTEMS PSY),Kenneth M. Steele, Stanley R. Aeschleman
+PSY,4658,103,(HISTORY & SYSTEMS PSY),Kenneth M. Steele
 PSY,4658,103,(HISTORY & SYSTEMS PSY),Douglas A. Waring
 PSY,4660,350,(PSY TESTS MEASUREMENTS),Verne R. Bacharach
 PSY,4700,101,(APPLIED BEHAVIOR MNGT),Cynthia Marie Anderson
@@ -9398,20 +9398,20 @@ PSY,4700,102,(APPLIED BEHAVIOR MNGT),Cynthia Marie Anderson
 PSY,4700,102,(APPLIED BEHAVIOR MNGT),James R. Deni
 PSY,4700,350,(APPLIED BEHAVIOR MNGT),Edward A. Konarski
 PSY,5010,101,(RESEARCH SEMINAR),Rose Mary Webb
-PSY,5011,101,(TEACHING OF PSYCHOLOGY),Paul A. Fox, Robyn Lindsey Kondrad
-PSY,5011,101,(TEACHING OF PSYCHOLOGY),Paul A. Fox, Amy T. Galloway
+PSY,5011,101,(TEACHING OF PSYCHOLOGY),Paul A. Fox
+PSY,5011,101,(TEACHING OF PSYCHOLOGY),Paul A. Fox
 PSY,5020,101,(RESEARCH METHODS IN PSY),Rose Mary Webb
 PSY,5020,102,(RESEARCH METHODS IN PSY),Rose Mary Webb
 PSY,5030,101,(QUANTITATIVE METH IN PSY),Shawn Bergman
 PSY,5030,102,(QUANTITATIVE METH IN PSY),Twila Anne Wingrove
 PSY,5040,101,(APPL PSYCHOLOG RSRCH & EVAL),Timothy J. Huelsman
 PSY,5070,101,(ORGANIZATIONAL BEHAVIOR MGMT),Timothy D. Ludwig
-PSY,5150,101,(PRO-SEM I: LEARN & COGNITION),Kenneth M. Steele, Douglas A. Waring
-PSY,5200,101,(PRO-SEM II:SOC & PERSON PSY),Doris G. Bazzini, Rose Mary Webb
+PSY,5150,101,(PRO-SEM I: LEARN & COGNITION),Kenneth M. Steele
+PSY,5200,101,(PRO-SEM II:SOC & PERSON PSY),Doris G. Bazzini
 PSY,5207,101,(EVOLUTIONARY PSYCHOLOGY),Douglas A. Waring
 PSY,5207,101,(EVOLUTIONARY PSYCHOLOGY),Douglas A. Waring
 PSY,5208,101,(FORENSIC PSYCHOLOGY),Twila Anne Wingrove
-PSY,5250,101,(PRO-SEM III: BIOPSY/DEV PSY),Amy T. Galloway, Mark C. Zrull
+PSY,5250,101,(PRO-SEM III: BIOPSY/DEV PSY),Amy T. Galloway
 PSY,5500,101,(EXPOSURE THERAPY FOR ANXIETY),Joshua Jefferson Broman-Fulks
 PSY,5500,101,(UNDERSTANDING SEM),Twila Anne Wingrove
 PSY,5500,102,(WISH THINKING TEND SCALE DEV),Andrew Robert Smith
@@ -9565,16 +9565,16 @@ R E,4630,438,(READ IN CONTENT AREAS),Allison Mitnick Wilson
 R E,4630,439,(READ IN CONTENT AREAS),Allison Mitnick Wilson
 R E,4710,101,(DIAG REMED OF READ PROB),Devery Mock Ward
 R E,4710,101,(DIAG REMED OF READ PROB),Devery Mock Ward
-R E,4710,102,(DIAG REMED OF READ PROB),Judy Kay Nofrey, Devery Mock Ward
-R E,4710,102,(DIAG REMED OF READ PROB),Devery Mock Ward, Amy R. Miller
-R E,4710,103,(DIAG REMED OF READ PROB),Amy R. Miller, Devery Mock Ward
-R E,4710,103,(DIAG REMED OF READ PROB),Devery Mock Ward, Judy Kay Nofrey
+R E,4710,102,(DIAG REMED OF READ PROB),Judy Kay Nofrey
+R E,4710,102,(DIAG REMED OF READ PROB),Devery Mock Ward
+R E,4710,103,(DIAG REMED OF READ PROB),Amy R. Miller
+R E,4710,103,(DIAG REMED OF READ PROB),Devery Mock Ward
 R E,4710,350,(DIAG REMED OF READ PROB),James Thomas Gill
 R E,4720,101,(DIAG & REMEDIAL READ I),Devery Mock Ward
 R E,5040,375,(TEACHER AS RESEARCHER),David A. Koppenhaver
 R E,5040,376,(TEACHER AS RESEARCHER),David A. Koppenhaver
 R E,5100,101,(TCH BEGIN READERS & WRITERS),Devery Mock Ward
-R E,5100,375,(TCH BEGIN READERS & WRITERS),Robert C. Schlagal, Woodrow R. Trathen
+R E,5100,375,(TCH BEGIN READERS & WRITERS),Robert C. Schlagal
 R E,5100,375,(TCH BEGIN READERS & WRITERS),Robert C. Schlagal
 R E,5100,376,(TCH BEGIN READERS & WRITERS),Devery Mock Ward
 R E,5100,377,(TCH BEGIN READERS & WRITERS),James Thomas Gill
@@ -10047,9 +10047,9 @@ SOC,2850,102,(CONSTRUCTIONS OF GENDER),Ellen Claire Lamont
 SOC,2850,102,(CONSTRUCTIONS OF GENDER),Ellen Claire Lamont
 SOC,2850,103,(CONSTRUCTIONS OF GENDER),Ellen Claire Lamont
 SOC,2850,103,(CONSTRUCTIONS OF GENDER),Ellen Claire Lamont
-SOC,3100,101,(GERONTOLOGY),James Peacock, Amy Dellinger Page
 SOC,3100,101,(GERONTOLOGY),James Peacock
-SOC,3100,102,(GERONTOLOGY),James Peacock, Amy Dellinger Page
+SOC,3100,101,(GERONTOLOGY),James Peacock
+SOC,3100,102,(GERONTOLOGY),James Peacock
 SOC,3100,102,(GERONTOLOGY),Lee Ann Ferguson
 SOC,3100,103,(GERONTOLOGY),Lee Ann Ferguson
 SOC,3100,103,(GERONTOLOGY),Lee Ann Ferguson
@@ -10083,7 +10083,7 @@ SOC,3960,101,(SOCIOLOGICAL THEORY II),Pavel Osinsky
 SOC,4150,101,(SOCIOLOGY OF LAW),Kenneth J. Sanchagrin
 SOC,4340,101,(PUNISHMENT IN AMERICAN SOCIETY),Kenneth J. Sanchagrin
 SOC,4350,101,(CONSTRUCTNG BODIES SEXUALITIES),Martha McCaughey
-SOC,4390,101,(APPL SOCIOLOGY SEMINAR),James Peacock, Amy Dellinger Page
+SOC,4390,101,(APPL SOCIOLOGY SEMINAR),James Peacock
 SOC,4390,101,(APPL SOCIOLOGY SEMINAR),James Peacock
 SOC,4450,101,(SENIOR SEMINAR),Edwin Rosenberg
 SOC,4450,101,(SENIOR SEMINAR),Elizabeth L. Davison
@@ -10279,7 +10279,7 @@ SPE,4495,441,(PRACTICUM I),Clara S. Hollar
 SPE,4495,442,(PRACTICUM I),Debra Bradley Norville
 SPE,4495,443,(PRACTICUM I),Janice Bauguess-Jones
 SPE,4495,444,(PRACTICUM I),Jennifer Nicole Woods
-SPE,4496,350,(PRACTICUM II),Susan M. Pogoloff, Shari Lynn Smiley
+SPE,4496,350,(PRACTICUM II),Susan M. Pogoloff
 SPE,4496,440,(PRACTICUM II),Sharon McCormack Richter
 SPE,4496,441,(PRACTICUM II),Christopher Lawrence Van Loan
 SPE,4496,442,(PRACTICUM II),Joni H. Salzano
@@ -10288,14 +10288,14 @@ SPE,4601,350,(CLASSROOM MGT & POS BEHAV SUPP),Christopher Lawrence Van Loan
 SPE,4601,440,(CLASSROOM MGT & POS BEHAV SUPP),Christopher Lawrence Van Loan
 SPE,4705,350,(METH STUDENTS W/DISABI GEN),Rebecca Kay Shankland
 SPE,4705,440,(METH STUDENTS W/DISABI GEN),Margaret G. Werts
-SPE,4900,101,(STUDENT TEACHING SPEC ED),Clara S. Hollar, Monica A. Lambert
-SPE,4900,101,(STUDENT TEACHING SPEC ED),Wilma Bailey Bisesi, Monica A. Lambert
-SPE,4900,102,(STUDENT TEACHING SPEC ED),Ronald Ivan Henries, Monica A. Lambert
-SPE,4900,102,(STUDENT TEACHING SPEC ED),Ronald Ivan Henries, Monica A. Lambert
-SPE,4900,103,(STUDENT TEACHING SPEC ED),Elin Meyers Hoffman, Monica A. Lambert
-SPE,4900,103,(STUDENT TEACHING SPEC ED),Debra Bradley Norville, Monica A. Lambert
-SPE,4900,104,(STUDENT TEACHING SPEC ED),Joni H. Salzano, Monica A. Lambert
-SPE,4900,105,(STUDENT TEACHING SPEC ED),Clara S. Hollar, Monica A. Lambert
+SPE,4900,101,(STUDENT TEACHING SPEC ED),Clara S. Hollar
+SPE,4900,101,(STUDENT TEACHING SPEC ED),Wilma Bailey Bisesi
+SPE,4900,102,(STUDENT TEACHING SPEC ED),Ronald Ivan Henries
+SPE,4900,102,(STUDENT TEACHING SPEC ED),Ronald Ivan Henries
+SPE,4900,103,(STUDENT TEACHING SPEC ED),Elin Meyers Hoffman
+SPE,4900,103,(STUDENT TEACHING SPEC ED),Debra Bradley Norville
+SPE,4900,104,(STUDENT TEACHING SPEC ED),Joni H. Salzano
+SPE,4900,105,(STUDENT TEACHING SPEC ED),Clara S. Hollar
 SPE,4900,106,(STUDENT TEACHING SPEC ED),Monica A. Lambert
 SPE,4900,350,(STUDENT TEACHING SPEC ED),Ronald Ivan Henries
 SPE,5130,101,(AUTISM SPECT DIS:CONTMP ISSUES),Michelle Flippin
@@ -10708,7 +10708,7 @@ TEC,5270,101,(ADV COMP MODELING RENWBL ENRGY),Brian W. Raichle
 TEC,5380,101,(ADVANCED BUILDING SCIENCE),Jeffrey Scott Tiller
 TEC,5390,101,(BUILDING THERMAL SYSTEMS ENG),Jeffrey Scott Tiller
 TEC,5410,101,(INTEGRATED DESIGN STUDIO),Rodney Chadwick Everhart
-TEC,5410,101,(INTEGRATED DESIGN STUDIO),David Jason Miller, Andrew Winsome Windham
+TEC,5410,101,(INTEGRATED DESIGN STUDIO),David Jason Miller
 TEC,5420,101,(SUSTAINABLE DESIGN-BLD LAB),David Jason Miller
 TEC,5430,101,(PROJECT ADMINISTRATION),David Jason Miller
 TEC,5509,101,(TECH COMPETENCY DEVELOP),Marie C. Hoepfl
@@ -10746,9 +10746,9 @@ THR,2005,103,(PAGE AND STAGE),John Thomas Marty
 THR,2005,104,(PAGE AND STAGE),Derek Samuel Davidson
 THR,2005,104,(PAGE AND STAGE),John Thomas Marty
 THR,2005,105,(PAGE AND STAGE),Paulette Jean Wojtalewicz Marty
-THR,2009,101,(THE STAGE ENVIRONMENT),Sue Simpson Williams, Michael Louis Helms
-THR,2009,101,(THE STAGE ENVIRONMENT),Sue Simpson Williams, Michael Louis Helms
-THR,2009,102,(THE STAGE ENVIRONMENT),Sue Simpson Williams, John Thomas Marty
+THR,2009,101,(THE STAGE ENVIRONMENT),Sue Simpson Williams
+THR,2009,101,(THE STAGE ENVIRONMENT),Sue Simpson Williams
+THR,2009,102,(THE STAGE ENVIRONMENT),Sue Simpson Williams
 THR,2010,101,(ANALYZING STYLE & FORM THEATRE),Susan Dean Gilbert
 THR,2010,101,(ANALYZING STYLE & FORM THEATRE),Susan Dean Gilbert
 THR,2010,102,(ANALYZING STYLE & FORM THEATRE),Joel W. Williams
@@ -10783,7 +10783,7 @@ THR,2101,101,(PRODUCTION RUNNING CREW),Michael Louis Helms
 THR,2101,101,(PRODUCTION RUNNING CREW),Michael Louis Helms
 THR,2101,102,(PRODUCTION RUNNING CREW),Michael Louis Helms
 THR,2101,102,(PRODUCTION RUNNING CREW),Michael Louis Helms
-THR,2214,101,(DANCE PRODUCTION BASICS),John Thomas Marty, Sue Simpson Williams
+THR,2214,101,(DANCE PRODUCTION BASICS),John Thomas Marty
 THR,2230,101,(SCENERY & PROPERTIES),Michael Louis Helms
 THR,2230,101,(SCENERY & PROPERTIES),Michael Louis Helms
 THR,2235,101,(THEATRICAL COSTUME & MAKEUP),Sue Simpson Williams
@@ -10800,7 +10800,7 @@ THR,2610,103,(ORAL INTERPRETATION),Kin Yan Elyssa Szeto
 THR,2620,101,(ACTING I:BEGINNING SCENE STUDY),Teresa E. Lee
 THR,2620,102,(ACTING I:BEGINNING SCENE STUDY),Teresa E. Lee
 THR,2625,101,(VOICE & MOVEMENT FOR STAGE),Derek P. Gagnier
-THR,2625,101,(VOICE & MOVEMENT FOR STAGE),Teresa E. Lee, Derek P. Gagnier
+THR,2625,101,(VOICE & MOVEMENT FOR STAGE),Teresa E. Lee
 THR,2625,102,(VOICE & MOVEMENT FOR STAGE),Teresa E. Lee
 THR,2629,101,(ACTING FOR THE CAMERA),Glenn Arden Bruce
 THR,2629,101,(ACTING FOR THE CAMERA),Glenn Arden Bruce
@@ -10878,7 +10878,7 @@ UCO,1200,118,(HUMAN IMPACTS ON ENVIRONMENTS),Anindita Das
 UCO,1200,119,(THE BRAIN: A USER'S GUIDE),Mark C. Zrull
 UCO,1200,119,(THE COUNTERCULTURE),Tamara Jean Parnell
 UCO,1200,120,(EASTERN ASIAN MARTIAL ARTS),Sheldon Jay Rackmill
-UCO,1200,120,(GLOBAL UNDERSTANDINGS),Jessica Wood, Raphael Francis Miller
+UCO,1200,120,(GLOBAL UNDERSTANDINGS),Jessica Wood
 UCO,1200,121,(MAYA TO THE MATRIX),Nicholas Sean Rudisill
 UCO,1200,121,(AUTISM: A BROAD SPECTRUM),Rebekah Aine Ruth Cummings
 UCO,1200,122,(THE MONSTERS WITHIN US),Scott Edwin Rice
@@ -10995,7 +10995,7 @@ U S,1530,105,(STRATEGY SEMINAR),Rebecca Kay Shankland
 U S,1530,315,(EDU & EAST BAND CHEROKEE),James A. Bryant
 U S,1531,111,(ELECTRONIC RESEARCH SKILLS),Megan Johnson
 U S,1531,121,(ELECTRONIC RESEARCH SKILLS),Geraldine M. Purpur
-U S,1531,122,(ELECTRONIC RESEARCH SKILLS),Megan Johnson, Kelly Christine McCallister
+U S,1531,122,(ELECTRONIC RESEARCH SKILLS),Megan Johnson
 U S,1531,122,(ELECTRONIC RESEARCH SKILLS),Kelly Christine McCallister
 U S,1531,315,(CHEROKEE LDRSHP & CULTR),James A. Bryant
 U S,3520,101,(INSTRUCTIONAL ASST),Janet Elaine Gray
@@ -12496,7 +12496,7 @@ CHE,2204,103,(ORGANIC CHEMISTRY LAB II),G V Nepali Rajapakse
 CHE,2204,104,(ORGANIC CHEMISTRY LAB II),G V Nepali Rajapakse
 CHE,2210,101,(QUANTITATIVE ANALYSIS),Brett Filip Taubman
 CHE,2211,101,(QUANTITATIVE ANALYSIS LAB),Carol M. Babyak
-CHE,2211,102,(QUANTITATIVE ANALYSIS LAB),Carol M. Babyak (P), Megen Ann Culpepper
+CHE,2211,102,(QUANTITATIVE ANALYSIS LAB),Carol M. Babyak 
 CHE,2400,101,(INTRO TO FORENSIC CHEM CRIMNL),Libby Gail Puckett
 CHE,2525,101,(TA IN INTRODUCTORY CHEMISTRY),Amanda Christine Howell
 CHE,2530,101,(TA IN ORGANIC CHEM LAB),G V Nepali Rajapakse
@@ -12963,7 +12963,7 @@ C I,4900,113,(STUDENT TEACHING),Monica A. Lambert
 C I,4900,114,(STUDENT TEACHING),Monica A. Lambert
 C I,4900,115,(STUDENT TEACHING),Monica A. Lambert
 C I,4900,116,(STUDENT TEACHING),Monica A. Lambert
-C I,4900,117,(STUDENT TEACHING),Victoria Jeanne Grube (P), Monica A. Lambert
+C I,4900,117,(STUDENT TEACHING),Victoria Jeanne Grube 
 C I,4900,118,(STUDENT TEACHING),Monica A. Lambert
 C I,4900,119,(STUDENT TEACHING),Monica A. Lambert
 C I,4900,120,(STUDENT TEACHING),Monica A. Lambert
@@ -12977,7 +12977,7 @@ C I,4900,128,(STUDENT TEACHING),Monica A. Lambert
 C I,4900,129,(STUDENT TEACHING),Monica A. Lambert
 C I,4900,130,(STUDENT TEACHING),Monica A. Lambert
 C I,4900,131,(STUDENT TEACHING),Monica A. Lambert
-C I,4900,132,(STUDENT TEACHING),Alyssia Joy Ruggiero (P), Monica A. Lambert
+C I,4900,132,(STUDENT TEACHING),Alyssia Joy Ruggiero 
 C I,4900,350,(STUDENT TEACHING),TBA
 C I,4900,351,(STUDENT TEACHING),TBA
 C I,4900,352,(STUDENT TEACHING),TBA
@@ -13350,7 +13350,7 @@ E S,5500,101,(ANATOMY AND PHYSIOLOGY LAB I),Caroline Jane Smith
 E S,5500,102,(ANATOMY AND PHYSIOLOGY LAB II),Caroline Jane Smith
 E S,5592,101,(DATA ANALY IN SP EXER SC),Robert L. Johnson
 E S,5592,102,(DATA ANALY IN SP EXER SC),Robert L. Johnson
-E S,5623,101,(EXERCISE PHYSIOLOGY),Kevin Allen Zwetsloot (P), Robert Andrew Shanely
+E S,5623,101,(EXERCISE PHYSIOLOGY),Kevin Allen Zwetsloot 
 E S,5625,101,(CONCEPTS CLINICAL EX TESTING),Jeffrey T. Soukup
 E S,5645,101,(CARDIOPUL PATHOPHYS & REHAB),Rebecca Marie Kappus
 E S,5650,101,(THEO PRAC ASPECT STRGTH CON),N. Travis Triplett
@@ -13389,7 +13389,7 @@ FER,3200,101,(FACILTY DESIGN AND OPERATION),Seth Daniel Cohen
 FER,3530,101,(FERMENTED BEVERAGES OF WORLD),Stephan Sommer
 FER,4100,101,(WINE PRODUCTION & ANALYSIS),Seth Daniel Cohen
 FER,4100,201,(Laboratory),Stephan Sommer
-FER,4530,101,(FERMENTED DAIRY AND MEATS),Seth Daniel Cohen (P), Stephan Sommer
+FER,4530,101,(FERMENTED DAIRY AND MEATS),Seth Daniel Cohen 
 FIN,2860,101,(PERSONAL FINANCE),Jonathan Chesley Allen
 FIN,3010,101,(SURVEY OF FINANCE),Bryan Scott Bouboulis
 FIN,3010,102,(SURVEY OF FINANCE),Bryan Scott Bouboulis
@@ -13839,17 +13839,17 @@ HON,2515,102,(SLAVERY & AMERICAN CAPITALISM),Louis Betrand Gallien
 HON,2515,103,(MYMEDIA.MYWORLD),Janice T. Pope
 HON,2515,104,(AFRO-FUTURISM, BLACK ARTS),Stephanie Troutman
 HON,2515,105,(HUNGER IN A WORLD OF PLENTY),Christoffel J. den Biggelaar
-HON,2515,106,(PHYSIOLOGY, CULTURE & HEALTH),Caroline Jane Smith (P), Edward Kelly Merritt
+HON,2515,106,(PHYSIOLOGY, CULTURE & HEALTH),Caroline Jane Smith 
 HON,3515,101,(INVENTING LANGUAGES),Donna Lee Lillian
 HON,3515,102,(WE ARE WATER),Kristan M. Cockerill
 HON,3515,103,(FERMENTED BEVERAGES OF WORLD),Stephan Sommer
 HON,3515,104,(MEDICAL ANTHROPOLOGY),Susan E. Keefe
-HON,3515,105,(POLITICS OF SPORT),Ellen Meredith Key (P), William David Hicks
+HON,3515,105,(POLITICS OF SPORT),Ellen Meredith Key 
 HON,3515,106,(CRTCAL PERSP RACISM&WHITENESS),Brandy Star Wilson
 HON,3515,107,(COMMUNITY-BASED ARTS),Thomas S. Hansell
 HON,3515,108,(WOULD YOU FOLLOW YOU?),TBA
 HON,3515,109,(BRINGING THE WORLD HOME),Jeanne Ann Dubino
-HON,3531,101,(VOYAGES),Leslie Sargent Jones (P), Angela Dawn Mead
+HON,3531,101,(VOYAGES),Leslie Sargent Jones 
 HOS,2000,101,(SUR HOSP & TOURISM INDUS),Carol Suzanne Kline
 HOS,2000,102,(SUR HOSP & TOURISM INDUS),Carol Suzanne Kline
 HOS,3510,410,(JUNIOR HONORS THESIS),Sandra Ann Vannoy
@@ -14337,7 +14337,7 @@ MUS,1007,103,(AURAL SKILLS I),TBA
 MUS,1008,101,(AURAL SKILLS II),TBA
 MUS,1008,102,(AURAL SKILLS II),Jennifer Sterling Snodgrass
 MUS,1028,101,(TRUMPT TROMBONE EUPHONIUM TUBA),TBA
-MUS,1030,101,(STRINGS CLASS),Eric Edward Koontz (P), Kenneth P. Lurie
+MUS,1030,101,(STRINGS CLASS),Eric Edward Koontz 
 MUS,1032,101,(PERCUSSION CLASS),Jay C. Jackson
 MUS,1035,101,(FLUTE CLARINET SAXOPHONE),Scott Duane Kallestad
 MUS,1036,101,(OBOE BASSOON HORN),Jon P. Beebe
@@ -14402,8 +14402,8 @@ MUS,1132,101,(PERCUSSION QUARTET),Robert Joseph Falvo
 MUS,1132,102,(PERCUSSION QUARTET),Robert Joseph Falvo
 MUS,1135,101,(STEEL BAND),TBA
 MUS,1135,102,(STEEL BAND),TBA
-MUS,1136,101,(BRASS QUINTET),James Mitchell Stokes (P), Drew Clifton Leslie
-MUS,1136,102,(BRASS QUINTET),James Mitchell Stokes (P), Drew Clifton Leslie
+MUS,1136,101,(BRASS QUINTET),James Mitchell Stokes 
+MUS,1136,102,(BRASS QUINTET),James Mitchell Stokes 
 MUS,1137,101,(TUBA CHOIR),TBA
 MUS,1137,102,(TUBA CHOIR),TBA
 MUS,1138,101,(COLLEGIUM MUSICUM),Alicia Mary Chapman
@@ -14507,7 +14507,7 @@ MUS,5035,101,(CLINICAL EXPER IN MUSIC),Jennifer Sterling Snodgrass
 MUS,5051,101,(ADV TOPICS IN MUSIC THERAPY),Cathy Harbison McKinney
 MUS,5100,101,(PERFORMANCE ENSEMBLE),Jennifer Sterling Snodgrass
 MUS,5160,101,(CONDUCTING SEMINAR),John Stanley Ross
-MUS,5170,101,(PROF & SCHOL PRACT MUSICIANS),Gary Rice Boye (P), Laurie R. Semmes , Kim L. Wangler
+MUS,5170,101,(PROF & SCHOL PRACT MUSICIANS),Gary Rice Boye 
 MUS,5200,101,(MUSIC THERAPY LAB),Katurah Ruth Christenbury
 MUS,5525,101,(PRODUCT OF LEARNING),Susan Wilson Mills
 MUS,5530,101,(PERFORMANCE ENS II),Jennifer Sterling Snodgrass
@@ -14531,17 +14531,17 @@ NUR,3021,353,(HEALTH ASSESSMENT),Dana Elisabeth Brackney
 NUR,3050,101,(NURSING PHARMACOTHERAPEUT II),Linda S. Johanson
 NUR,3100,100,(ADULT HEALTH NURSING I),Linda S. Johanson
 NUR,3110,100,(ADLT HEALTH NURSING I CLINICAL),Wendy Elizabeth Miller
-NUR,3110,101,(ADLT HEALTH NURSING I CLINICAL),Wendy Elizabeth Miller (P), Angie Mabe Koontz
-NUR,3110,102,(ADLT HEALTH NURSING I CLINICAL),Wendy Elizabeth Miller (P), Cynthia R. Attaway
-NUR,3110,103,(ADLT HEALTH NURSING I CLINICAL),Wendy Elizabeth Miller (P), Angie Mabe Koontz
-NUR,3110,104,(ADLT HEALTH NURSING I CLINICAL),Wendy Elizabeth Miller (P), Tyia Dawson
-NUR,3110,105,(ADLT HEALTH NURSING I CLINICAL),Wendy Elizabeth Miller (P), Cynthia R. Attaway
+NUR,3110,101,(ADLT HEALTH NURSING I CLINICAL),Wendy Elizabeth Miller 
+NUR,3110,102,(ADLT HEALTH NURSING I CLINICAL),Wendy Elizabeth Miller 
+NUR,3110,103,(ADLT HEALTH NURSING I CLINICAL),Wendy Elizabeth Miller 
+NUR,3110,104,(ADLT HEALTH NURSING I CLINICAL),Wendy Elizabeth Miller 
+NUR,3110,105,(ADLT HEALTH NURSING I CLINICAL),Wendy Elizabeth Miller 
 NUR,3121,101,(HLTH ASSESSMNT ACRSS LIFE SPAN),Kimberly Slone Priode
 NUR,3124,100,(FNDTNS OF PROFESSIONAL NURSING),Wendy Elizabeth Miller
 NUR,3124,101,(FNDTNS OF PROFESSIONAL NURSING),Carolyn Susan Huffman
 NUR,4100,100,(INTRO TO NURSING RESEARCH),Robie Victoria Hughes
 NUR,4120,100,(NRSNG CARE FMILIES COMMUNITIES),Teresa Thornburg Carnevale
-NUR,4122,100,(NRSNG CRE FMLS CMMNTS CLINICAL),Teresa Thornburg Carnevale (P), Angie Mabe Koontz
+NUR,4122,100,(NRSNG CRE FMLS CMMNTS CLINICAL),Teresa Thornburg Carnevale 
 NUR,4122,101,(NRSNG CRE FMLS CMMNTS CLINICAL),Teresa Thornburg Carnevale
 NUR,4122,102,(NRSNG CRE FMLS CMMNTS CLINICAL),Teresa Thornburg Carnevale
 NUR,4122,103,(NRSNG CRE FMLS CMMNTS CLINICAL),Linda S. Johanson
@@ -14551,7 +14551,7 @@ NUR,4124,102,(NRSNG CR CHLDBRG FML WMN CHDN),Elizabeth Ann Fiske
 NUR,4127,101,(NRSNG CR CHLDBRG FML WMN CHDN),Elizabeth Ann Fiske
 NUR,4127,102,(NRSNG CR CHLDBRG FML WMN CHDN),Elizabeth Ann Fiske
 NUR,4127,103,(NRSNG CR CHLDBRG FML WMN CHDN),Elizabeth Ann Fiske
-NUR,4127,104,(NRSNG CR CHLDBRG FML WMN CHDN),Elizabeth Ann Fiske (P), Teresa Thornburg Carnevale
+NUR,4127,104,(NRSNG CR CHLDBRG FML WMN CHDN),Elizabeth Ann Fiske 
 NUR,4127,105,(NRSNG CR CHLDBRG FML WMN CHDN),Elizabeth Ann Fiske
 NUR,4127,106,(NRSNG CR CHLDBRG FML WMN CHDN),Elizabeth Ann Fiske
 NUT,1202,101,(BASIC FOOD SCIENCE),Melissa Mullinix Bryan
@@ -14747,12 +14747,12 @@ P E,1780,112,(KUNG FU),TBA
 P E,1780,113,(KUNG FU),TBA
 P E,1790,111,(BASKETBALL),TBA
 P E,1790,121,(BASKETBALL),Mary A. Bolick
-P E,1790,122,(BASKETBALL),Edgar Lyman Peck (P), Joseph Scott Townsend
+P E,1790,122,(BASKETBALL),Edgar Lyman Peck 
 P E,1800,112,(ULTIMATE FRISBEE),TBA
 P E,1800,113,(ULTIMATE FRISBEE),TBA
 P E,1810,121,(BADMINTON),Joseph Aaron Boitnotte
-P E,1810,122,(BADMINTON),Joseph Aaron Boitnotte (P), Joseph Scott Townsend
-P E,1810,123,(BADMINTON),Joseph Aaron Boitnotte (P), Joseph Scott Townsend
+P E,1810,122,(BADMINTON),Joseph Aaron Boitnotte 
+P E,1810,123,(BADMINTON),Joseph Aaron Boitnotte 
 P E,1819,111,(RACQUETBALL),Mary A. Bolick
 P E,1819,112,(RACQUETBALL),Mary A. Bolick
 P E,1819,113,(RACQUETBALL),Mary A. Bolick
@@ -14794,13 +14794,13 @@ PHY,1103,109,(GENERAL PHYSICS I),Carla A. Penders
 PHY,1103,110,(GENERAL PHYSICS I),Carla A. Penders
 PHY,1103,111,(GENERAL PHYSICS I),Scott Anderson Thomas
 PHY,1103,112,(GENERAL PHYSICS I),Scott Anderson Thomas
-PHY,1103,113,(GENERAL PHYSICS I),Michael Marshall Briley (P), John Edward Cockman
+PHY,1103,113,(GENERAL PHYSICS I),Michael Marshall Briley 
 PHY,1104,101,(GENERAL PHYSICS II),John Edward Cockman
 PHY,1104,102,(GENERAL PHYSICS II),John Edward Cockman
 PHY,1104,103,(GENERAL PHYSICS II),John Edward Cockman
 PHY,1104,104,(GENERAL PHYSICS II),Francois Amet
 PHY,1104,105,(GENERAL PHYSICS II),Francois Amet
-PHY,1113,201,(GENERAL PHYSICS I - LAB),John Edward Cockman (P), Michael Marshall Briley
+PHY,1113,201,(GENERAL PHYSICS I - LAB),John Edward Cockman 
 PHY,1150,101,(ANALYTICAL PHYSICS I),John Edward Cockman
 PHY,1150,102,(ANALYTICAL PHYSICS I),TBA
 PHY,1150,103,(ANALYTICAL PHYSICS I),Brooke Cranswick Hester
@@ -14836,8 +14836,8 @@ PHY,4620,201,(Laboratory),James Patrick Sherman
 PHY,4730,101,(ANALOG SYSTEMS),Bradley Gardner Johnson
 PHY,4730,201,(Laboratory),Bradley Gardner Johnson
 PHY,4860,101,(PHYSCL PRNCPLS ELCTRN MICRSCPY),Phillip Eugene Russell
-PHY,4861,101,(PHYSCL PRNPLS ELCN MCRSCPY LAB),Phillip Eugene Russell (P), Francois Amet
-PHY,4861,102,(PHYSCL PRNPLS ELCN MCRSCPY LAB),Francois Amet (P), Phillip Eugene Russell
+PHY,4861,101,(PHYSCL PRNPLS ELCN MCRSCPY LAB),Phillip Eugene Russell 
+PHY,4861,102,(PHYSCL PRNPLS ELCN MCRSCPY LAB),Francois Amet 
 PHY,5002,101,(APPLIED PHYSICS LITERAT),Tonya Shea Coffey
 PHY,5010,101,(APPL PHYSICS COLLOQUIUM),Tonya Shea Coffey
 PHY,5020,101,(COMPUT METH PHY/ENGINEERING),Richard O. Gray
@@ -14851,7 +14851,7 @@ PHY,5620,202,(Laboratory),James Patrick Sherman
 PHY,5730,101,(ANALOG SYSTEMS),Bradley Gardner Johnson
 PHY,5730,201,(Laboratory),Bradley Gardner Johnson
 PHY,5860,101,(PHYSCL PRNCPLS ELCTRN MICRSCPY),Phillip Eugene Russell
-PHY,5861,101,(PHYSCL PRNPLS ELCN MCRSCPY LAB),Phillip Eugene Russell (P), Francois Amet
+PHY,5861,101,(PHYSCL PRNPLS ELCN MCRSCPY LAB),Phillip Eugene Russell 
 PHY,5910,101,(PROFESSIONL SCIENCE COLLOQUIUM),Jennifer Leigh Burris
 PLN,2410,101,(TOWN, CITY & REGIONAL PLAN),Elizabeth D. Shay
 PLN,2410,102,(TOWN, CITY & REGIONAL PLAN),TBA
@@ -14907,7 +14907,7 @@ P S,3531,101,(POLITICS OF SOUTH AFRICA),TBA
 P S,3660,101,(ADMINISTRATIVE LAW),Michael Ross Potter
 P S,4175,101,(PUBLIC OPINION),Kevin John Mullinix
 P S,4509,101,(HONORS THESIS PREPARATION),Carrie Blanchard Bush
-P S,4535,410,(POLITICS OF SPORT),William David Hicks (P), Ellen Meredith Key
+P S,4535,410,(POLITICS OF SPORT),William David Hicks 
 P S,4544,101,(PUBLIC UTILITES & INFRASTRUCTU),TBA
 P S,4723,101,(INT'L POLITICAL ECONOMY),George Christopher Ehrhardt
 P S,4741,101,(EUROPEAN GOVT & POLITICS),Aleksander Lust
@@ -14968,8 +14968,8 @@ PSY,3010,102,(PSYCHOLOGY APPLIED TO TEACHING),Pamela Kidder Ashley
 PSY,3010,103,(PSYCHOLOGY APPLIED TO TEACHING),Lindsay Caitlin Masland
 PSY,3010,104,(PSYCHOLOGY APPLIED TO TEACHING),Pamela Kidder Ashley
 PSY,3010,105,(PSYCHOLOGY APPLIED TO TEACHING),Sandra G. Gagnon
-PSY,3010,201,(Field Experience),Lindsay Caitlin Masland (P), Pamela Kidder Ashley , James R. Deni , Jamie Yarbrough Fearrington
-PSY,3010,202,(Field Experience),Lindsay Caitlin Masland (P), Pamela Kidder Ashley , James R. Deni , Jamie Yarbrough Fearrington
+PSY,3010,201,(Field Experience),Lindsay Caitlin Masland 
+PSY,3010,202,(Field Experience),Lindsay Caitlin Masland 
 PSY,3010,350,(PSYCHOLOGY APPLIED TO TEACHING),Pamela Kidder Ashley
 PSY,3010,360,(Field Experience),Pamela Kidder Ashley
 PSY,3100,101,(RESEARCH METH IN PSYCHOLOGY),Christopher Andrew Dickinson
@@ -15036,7 +15036,7 @@ PSY,4660,101,(PSY TESTS MEASUREMENTS),Rose Mary Webb
 PSY,4700,101,(APPLIED BEHAVIOR MNGT),James R. Deni
 PSY,4700,102,(APPLIED BEHAVIOR MNGT),Cynthia Marie Anderson
 PSY,4905,101,(FLDWORK IN APPLIED PSYCHOLOGY),Robert W. Hill
-PSY,5011,101,(TEACHING OF PSYCHOLOGY),Paul A. Fox (P), Robyn Lindsey Kondrad
+PSY,5011,101,(TEACHING OF PSYCHOLOGY),Paul A. Fox 
 PSY,5015,102,(RESEARCH SEMINAR),Rose Mary Webb
 PSY,5020,101,(RESEARCH METHODS IN PSY),Rose Mary Webb
 PSY,5020,102,(RESEARCH METHODS IN PSY),Rose Mary Webb
@@ -15717,8 +15717,8 @@ THR,2005,101,(PAGE AND STAGE),John Thomas Marty
 THR,2005,102,(PAGE AND STAGE),Joel W. Williams
 THR,2005,103,(PAGE AND STAGE),Derek Samuel Davidson
 THR,2005,104,(PAGE AND STAGE),Derek Samuel Davidson
-THR,2009,101,(THE STAGE ENVIRONMENT),Sue Simpson Williams (P), John Thomas Marty
-THR,2009,102,(THE STAGE ENVIRONMENT),Sue Simpson Williams (P), Michael Louis Helms
+THR,2009,101,(THE STAGE ENVIRONMENT),Sue Simpson Williams 
+THR,2009,102,(THE STAGE ENVIRONMENT),Sue Simpson Williams 
 THR,2010,101,(THE THEATRE EXPERIENCE),TBA
 THR,2010,102,(THE THEATRE EXPERIENCE),TBA
 THR,2010,103,(THE THEATRE EXPERIENCE),TBA
@@ -15750,7 +15750,7 @@ THR,2629,101,(ACTING FOR THE CAMERA),TBA
 THR,2635,101,(STAGE COMBAT),Teresa E. Lee
 THR,3530,101,(MUSICAL THEATRE),Keith Tucker Martin
 THR,3535,101,(PEDAGOGY PRACTICUM),Gordon Ashley Hensley
-THR,3540,101,(THEATRICAL COM TECHNIQUES),John Thomas Marty (P), Martha A. Marking
+THR,3540,101,(THEATRICAL COM TECHNIQUES),John Thomas Marty 
 THR,3620,101,(ACTING II: ADV SCENE STUDY),Derek P. Gagnier
 THR,3630,101,(THEATRE DIRECTING TECHNIQUES),Joel W. Williams
 THR,3640,101,(SOLO & GROUP PERFORMANCE),Kin Yan Elyssa Szeto

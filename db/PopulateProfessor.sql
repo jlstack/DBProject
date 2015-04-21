@@ -158,7 +158,7 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="A S" and U_ID=1 limit 1), "William Russell Schumann");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="A S" and U_ID=1 limit 1), "Norma Myers Riddle, Fred J. Hay");
+values ((select ID from department where Abbreviation="A S" and U_ID=1 limit 1), "Norma Myers Riddle");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="A S" and U_ID=1 limit 1), "Fred J. Hay");
@@ -212,9 +212,6 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="AMU" and U_ID=1 limit 1), "Eric Edward Koontz");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="AMU" and U_ID=1 limit 1), "Eric Edward Koontz, Nancy Elizabeth Bargerstock");
-
-insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="AMU" and U_ID=1 limit 1), "Kenneth P. Lurie");
 
 insert into professor (D_ID, Name)
@@ -266,13 +263,10 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="AMU" and U_ID=1 limit 1), "Anderson Page");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="AMU" and U_ID=1 limit 1), "Richard P. Dilling, Robert Joseph Falvo");
+values ((select ID from department where Abbreviation="AMU" and U_ID=1 limit 1), "Richard P. Dilling");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="AMU" and U_ID=1 limit 1), "Melissa Ann Lesbines, Jay C. Jackson");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="AMU" and U_ID=1 limit 1), "Melissa Ann Lesbines, Rodney Thomas Reynerson");
+values ((select ID from department where Abbreviation="AMU" and U_ID=1 limit 1), "Melissa Ann Lesbines");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="AMU" and U_ID=1 limit 1), "Jay C. Jackson");
@@ -287,25 +281,13 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="AMU" and U_ID=1 limit 1), "Joe Frank Phelps");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="AMU" and U_ID=1 limit 1), "Byron Hedgepeth, Jay C. Jackson");
+values ((select ID from department where Abbreviation="AMU" and U_ID=1 limit 1), "Byron Hedgepeth");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="AMU" and U_ID=1 limit 1), "Ronnal Darrant Brendle");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="AMU" and U_ID=1 limit 1), "Robert Joseph Falvo, Richard P. Dilling");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="AMU" and U_ID=1 limit 1), "Melissa Ann Lesbines");
-
-insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="AMU" and U_ID=1 limit 1), "Brooke Anne Hofsess");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="AMU" and U_ID=1 limit 1), "Byron Hedgepeth");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="ARB" and U_ID=1 limit 1), "Saloua Ben Zahra, James Donald Fogelquist");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="ARB" and U_ID=1 limit 1), "Saloua Ben Zahra");
@@ -458,16 +440,10 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="ART" and U_ID=1 limit 1), "James A. Toub");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="ART" and U_ID=1 limit 1), "Gary M. Nemcosky, Scott P. Ludwig");
-
-insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="ART" and U_ID=1 limit 1), "Jody Margaret Servon");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="ART" and U_ID=1 limit 1), "Joshua Daniel White");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="ART" and U_ID=1 limit 1), "Jody Margaret Servon, Mark Linde Nystrom");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="ART" and U_ID=1 limit 1), "Adewale S. Adenle");
@@ -515,10 +491,10 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "James Shaw Barbee");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Brian Kenneth Bonville, Sarah Evelyn Marshburn");
+values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Brian Kenneth Bonville");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Takako Ohashi, Sarah Evelyn Marshburn");
+values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Takako Ohashi");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Kevin Michael Oley");
@@ -533,22 +509,22 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Sarah Evelyn Marshburn");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Hannah Hemingway Freundlich, Sarah Evelyn Marshburn");
+values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Hannah Hemingway Freundlich");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Lauren Kathleen Wood, Sarah Evelyn Marshburn");
+values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Lauren Kathleen Wood");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "David Christian Nielsen, Sarah Evelyn Marshburn");
+values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "David Christian Nielsen");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Julie Anna Ragsdale, Sarah Evelyn Marshburn");
+values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Julie Anna Ragsdale");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Michael Austin Perkins, Sarah Evelyn Marshburn");
+values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Michael Austin Perkins");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Beverly Elyse Russing, Sarah Evelyn Marshburn");
+values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Beverly Elyse Russing");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Michael Windelspecht");
@@ -560,13 +536,7 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Stephanie Coleman McCleneghan");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Stephanie Coleman McCleneghan, Sarah Evelyn Marshburn");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Kevin Michael Oley, Sarah Evelyn Marshburn");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Scott Cory, Sarah Evelyn Marshburn");
+values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Scott Cory");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Gary L. Walker");
@@ -578,43 +548,37 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Ray Stewart Williams");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Benjamin Corbin Moore, Sarah Evelyn Marshburn");
+values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Benjamin Corbin Moore");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Samuel Steven Kovach, Sarah Evelyn Marshburn");
+values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Samuel Steven Kovach");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Catherine Jean Cole, Sarah Evelyn Marshburn");
+values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Catherine Jean Cole");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Blake Edward Sanders, Sarah Evelyn Marshburn");
+values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Blake Edward Sanders");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Audrey Elizabeth Brown, Sarah Evelyn Marshburn");
+values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Audrey Elizabeth Brown");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Charles Brandon Tate, Sarah Evelyn Marshburn");
+values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Charles Brandon Tate");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Michael Scott Huffman, Sarah Evelyn Marshburn");
+values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Michael Scott Huffman");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Michael David Madritch");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Stephanie Coleman McCleneghan, Daniel Chase Parker");
+values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Rene Armando Salinas");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Rene Armando Salinas, Daniel Chase Parker");
+values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Angela Elizabeth Langevin");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Michael David Madritch, Daniel Chase Parker");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Angela Elizabeth Langevin, Sarah Evelyn Marshburn");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "John Anthony Jones, Sarah Evelyn Marshburn");
+values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "John Anthony Jones");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Zack E. Murrell");
@@ -665,9 +629,6 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Robert P. Creed");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Lynn Marie Siefferman, Michael Steven Osbourn");
-
-insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Michael Steven Osbourn");
 
 insert into professor (D_ID, Name)
@@ -675,9 +636,6 @@ values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1),
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Ece Karatan");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Blake Edward Sanders");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Laura Erin England");
@@ -719,9 +677,6 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "William Tray Neilson");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="BIO" and U_ID=1 limit 1), "Audrey Elizabeth Brown");
-
-insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="BUS" and U_ID=1 limit 1), "Rachel D. Keller");
 
 insert into professor (D_ID, Name)
@@ -756,9 +711,6 @@ values ((select ID from department where Abbreviation="B E" and U_ID=1 limit 1),
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="B E" and U_ID=1 limit 1), "Angela Quesenberry Brown");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="B E" and U_ID=1 limit 1), "Randy L. Joyner, Richard Grant Dean");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="B E" and U_ID=1 limit 1), "Edward C. Brewer");
@@ -863,22 +815,16 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="CHE" and U_ID=1 limit 1), "Michael B. Ramey");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="CHE" and U_ID=1 limit 1), "Claudia P. Cartaya-Marin, Patrick Joseph Donoghue");
+values ((select ID from department where Abbreviation="CHE" and U_ID=1 limit 1), "Claudia P. Cartaya-Marin");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="CHE" and U_ID=1 limit 1), "David G. Farrar");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="CHE" and U_ID=1 limit 1), "Arambe Gedara Jayantha Weerasinghe, G V Nepali Rajapakse");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="CHE" and U_ID=1 limit 1), "Carol M. Babyak");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="CHE" and U_ID=1 limit 1), "Christina H. Duffey");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="CHE" and U_ID=1 limit 1), "Claudia P. Cartaya-Marin");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="CHN" and U_ID=1 limit 1), "Wei Xie");
@@ -1337,145 +1283,109 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Monica A. Lambert");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "John Riley Caldwell, Bobby Lee Harkey , James Patrick Harkey , Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "John Riley Caldwell, Bobby Lee Harkey , James Patrick Harkey ");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Charles Keith Beamon, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Charles Keith Beamon");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Wilma Bailey Bisesi, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Wilma Bailey Bisesi");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Sherry Louise Blevins, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Sherry Louise Blevins");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "James Manuel Bradshaw, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "James Manuel Bradshaw");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Martha Nelson Brown, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Martha Nelson Brown");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Steve Burl Bumgarner, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Steve Burl Bumgarner");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "John Riley Caldwell, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "John Riley Caldwell");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Don Aaron Church, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Don Aaron Church");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Beth Dunfee Clark, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Beth Dunfee Clark");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Bonnie Sue Cook, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Bonnie Sue Cook");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Norman Dale Crotts, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Norman Dale Crotts");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Patricia Ellis Edwards, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Patricia Ellis Edwards");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Patricia F. Gibson, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Patricia F. Gibson");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "William H. Gatewood, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "William H. Gatewood");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Victoria Jeanne Grube, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Victoria Jeanne Grube");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Jean Sanders Hampton, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Jean Sanders Hampton");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Bobby Lee Harkey, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Bobby Lee Harkey");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "James Patrick Harkey, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "James Patrick Harkey");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Larry David Harris, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Larry David Harris");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Kathy Ham Howell, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Kathy Ham Howell");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Meg Gilmer Julian, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Meg Gilmer Julian");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "JoAnn Hamilton Laney, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "JoAnn Hamilton Laney");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "David Allen Mikeal, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "David Allen Mikeal");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Jennifer Blythe Moore, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Jennifer Blythe Moore");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Cynthia Mullen Poe, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Cynthia Mullen Poe");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Nancy Robinson Reeves, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Nancy Robinson Reeves");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Olivia G. Riddle, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Olivia G. Riddle");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Larry Thomas Rousseau, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Larry Thomas Rousseau");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Rhonda Lynnette Doss Russell, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Rhonda Lynnette Doss Russell");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Brenda Reeves Sutherland, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Brenda Reeves Sutherland");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Holly Jade Thornton, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Alyssia Joy Ruggiero");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Alyssia Joy Ruggiero, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Brooke Lee Hardin");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Brooke Lee Hardin, Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Anita Dawn Brendle-Corum");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Anita Dawn Brendle-Corum, Monica A. Lambert");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Mary Jo Forde, Monica A. Lambert");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Monica A. Lambert, Holly Jade Thornton");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Monica A. Lambert, Herbert F. Brown");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Monica A. Lambert, Rhonda Lynnette Doss Russell");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Robert Raymond Heath, Monica A. Lambert");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Monica A. Lambert, Larry David Harris");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Monica A. Lambert, James Patrick Harkey");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Monica A. Lambert, Bobby Lee Harkey");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Monica A. Lambert, Jean Sanders Hampton");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Monica A. Lambert, John Riley Caldwell");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Monica A. Lambert, Steve Burl Bumgarner");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Monica A. Lambert, James Manuel Bradshaw");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Mary Jo Forde");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Daniel I. von Briesen");
@@ -1533,15 +1443,6 @@ values ((select ID from department where Abbreviation="DAN" and U_ID=1 limit 1),
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="DAN" and U_ID=1 limit 1), "Marianne Adams");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="DAN" and U_ID=1 limit 1), "Emily Elizabeth Daughtridge, Sherone Devone Price");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="DAN" and U_ID=1 limit 1), "Sherone Devone Price, Emily Elizabeth Daughtridge");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="DAN" and U_ID=1 limit 1), "Marianne Adams, Lauren Elizabeth Atkins");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="ECO" and U_ID=1 limit 1), "David L. Dickinson");
@@ -1841,19 +1742,13 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="ENG" and U_ID=1 limit 1), "Janet K. Beck");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="ENG" and U_ID=1 limit 1), "Catherine Elaine Talley, Amanda Elledge Finn");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="ENG" and U_ID=1 limit 1), "Catherine Elaine Talley, John Cole Wahab");
+values ((select ID from department where Abbreviation="ENG" and U_ID=1 limit 1), "Catherine Elaine Talley");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="ENG" and U_ID=1 limit 1), "Betty Miller Conway");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="ENG" and U_ID=1 limit 1), "Sharon Alusow Hart");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="ENG" and U_ID=1 limit 1), "Catherine Elaine Talley, Hailie Marie Bryant");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="ENG" and U_ID=1 limit 1), "Jon C. Pope");
@@ -2039,7 +1934,7 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="ENG" and U_ID=1 limit 1), "Glenn Arden Bruce");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="ENG" and U_ID=1 limit 1), "Jean L. DeHart, David Lynn Coulson");
+values ((select ID from department where Abbreviation="ENG" and U_ID=1 limit 1), "Jean L. DeHart");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="ENG" and U_ID=1 limit 1), "Susan C. Staub");
@@ -2124,9 +2019,6 @@ values ((select ID from department where Abbreviation="E S" and U_ID=1 limit 1),
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="E S" and U_ID=1 limit 1), "Alan C. Utter");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="E S" and U_ID=1 limit 1), "Jeffrey M. McBride, Edward Kelly Merritt");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="E S" and U_ID=1 limit 1), "Jennifer Janine Zwetsloot");
@@ -2576,9 +2468,6 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="H E" and U_ID=1 limit 1), "Hunter R. Boylan");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="H E" and U_ID=1 limit 1), "Anthony Paul Jones, Terry Wayne McClannon");
-
-insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="H E" and U_ID=1 limit 1), "Terry Wayne McClannon");
 
 insert into professor (D_ID, Name)
@@ -2714,7 +2603,7 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="HON" and U_ID=1 limit 1), "Michael W. Dale");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="HON" and U_ID=1 limit 1), "Cindy Norris, James B. Fenwick");
+values ((select ID from department where Abbreviation="HON" and U_ID=1 limit 1), "Cindy Norris");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="HON" and U_ID=1 limit 1), "Jesse Dylon Pipes");
@@ -2817,9 +2706,6 @@ values ((select ID from department where Abbreviation="HON" and U_ID=1 limit 1),
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="HON" and U_ID=1 limit 1), "Roy Johnson McCraw");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="HON" and U_ID=1 limit 1), "Leslie Sargent Jones, Angela Dawn Mead");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="HON" and U_ID=1 limit 1), "Rebecca Hutchins");
@@ -2930,7 +2816,7 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="HPC" and U_ID=1 limit 1), "Jean H. Roberts");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="HPC" and U_ID=1 limit 1), "Kimberly Lee Mitchell, Ellen Paget Hartman");
+values ((select ID from department where Abbreviation="HPC" and U_ID=1 limit 1), "Kimberly Lee Mitchell");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="HPC" and U_ID=1 limit 1), "Augusto E. Pena");
@@ -2939,7 +2825,7 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="HPC" and U_ID=1 limit 1), "Heather Jo Mashburn");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="HPC" and U_ID=1 limit 1), "Berardino J. DiBernardi, Cindy A. Wallace");
+values ((select ID from department where Abbreviation="HPC" and U_ID=1 limit 1), "Berardino J. DiBernardi");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="HPC" and U_ID=1 limit 1), "Geraldine Alice Miller");
@@ -2993,7 +2879,7 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="HPC" and U_ID=1 limit 1), "Harold Van McKinney");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="HPC" and U_ID=1 limit 1), "Marianne Adams, Lauren Elizabeth Atkins");
+values ((select ID from department where Abbreviation="HPC" and U_ID=1 limit 1), "Marianne Adams");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="HPC" and U_ID=1 limit 1), "Melia Ann Kizer");
@@ -3194,19 +3080,13 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="LLC" and U_ID=1 limit 1), "Jeffrey Keyes Eastman");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="LLC" and U_ID=1 limit 1), "Saloua Ben Zahra, James Donald Fogelquist");
+values ((select ID from department where Abbreviation="LLC" and U_ID=1 limit 1), "Saloua Ben Zahra");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="LLC" and U_ID=1 limit 1), "James Donald Fogelquist");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="LLC" and U_ID=1 limit 1), "Saloua Ben Zahra");
-
-insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="LLC" and U_ID=1 limit 1), "Sarah Elizabeth Miller");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="LLC" and U_ID=1 limit 1), "Catherine Anne Fountain, Carmen Leigh Scoggins");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="LLC" and U_ID=1 limit 1), "Melvin Jacob Ballard");
@@ -3305,7 +3185,7 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="MGT" and U_ID=1 limit 1), "Mark Oliver Lewis");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="MGT" and U_ID=1 limit 1), "Richard D. Cotton, Jacqueline Zelno Bergman");
+values ((select ID from department where Abbreviation="MGT" and U_ID=1 limit 1), "Richard D. Cotton");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="MGT" and U_ID=1 limit 1), "B. Dawn Medlin");
@@ -3339,9 +3219,6 @@ values ((select ID from department where Abbreviation="MGT" and U_ID=1 limit 1),
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="MGT" and U_ID=1 limit 1), "Jacqueline Zelno Bergman");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="MGT" and U_ID=1 limit 1), "Richard D. Cotton");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="MGT" and U_ID=1 limit 1), "Betty S. Coffey");
@@ -3473,7 +3350,7 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="MBA" and U_ID=1 limit 1), "Timothy James Bailey");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="MBA" and U_ID=1 limit 1), "Steven Austin Jesseph, Sandra Ann Vannoy");
+values ((select ID from department where Abbreviation="MBA" and U_ID=1 limit 1), "Steven Austin Jesseph");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="MBA" and U_ID=1 limit 1), "Kennon Alexander White");
@@ -3656,19 +3533,16 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="MSL" and U_ID=1 limit 1), "Tom Cai");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="MSL" and U_ID=1 limit 1), "Jeremy Daniel Stout, Tom Cai");
+values ((select ID from department where Abbreviation="MSL" and U_ID=1 limit 1), "Jeremy Daniel Stout");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="MSL" and U_ID=1 limit 1), "Christopher Minter, Micah Hawthorne");
+values ((select ID from department where Abbreviation="MSL" and U_ID=1 limit 1), "Christopher Minter");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="MSL" and U_ID=1 limit 1), "Micah Hawthorne");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="MSL" and U_ID=1 limit 1), "David Wayne Cox");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="MSL" and U_ID=1 limit 1), "David Wayne Cox, Mark A. Herlick");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Andrew Charles Hannon");
@@ -3695,7 +3569,7 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "William Henry Witcher");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Eric Edward Koontz, Kenneth P. Lurie");
+values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Eric Edward Koontz");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Jay C. Jackson");
@@ -3767,19 +3641,13 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Alicia Mary Chapman");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Eric Edward Koontz");
-
-insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Nancy Elizabeth Bargerstock");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Byron Hedgepeth");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "James Mitchell Stokes, Drew Clifton Leslie");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Karen Lee Robertson, James Mitchell Stokes");
+values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Karen Lee Robertson");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Bernard Hampton Flythe");
@@ -3860,9 +3728,6 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Victor N. Mansure");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "John Stanley Ross, Jay C. Jackson");
-
-insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Sondra Cash Edwards");
 
 insert into professor (D_ID, Name)
@@ -3881,19 +3746,13 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Elizabeth Reeves Shulstad");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Douglas G. James, Gary Rice Boye");
-
-insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Joseph L. Amaya");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Susan Wilson Mills");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Gary Rice Boye, Laurie R. Semmes , Kim L. Wangler");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Katurah Ruth Christenbury, Jay C. Jackson");
+values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Gary Rice Boye, Laurie R. Semmes ");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Mary Gayle Greene");
@@ -3926,25 +3785,10 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Linda S. Johanson");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Wendy Elizabeth Miller, Angie Mabe Koontz");
+values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Wendy Elizabeth Miller, Dana Elisabeth Brackney ");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Wendy Elizabeth Miller, Cynthia R. Attaway");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Wendy Elizabeth Miller, Tyia Dawson");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Wendy Elizabeth Miller, Dana Elisabeth Brackney");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Wendy Elizabeth Miller, Dana Elisabeth Brackney , Tyia Dawson");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Wendy Elizabeth Miller, Cynthia R. Attaway , Dana Elisabeth Brackney");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Wendy Elizabeth Miller, Dana Elisabeth Brackney , Angie Mabe Koontz");
+values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Wendy Elizabeth Miller, Cynthia R. Attaway ");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Cynthia R. Attaway");
@@ -3959,40 +3803,13 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Susan Hayes Lane");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Kimberly Slone Priode, Angie Mabe Koontz");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Cynthia R. Attaway, Kimberly Slone Priode");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Kimberly Slone Priode, Cynthia R. Attaway");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Susan Hayes Lane, Angie Mabe Koontz");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Susan Hayes Lane, Cynthia R. Attaway");
-
-insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Tyia Dawson");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Elizabeth Ann Fiske, Nancy Joan Pearson");
+values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Phoebe Ann Pollitt, Dana Elisabeth Brackney ");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Elizabeth Ann Fiske, Teresa Thornburg Carnevale");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Elizabeth Ann Fiske, Nancy Prior Bennett");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Susan Hayes Lane, Dana Elisabeth Brackney");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Phoebe Ann Pollitt, Dana Elisabeth Brackney , Susan Hayes Lane");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Susan Hayes Lane, Dana Elisabeth Brackney , Angie Mabe Koontz");
+values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Susan Hayes Lane, Dana Elisabeth Brackney ");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="NUT" and U_ID=1 limit 1), "Melissa Mullinix Bryan");
@@ -4130,9 +3947,6 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "George J.E. Pelsmaeker");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Regina Greene Pelsmaeker, George J.E. Pelsmaeker");
-
-insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Regina Greene Pelsmaeker");
 
 insert into professor (D_ID, Name)
@@ -4151,13 +3965,10 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Robert David Shack");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Michael Temple Boone, Edgar Lyman Peck");
+values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Michael Temple Boone");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Paul Alan Stahlschmidt");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Andrew W. Hawley, Edgar Lyman Peck");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Pamela Suzette Greene");
@@ -4184,7 +3995,7 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Joseph Aaron Boitnotte");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Michael Quinn Darling, Joseph Scott Townsend");
+values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Michael Quinn Darling");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Shannon Dee Shanely");
@@ -4193,22 +4004,13 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Rebekah Hope Sarbone");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Edgar Lyman Peck, Joseph Scott Townsend");
-
-insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Bryan Kenneth Bender");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Joseph Aaron Boitnotte, Joseph Scott Townsend");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Ron G. Forster");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Rebecca King Woolard");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Pamela Suzette Greene, Joseph Scott Townsend");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "James A. Cottrell");
@@ -4229,16 +4031,10 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Elizabeth Ann Matthews");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Elizabeth Ann Matthews, Joseph Scott Townsend");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Candace Nicole Shelton, Joseph Scott Townsend");
+values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Candace Nicole Shelton");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Mary Powell Williams");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Candace Nicole Shelton");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="PHY" and U_ID=1 limit 1), "Patricia Elaine Allen");
@@ -4260,9 +4056,6 @@ values ((select ID from department where Abbreviation="PHY" and U_ID=1 limit 1),
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="PHY" and U_ID=1 limit 1), "Carla SanGiovanni Ramsdell");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PHY" and U_ID=1 limit 1), "Tyler Wesley Foley, John Edward Cockman");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="PHY" and U_ID=1 limit 1), "Francois Amet");
@@ -4301,12 +4094,6 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="PHY" and U_ID=1 limit 1), "Bradley Gardner Johnson");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PHY" and U_ID=1 limit 1), "Richard W. Genberg, Brad Richard Conrad");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PHY" and U_ID=1 limit 1), "Brad Richard Conrad, Richard W. Genberg");
-
-insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="PHY" and U_ID=1 limit 1), "Richard W. Genberg");
 
 insert into professor (D_ID, Name)
@@ -4319,7 +4106,7 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="PHY" and U_ID=1 limit 1), "Phillip Eugene Russell");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PHY" and U_ID=1 limit 1), "Phillip Eugene Russell, Francois Amet , Brad Richard Conrad");
+values ((select ID from department where Abbreviation="PHY" and U_ID=1 limit 1), "Phillip Eugene Russell, Francois Amet ");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="PHY" and U_ID=1 limit 1), "Daniel B. Caton");
@@ -4412,10 +4199,7 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="P S" and U_ID=1 limit 1), "Carrie Blanchard Bush");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="P S" and U_ID=1 limit 1), "Phillip J. Ardoin, Paul William Gronke");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="P S" and U_ID=1 limit 1), "Paul William Gronke, Phillip J. Ardoin");
+values ((select ID from department where Abbreviation="P S" and U_ID=1 limit 1), "Paul William Gronke");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="P S" and U_ID=1 limit 1), "Len Doughton Hagaman");
@@ -4424,13 +4208,10 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="P S" and U_ID=1 limit 1), "Mona R. Brandon");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="P S" and U_ID=1 limit 1), "Adam J. Newmark, William David Hicks");
-
-insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="P S" and U_ID=1 limit 1), "Mark Daniel Bradbury");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="P S" and U_ID=1 limit 1), "Laura Elizabeth K. Newmark, Phillip J. Ardoin");
+values ((select ID from department where Abbreviation="P S" and U_ID=1 limit 1), "Laura Elizabeth K. Newmark");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="POR" and U_ID=1 limit 1), "Brent Alan James");
@@ -4526,18 +4307,6 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "James R. Deni");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Lindsay Caitlin Masland, Jill Walker Holmes");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Pamela Kidder Ashley, Jill Walker Holmes");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Sandra G. Gagnon, Jill Walker Holmes");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "James R. Deni, Jill Walker Holmes");
-
-insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Christopher Andrew Dickinson");
 
 insert into professor (D_ID, Name)
@@ -4545,15 +4314,6 @@ values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1),
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Andrew Robert Smith");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Andrew Robert Smith, Jeffrey Chase Hood");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Christopher Andrew Dickinson, Melissa Ann Baker");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Shawn Bergman, John Thomas Misenheimer");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Verne R. Bacharach");
@@ -4607,16 +4367,10 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "David L. Dickinson");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Hall P. Beck, Holly Elizabeth Brugger");
-
-insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Holly Elizabeth Brugger");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Hannah Lee Childs");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Douglas A. Waring, Hannah Lee Childs");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "John Paul Jameson");
@@ -4625,25 +4379,7 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Christopher M. Curtin");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Kenneth M. Steele, Stanley R. Aeschleman");
-
-insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Edward A. Konarski");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Paul A. Fox, Robyn Lindsey Kondrad");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Paul A. Fox, Amy T. Galloway");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Kenneth M. Steele, Douglas A. Waring");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Doris G. Bazzini, Rose Mary Webb");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Amy T. Galloway, Mark C. Zrull");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "James William Westerman");
@@ -4727,22 +4463,13 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="R E" and U_ID=1 limit 1), "Brooke Lee Hardin");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="R E" and U_ID=1 limit 1), "Judy Kay Nofrey, Devery Mock Ward");
+values ((select ID from department where Abbreviation="R E" and U_ID=1 limit 1), "Judy Kay Nofrey");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="R E" and U_ID=1 limit 1), "Devery Mock Ward, Amy R. Miller");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="R E" and U_ID=1 limit 1), "Amy R. Miller, Devery Mock Ward");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="R E" and U_ID=1 limit 1), "Devery Mock Ward, Judy Kay Nofrey");
+values ((select ID from department where Abbreviation="R E" and U_ID=1 limit 1), "Amy R. Miller");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="R E" and U_ID=1 limit 1), "David A. Koppenhaver");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="R E" and U_ID=1 limit 1), "Robert C. Schlagal, Woodrow R. Trathen");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="R E" and U_ID=1 limit 1), "Woodrow R. Trathen");
@@ -5024,9 +4751,6 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="SOC" and U_ID=1 limit 1), "Bradley Nash");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="SOC" and U_ID=1 limit 1), "James Peacock, Amy Dellinger Page");
-
-insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="SOC" and U_ID=1 limit 1), "James Peacock");
 
 insert into professor (D_ID, Name)
@@ -5180,25 +4904,7 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="SPE" and U_ID=1 limit 1), "Jennifer Nicole Woods");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="SPE" and U_ID=1 limit 1), "Susan M. Pogoloff, Shari Lynn Smiley");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="SPE" and U_ID=1 limit 1), "Clara S. Hollar, Monica A. Lambert");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="SPE" and U_ID=1 limit 1), "Wilma Bailey Bisesi, Monica A. Lambert");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="SPE" and U_ID=1 limit 1), "Ronald Ivan Henries, Monica A. Lambert");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="SPE" and U_ID=1 limit 1), "Elin Meyers Hoffman, Monica A. Lambert");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="SPE" and U_ID=1 limit 1), "Debra Bradley Norville, Monica A. Lambert");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="SPE" and U_ID=1 limit 1), "Joni H. Salzano, Monica A. Lambert");
+values ((select ID from department where Abbreviation="SPE" and U_ID=1 limit 1), "Wilma Bailey Bisesi");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="SPE" and U_ID=1 limit 1), "Monica A. Lambert");
@@ -5480,9 +5186,6 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="TEC" and U_ID=1 limit 1), "Richard Anthony Elaver");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="TEC" and U_ID=1 limit 1), "David Jason Miller, Andrew Winsome Windham");
-
-insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="THR" and U_ID=1 limit 1), "John Thomas Marty");
 
 insert into professor (D_ID, Name)
@@ -5495,10 +5198,7 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="THR" and U_ID=1 limit 1), "Paulette Jean Wojtalewicz Marty");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="THR" and U_ID=1 limit 1), "Sue Simpson Williams, Michael Louis Helms");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="THR" and U_ID=1 limit 1), "Sue Simpson Williams, John Thomas Marty");
+values ((select ID from department where Abbreviation="THR" and U_ID=1 limit 1), "Sue Simpson Williams");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="THR" and U_ID=1 limit 1), "Susan Dean Gilbert");
@@ -5522,9 +5222,6 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="THR" and U_ID=1 limit 1), "Martha A. Marking");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="THR" and U_ID=1 limit 1), "Sue Simpson Williams");
-
-insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="THR" and U_ID=1 limit 1), "Gordon Ashley Hensley");
 
 insert into professor (D_ID, Name)
@@ -5537,9 +5234,6 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="THR" and U_ID=1 limit 1), "Michael Louis Helms");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="THR" and U_ID=1 limit 1), "John Thomas Marty, Sue Simpson Williams");
-
-insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="THR" and U_ID=1 limit 1), "Keith Tucker Martin");
 
 insert into professor (D_ID, Name)
@@ -5547,9 +5241,6 @@ values ((select ID from department where Abbreviation="THR" and U_ID=1 limit 1),
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="THR" and U_ID=1 limit 1), "Teresa E. Lee");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="THR" and U_ID=1 limit 1), "Teresa E. Lee, Derek P. Gagnier");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="THR" and U_ID=1 limit 1), "Glenn Arden Bruce");
@@ -5624,7 +5315,7 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="UCO" and U_ID=1 limit 1), "Mark C. Zrull");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="UCO" and U_ID=1 limit 1), "Jessica Wood, Raphael Francis Miller");
+values ((select ID from department where Abbreviation="UCO" and U_ID=1 limit 1), "Jessica Wood");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="UCO" and U_ID=1 limit 1), "Nicholas Sean Rudisill");
@@ -5786,9 +5477,6 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="U S" and U_ID=1 limit 1), "Geraldine M. Purpur");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="U S" and U_ID=1 limit 1), "Megan Johnson, Kelly Christine McCallister");
-
-insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="U S" and U_ID=1 limit 1), "Kelly Christine McCallister");
 
 insert into professor (D_ID, Name)
@@ -5867,7 +5555,7 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="ART" and U_ID=1 limit 1), "Jeana Eve Klein");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="CHE" and U_ID=1 limit 1), "Carol M. Babyak (P), Megen Ann Culpepper");
+values ((select ID from department where Abbreviation="CHE" and U_ID=1 limit 1), "Carol M. Babyak ");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="PHO" and U_ID=1 limit 1), "Brian Eric Bookwalter");
@@ -5894,10 +5582,10 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Jerianne S. Taylor");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Victoria Jeanne Grube (P), Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Victoria Jeanne Grube ");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Alyssia Joy Ruggiero (P), Monica A. Lambert");
+values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Alyssia Joy Ruggiero ");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="C I" and U_ID=1 limit 1), "Patrick Michael O'Shea");
@@ -5942,10 +5630,10 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="E S" and U_ID=1 limit 1), "Rebecca Marie Kappus");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="E S" and U_ID=1 limit 1), "Kevin Allen Zwetsloot (P), Robert Andrew Shanely");
+values ((select ID from department where Abbreviation="E S" and U_ID=1 limit 1), "Kevin Allen Zwetsloot ");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="FER" and U_ID=1 limit 1), "Seth Daniel Cohen (P), Stephan Sommer");
+values ((select ID from department where Abbreviation="FER" and U_ID=1 limit 1), "Seth Daniel Cohen ");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="GWS" and U_ID=1 limit 1), "Sushmita Chatterjee");
@@ -6023,16 +5711,16 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="HON" and U_ID=1 limit 1), "Christoffel J. den Biggelaar");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="HON" and U_ID=1 limit 1), "Caroline Jane Smith (P), Edward Kelly Merritt");
+values ((select ID from department where Abbreviation="HON" and U_ID=1 limit 1), "Caroline Jane Smith ");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="HON" and U_ID=1 limit 1), "Susan E. Keefe");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="HON" and U_ID=1 limit 1), "Ellen Meredith Key (P), William David Hicks");
+values ((select ID from department where Abbreviation="HON" and U_ID=1 limit 1), "Ellen Meredith Key ");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="HON" and U_ID=1 limit 1), "Leslie Sargent Jones (P), Angela Dawn Mead");
+values ((select ID from department where Abbreviation="HON" and U_ID=1 limit 1), "Leslie Sargent Jones ");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="HOS" and U_ID=1 limit 1), "Sandra Ann Vannoy");
@@ -6071,49 +5759,43 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="MSL" and U_ID=1 limit 1), "Mark A. Herlick");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Eric Edward Koontz (P), Kenneth P. Lurie");
+values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Eric Edward Koontz ");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "James Mitchell Stokes (P), Drew Clifton Leslie");
+values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "James Mitchell Stokes ");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Gary Rice Boye (P), Laurie R. Semmes , Kim L. Wangler");
+values ((select ID from department where Abbreviation="MUS" and U_ID=1 limit 1), "Gary Rice Boye ");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Wendy Elizabeth Miller (P), Angie Mabe Koontz");
+values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Wendy Elizabeth Miller ");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Wendy Elizabeth Miller (P), Cynthia R. Attaway");
+values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Teresa Thornburg Carnevale ");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Wendy Elizabeth Miller (P), Tyia Dawson");
+values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Elizabeth Ann Fiske ");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Teresa Thornburg Carnevale (P), Angie Mabe Koontz");
+values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Edgar Lyman Peck ");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="NUR" and U_ID=1 limit 1), "Elizabeth Ann Fiske (P), Teresa Thornburg Carnevale");
+values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Joseph Aaron Boitnotte ");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Edgar Lyman Peck (P), Joseph Scott Townsend");
+values ((select ID from department where Abbreviation="PHY" and U_ID=1 limit 1), "Michael Marshall Briley ");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="P E" and U_ID=1 limit 1), "Joseph Aaron Boitnotte (P), Joseph Scott Townsend");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PHY" and U_ID=1 limit 1), "Michael Marshall Briley (P), John Edward Cockman");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PHY" and U_ID=1 limit 1), "John Edward Cockman (P), Michael Marshall Briley");
+values ((select ID from department where Abbreviation="PHY" and U_ID=1 limit 1), "John Edward Cockman ");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="PHY" and U_ID=1 limit 1), "David John Sitar");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PHY" and U_ID=1 limit 1), "Phillip Eugene Russell (P), Francois Amet");
+values ((select ID from department where Abbreviation="PHY" and U_ID=1 limit 1), "Phillip Eugene Russell ");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PHY" and U_ID=1 limit 1), "Francois Amet (P), Phillip Eugene Russell");
+values ((select ID from department where Abbreviation="PHY" and U_ID=1 limit 1), "Francois Amet ");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="PLN" and U_ID=1 limit 1), "Elizabeth D. Shay");
@@ -6122,7 +5804,7 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="P S" and U_ID=1 limit 1), "Kevin John Mullinix");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="P S" and U_ID=1 limit 1), "William David Hicks (P), Ellen Meredith Key");
+values ((select ID from department where Abbreviation="P S" and U_ID=1 limit 1), "William David Hicks ");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="POM" and U_ID=1 limit 1), "Sandra Ann Vannoy");
@@ -6131,13 +5813,13 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Mathew Greg Fetzner");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Lindsay Caitlin Masland (P), Pamela Kidder Ashley , James R. Deni , Jamie Yarbrough Fearrington");
+values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Lindsay Caitlin Masland ");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Andrew Elliott Monroe");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Paul A. Fox (P), Robyn Lindsey Kondrad");
+values ((select ID from department where Abbreviation="PSY" and U_ID=1 limit 1), "Paul A. Fox ");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="R E" and U_ID=1 limit 1), "Beth Anne Buchholz");
@@ -6164,13 +5846,10 @@ insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="SOC" and U_ID=1 limit 1), "Kelly Michelle Thames");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="THR" and U_ID=1 limit 1), "Sue Simpson Williams (P), John Thomas Marty");
+values ((select ID from department where Abbreviation="THR" and U_ID=1 limit 1), "Sue Simpson Williams ");
 
 insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="THR" and U_ID=1 limit 1), "Sue Simpson Williams (P), Michael Louis Helms");
-
-insert into professor (D_ID, Name)
-values ((select ID from department where Abbreviation="THR" and U_ID=1 limit 1), "John Thomas Marty (P), Martha A. Marking");
+values ((select ID from department where Abbreviation="THR" and U_ID=1 limit 1), "John Thomas Marty ");
 
 insert into professor (D_ID, Name)
 values ((select ID from department where Abbreviation="UCO" and U_ID=1 limit 1), "Michael L. Krenn");
