@@ -2065,7 +2065,7 @@ C I,4810,102,(INTRO TO SIGHT & SOUND),Jeffrey Martin Goodman
 C I,4825,101,(NON-FICTION FILM AND VIDEO),Jeffrey Martin Goodman
 C I,4840,101,(BEGINNING VIDEO PRODUCTION),John Adam Henson
 C I,4900,101,(STUDENT TEACHING),Monica A. Lambert
-C I,4900,102,(STUDENT TEACHING),John Riley Caldwell, Bobby Lee Harkey , James Patrick Harkey 
+C I,4900,102,(STUDENT TEACHING),John Riley Caldwell, Bobby Lee Harkey , James Patrick Harkey
 C I,4900,103,(STUDENT TEACHING),Charles Keith Beamon
 C I,4900,104,(STUDENT TEACHING),Wilma Bailey Bisesi
 C I,4900,105,(STUDENT TEACHING),Sherry Louise Blevins
@@ -3953,7 +3953,7 @@ MUS,5050,101,(SUPV & COLL TCH MUS THERAPY),Christine Pollard Leist
 MUS,5051,101,(ADV TOPICS IN MUSIC THERAPY),Cathy Harbison McKinney
 MUS,5100,101,(PERFORMANCE ENSEMBLE),Jennifer Sterling Snodgrass
 MUS,5160,101,(CONDUCTING SEMINAR),John Stanley Ross
-MUS,5170,101,(PROF & SCHOL PRACT MUSICIANS),Gary Rice Boye, Laurie R. Semmes 
+MUS,5170,101,(PROF & SCHOL PRACT MUSICIANS),Gary Rice Boye, Laurie R. Semmes
 MUS,5200,101,(MUSIC THERAPY LAB),Katurah Ruth Christenbury
 MUS,5500,102,(PERCUSSION FOR MUSIC THERAPY),Robert Joseph Falvo
 MUS,5500,103,(MUSIC IN GIM),Cathy Harbison McKinney
@@ -4299,7 +4299,7 @@ PHY,4620,201,(Laboratory),James Patrick Sherman
 PHY,4730,101,(ANALOG SYSTEMS),Bradley Gardner Johnson
 PHY,4730,201,(Laboratory),Bradley Gardner Johnson
 PHY,4860,101,(PHYSCL PRNCPLS ELCTRN MICRSCPY),Phillip Eugene Russell
-PHY,4861,101,(PHYSCL PRNPLS ELCN MCRSCPY LAB),Phillip Eugene Russell, Francois Amet 
+PHY,4861,101,(PHYSCL PRNPLS ELCN MCRSCPY LAB),Phillip Eugene Russell, Francois Amet
 PHY,5002,101,(APPLIED PHYSICS LITERAT),Patricia Elaine Allen
 PHY,5010,101,(APPL PHYSICS COLLOQUIUM),James Patrick Sherman
 PHY,5020,101,(COMPUT METH PHY/ENGINEERING),Richard O. Gray
@@ -4325,7 +4325,7 @@ PHY,5620,202,(Laboratory),James Patrick Sherman
 PHY,5730,101,(ANALOG SYSTEMS),Bradley Gardner Johnson
 PHY,5730,201,(Laboratory),Bradley Gardner Johnson
 PHY,5860,101,(PHYSCL PRNCPLS ELCTRN MICRSCPY),Phillip Eugene Russell
-PHY,5861,101,(PHYSCL PRNPLS ELCN MCRSCPY LAB),Phillip Eugene Russell, Francois Amet 
+PHY,5861,101,(PHYSCL PRNPLS ELCN MCRSCPY LAB),Phillip Eugene Russell, Francois Amet
 PHY,5900,101,(INTERNSHIP),Jennifer Leigh Burris
 PHY,5900,102,(INTERNSHIP),Jennifer Leigh Burris
 PHY,5910,101,(PROFESSIONL SCIENCE COLLOQUIUM),Jennifer Leigh Burris
