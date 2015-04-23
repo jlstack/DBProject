@@ -52,8 +52,8 @@ CREATE TABLE section(
 CREATE TABLE resource(
 
   ID INT NOT NULL PRIMARY KEY ,
-  Description BLOB,
-  Path BLOB NOT NULL,
+  Description VARCHAR(255),
+  Path VARCHAR(255) NOT NULL,
   Upload_Date DATE NOT NULL,
   S_ID INT NOT NULL,
   FOREIGN KEY (S_ID) REFERENCES section(ID)
